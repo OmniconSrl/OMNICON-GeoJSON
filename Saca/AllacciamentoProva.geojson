@@ -1,0 +1,49 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9592917176217,
+                    41.9757531325532,
+                    0
+                ]
+            },
+            "properties": {
+                "FID": 15091,
+                "TIPO": "ALLACCIAMENTO",
+                "DEMOPERA": " ",
+                "FOTO": " ",
+                "QUOTA": 0,
+                "VIA": " ",
+                "COPERTURA": "ASFALTO",
+                "CHIUSINO": "GHISA",
+                "DIM_CHIUS": " ",
+                "NOTE_": " ",
+                "DIAMETRO": " ",
+                "CODICE": " ",
+                "Z_CHGCODE": 0,
+                "PREV": "0032614373501000",
+                "NEXT": "0",
+                "MATERIALE": " ",
+                "TIPOLOGICO": 1,
+                "DIAMETRO1": 0,
+                "DIAMETRO2": 0,
+                "ANGOLO": 150.42,
+                "DATAMODIF": 20131126,
+                "ID": "0050783353901000",
+                "PATH": " ",
+                "MODELLO": " ",
+                "COMUNE": " ",
+                "COD_ISTAT": 0,
+                "OPERATORE": null,
+                "ANNOTAZION": null,
+                "ACCESSO": null,
+                "DENOM": null,
+                "DATA_RIL": null
+            }
+        }
+    ]
+}
