@@ -1,0 +1,99 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "id": 7779,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9280667480707,
+                    42.0431579203152
+                ]
+            },
+            "properties": {
+                "FID": 7779,
+                "TIPO": "DISTRIBUZIONE",
+                "DEMOPERA": " ",
+                "FOTO": " ",
+                "QUOTA": 0,
+                "VIA": "VIALE MAZZINI GIUSEPPE",
+                "COPERTURA": "ASFALTO",
+                "CHIUSINO": " ",
+                "DIM_CHIUS": " ",
+                "NOTE_": " ",
+                "DIAMETRO": "50",
+                "CODICE": " ",
+                "Z_CHGCODE": null,
+                "PREV": "0032503857716000",
+                "NEXT": "0032503867006000",
+                "MATERIALE": "PE",
+                "TIPOLOGICO": 101,
+                "DIAMETRO1": 0,
+                "DIAMETRO2": 0,
+                "ANGOLO": 0,
+                "DATAMODIF": 20240429,
+                "ID": "0032503844257000",
+                "PATH": " ",
+                "MODELLO": "http://integragis/ato3peligno/modellazionetr.asp?cod_tr=0032503844257000",
+                "COMUNE": "SULMONA",
+                "COD_ISTAT": 66098,
+                "OPERATORE": "W.E.E. srl",
+                "ANNOTAZION": "MATERIALE MODIFICATO",
+                "ACCESSO": " ",
+                "DENOM": " ",
+                "DATA_RIL": "20240110"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7780,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9280695286645,
+                    42.0431561872909
+                ]
+            },
+            "properties": {
+                "FID": 7780,
+                "TIPO": "DISTRIBUZIONE",
+                "DEMOPERA": " ",
+                "FOTO": " ",
+                "QUOTA": 0,
+                "VIA": "VIALE MAZZINI GIUSEPPE",
+                "COPERTURA": "ASFALTO",
+                "CHIUSINO": " ",
+                "DIM_CHIUS": " ",
+                "NOTE_": " ",
+                "DIAMETRO": "50",
+                "CODICE": " ",
+                "Z_CHGCODE": null,
+                "PREV": "0032503857716000",
+                "NEXT": "0032503867006000",
+                "MATERIALE": "PE",
+                "TIPOLOGICO": 101,
+                "DIAMETRO1": 0,
+                "DIAMETRO2": 0,
+                "ANGOLO": 0,
+                "DATAMODIF": 20240429,
+                "ID": "0032503844257000",
+                "PATH": " ",
+                "MODELLO": "http://integragis/ato3peligno/modellazionetr.asp?cod_tr=0032503844257000",
+                "COMUNE": "SULMONA",
+                "COD_ISTAT": 66098,
+                "OPERATORE": "W.E.E. srl",
+                "ANNOTAZION": "MATERIALE MODIFICATO",
+                "ACCESSO": " ",
+                "DENOM": " ",
+                "DATA_RIL": "20240110"
+            }
+        }
+    ]
+}

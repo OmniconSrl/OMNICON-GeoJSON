@@ -1,0 +1,99 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "id": 5514,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8655180801856,
+                    42.078096010924
+                ]
+            },
+            "properties": {
+                "FID": 5514,
+                "TIPO": "MANOMETRO TRADIZIONALE",
+                "DEMOPERA": " ",
+                "FOTO": " ",
+                "QUOTA": 0,
+                "VIA": "SP 10",
+                "COPERTURA": "ASFALTO",
+                "CHIUSINO": "NULL",
+                "DIM_CHIUS": " ",
+                "NOTE_": "VALVOLA A SFERA APERTA",
+                "DIAMETRO": " ",
+                "CODICE": " ",
+                "Z_CHGCODE": null,
+                "PREV": " ",
+                "NEXT": " ",
+                "MATERIALE": "ACCIAIO",
+                "TIPOLOGICO": 0,
+                "DIAMETRO1": 15,
+                "DIAMETRO2": 0,
+                "ANGOLO": 0,
+                "DATAMODIF": 20240502,
+                "ID": " ",
+                "PATH": " ",
+                "MODELLO": " ",
+                "COMUNE": "PRATOLA PELIGNA",
+                "COD_ISTAT": 66075,
+                "OPERATORE": "IMPRESA ROSSI LUIGI SRL",
+                "ANNOTAZION": "MODIFICATO",
+                "ACCESSO": " ",
+                "DENOM": " ",
+                "DATA_RIL": "20240417"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5516,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8655323922722,
+                    42.0781069600554
+                ]
+            },
+            "properties": {
+                "FID": 5516,
+                "TIPO": "MANOMETRO TRADIZIONALE",
+                "DEMOPERA": " ",
+                "FOTO": " ",
+                "QUOTA": 0,
+                "VIA": "SP 10",
+                "COPERTURA": "ASFALTO",
+                "CHIUSINO": "NULL",
+                "DIM_CHIUS": " ",
+                "NOTE_": "VALVOLA A SFERA APERTA",
+                "DIAMETRO": " ",
+                "CODICE": " ",
+                "Z_CHGCODE": null,
+                "PREV": " ",
+                "NEXT": " ",
+                "MATERIALE": "GHISA GRIGIA",
+                "TIPOLOGICO": 0,
+                "DIAMETRO1": 50,
+                "DIAMETRO2": 0,
+                "ANGOLO": 0,
+                "DATAMODIF": 20240502,
+                "ID": " ",
+                "PATH": " ",
+                "MODELLO": " ",
+                "COMUNE": "PRATOLA PELIGNA",
+                "COD_ISTAT": 66075,
+                "OPERATORE": "IMPRESA ROSSI LUIGI SRL",
+                "ANNOTAZION": "MODIFICATO",
+                "ACCESSO": " ",
+                "DENOM": " ",
+                "DATA_RIL": "20240417"
+            }
+        }
+    ]
+}

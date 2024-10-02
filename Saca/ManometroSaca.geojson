@@ -1,0 +1,99 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "id": 8177,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9498877488742,
+                    42.060386022062
+                ]
+            },
+            "properties": {
+                "FID": 8177,
+                "TIPO": "MANOMETRO",
+                "DEMOPERA": " ",
+                "FOTO": " ",
+                "QUOTA": 0,
+                "VIA": "SANTA LUCIA",
+                "COPERTURA": "ASFALTO",
+                "CHIUSINO": " ",
+                "DIM_CHIUS": " ",
+                "NOTE_": " ",
+                "DIAMETRO": " ",
+                "CODICE": " ",
+                "Z_CHGCODE": null,
+                "PREV": " ",
+                "NEXT": " ",
+                "MATERIALE": " ",
+                "TIPOLOGICO": 0,
+                "DIAMETRO1": 0,
+                "DIAMETRO2": 0,
+                "ANGOLO": 0,
+                "DATAMODIF": 20240418,
+                "ID": " ",
+                "PATH": " ",
+                "MODELLO": " ",
+                "COMUNE": "SULMONA",
+                "COD_ISTAT": 66098,
+                "OPERATORE": "W.E.E. srl",
+                "ANNOTAZION": "MODIFICATO",
+                "ACCESSO": " ",
+                "DENOM": " ",
+                "DATA_RIL": "20240126"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 10329,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8965359116579,
+                    42.0476590573048
+                ]
+            },
+            "properties": {
+                "FID": 10329,
+                "TIPO": "MANOMETRO",
+                "DEMOPERA": " ",
+                "FOTO": " ",
+                "QUOTA": 0,
+                "VIA": "BANCHETTE",
+                "COPERTURA": "ASFALTO",
+                "CHIUSINO": " ",
+                "DIM_CHIUS": " ",
+                "NOTE_": " ",
+                "DIAMETRO": " ",
+                "CODICE": " ",
+                "Z_CHGCODE": null,
+                "PREV": " ",
+                "NEXT": " ",
+                "MATERIALE": "FERRO ZINCATO",
+                "TIPOLOGICO": 0,
+                "DIAMETRO1": 50,
+                "DIAMETRO2": 0,
+                "ANGOLO": 0,
+                "DATAMODIF": 20240506,
+                "ID": " ",
+                "PATH": " ",
+                "MODELLO": " ",
+                "COMUNE": "SULMONA",
+                "COD_ISTAT": 66098,
+                "OPERATORE": "W.E.E. srl",
+                "ANNOTAZION": "MODIFICATO",
+                "ACCESSO": " ",
+                "DENOM": " ",
+                "DATA_RIL": "20240220"
+            }
+        }
+    ]
+}

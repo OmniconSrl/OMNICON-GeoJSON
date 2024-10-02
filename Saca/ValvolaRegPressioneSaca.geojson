@@ -1,0 +1,187 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "id": 4600,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8760296663432,
+                    42.0905985458377
+                ]
+            },
+            "properties": {
+                "FID": 4600,
+                "TIPO": "VALVOLA REG PRESSIONE",
+                "DEMOPERA": " ",
+                "FOTO": " ",
+                "QUOTA": 0,
+                "VIA": "MONTI DELLA LAGA",
+                "COPERTURA": "ASFALTO",
+                "CHIUSINO": "NULL",
+                "DIM_CHIUS": " ",
+                "NOTE_": " ",
+                "DIAMETRO": " ",
+                "CODICE": " ",
+                "Z_CHGCODE": null,
+                "PREV": " ",
+                "NEXT": " ",
+                "MATERIALE": " ",
+                "TIPOLOGICO": 0,
+                "DIAMETRO1": 0,
+                "DIAMETRO2": 0,
+                "ANGOLO": 0,
+                "DATAMODIF": 20240313,
+                "ID": " ",
+                "PATH": " ",
+                "MODELLO": " ",
+                "COMUNE": "PRATOLA PELIGNA",
+                "COD_ISTAT": 66075,
+                "OPERATORE": "IMPRESA ROSSI LUIGI SRL",
+                "ANNOTAZION": "MODIFICATO",
+                "ACCESSO": " ",
+                "DENOM": " ",
+                "DATA_RIL": "20240208"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4601,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8760282326706,
+                    42.0905948773604
+                ]
+            },
+            "properties": {
+                "FID": 4601,
+                "TIPO": "VALVOLA REG PRESSIONE",
+                "DEMOPERA": " ",
+                "FOTO": " ",
+                "QUOTA": 0,
+                "VIA": "MONTI DELLA LAGA",
+                "COPERTURA": "ASFALTO",
+                "CHIUSINO": "NULL",
+                "DIM_CHIUS": " ",
+                "NOTE_": " ",
+                "DIAMETRO": " ",
+                "CODICE": " ",
+                "Z_CHGCODE": null,
+                "PREV": " ",
+                "NEXT": " ",
+                "MATERIALE": " ",
+                "TIPOLOGICO": 0,
+                "DIAMETRO1": 0,
+                "DIAMETRO2": 0,
+                "ANGOLO": 0,
+                "DATAMODIF": 20240313,
+                "ID": " ",
+                "PATH": " ",
+                "MODELLO": " ",
+                "COMUNE": "PRATOLA PELIGNA",
+                "COD_ISTAT": 66075,
+                "OPERATORE": "IMPRESA ROSSI LUIGI SRL",
+                "ANNOTAZION": "MODIFICATO",
+                "ACCESSO": " ",
+                "DENOM": " ",
+                "DATA_RIL": "20240208"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5472,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.894458967749,
+                    42.0922279421148
+                ]
+            },
+            "properties": {
+                "FID": 5472,
+                "TIPO": "VALVOLA REG PRESSIONE",
+                "DEMOPERA": " ",
+                "FOTO": " ",
+                "QUOTA": 0,
+                "VIA": "SS 17",
+                "COPERTURA": "ASFALTO",
+                "CHIUSINO": "NULL",
+                "DIM_CHIUS": " ",
+                "NOTE_": " ",
+                "DIAMETRO": " ",
+                "CODICE": " ",
+                "Z_CHGCODE": null,
+                "PREV": " ",
+                "NEXT": " ",
+                "MATERIALE": "GHISA SFEROIDAL",
+                "TIPOLOGICO": 0,
+                "DIAMETRO1": 50,
+                "DIAMETRO2": 0,
+                "ANGOLO": 0,
+                "DATAMODIF": 20240429,
+                "ID": " ",
+                "PATH": " ",
+                "MODELLO": " ",
+                "COMUNE": "PRATOLA PELIGNA",
+                "COD_ISTAT": 66075,
+                "OPERATORE": "IMPRESA ROSSI LUIGI SRL",
+                "ANNOTAZION": "MODIFICATO_IDROVALVOLA",
+                "ACCESSO": " ",
+                "DENOM": " ",
+                "DATA_RIL": "20240418"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5473,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8944589208311,
+                    42.0922306435675
+                ]
+            },
+            "properties": {
+                "FID": 5473,
+                "TIPO": "VALVOLA REG PRESSIONE",
+                "DEMOPERA": " ",
+                "FOTO": " ",
+                "QUOTA": 0,
+                "VIA": "SS 17",
+                "COPERTURA": "ASFALTO",
+                "CHIUSINO": "NULL",
+                "DIM_CHIUS": " ",
+                "NOTE_": " ",
+                "DIAMETRO": " ",
+                "CODICE": " ",
+                "Z_CHGCODE": null,
+                "PREV": " ",
+                "NEXT": " ",
+                "MATERIALE": "GHISA SFEROIDAL",
+                "TIPOLOGICO": 0,
+                "DIAMETRO1": 50,
+                "DIAMETRO2": 0,
+                "ANGOLO": 0,
+                "DATAMODIF": 20240429,
+                "ID": " ",
+                "PATH": " ",
+                "MODELLO": " ",
+                "COMUNE": "PRATOLA PELIGNA",
+                "COD_ISTAT": 66075,
+                "OPERATORE": "IMPRESA ROSSI LUIGI SRL",
+                "ANNOTAZION": "MODIFICATO_IDROVALVOLA",
+                "ACCESSO": " ",
+                "DENOM": " ",
+                "DATA_RIL": "20240418"
+            }
+        }
+    ]
+}

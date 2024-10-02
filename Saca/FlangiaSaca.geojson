@@ -1,0 +1,143 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "id": 7867,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9252476481644,
+                    42.044301966954
+                ]
+            },
+            "properties": {
+                "FID": 7867,
+                "TIPO": "FLANGIA",
+                "DEMOPERA": " ",
+                "FOTO": " ",
+                "QUOTA": 0,
+                "VIA": "E. TOTI",
+                "COPERTURA": "ASFALTO",
+                "CHIUSINO": " ",
+                "DIM_CHIUS": " ",
+                "NOTE_": " ",
+                "DIAMETRO": " ",
+                "CODICE": " ",
+                "Z_CHGCODE": null,
+                "PREV": " ",
+                "NEXT": " ",
+                "MATERIALE": " ",
+                "TIPOLOGICO": 0,
+                "DIAMETRO1": 0,
+                "DIAMETRO2": 0,
+                "ANGOLO": 0,
+                "DATAMODIF": 20240430,
+                "ID": " ",
+                "PATH": " ",
+                "MODELLO": " ",
+                "COMUNE": "SULMONA",
+                "COD_ISTAT": 66098,
+                "OPERATORE": "W.E.E. srl",
+                "ANNOTAZION": "MODIFICATO",
+                "ACCESSO": " ",
+                "DENOM": " ",
+                "DATA_RIL": "20240118"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7868,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9252496763974,
+                    42.0442997278308
+                ]
+            },
+            "properties": {
+                "FID": 7868,
+                "TIPO": "FLANGIA",
+                "DEMOPERA": " ",
+                "FOTO": " ",
+                "QUOTA": 0,
+                "VIA": "E. TOTI",
+                "COPERTURA": "ASFALTO",
+                "CHIUSINO": " ",
+                "DIM_CHIUS": " ",
+                "NOTE_": " ",
+                "DIAMETRO": " ",
+                "CODICE": " ",
+                "Z_CHGCODE": null,
+                "PREV": " ",
+                "NEXT": " ",
+                "MATERIALE": " ",
+                "TIPOLOGICO": 0,
+                "DIAMETRO1": 0,
+                "DIAMETRO2": 0,
+                "ANGOLO": 0,
+                "DATAMODIF": 20240430,
+                "ID": " ",
+                "PATH": " ",
+                "MODELLO": " ",
+                "COMUNE": "SULMONA",
+                "COD_ISTAT": 66098,
+                "OPERATORE": "W.E.E. srl",
+                "ANNOTAZION": "MODIFICATO",
+                "ACCESSO": " ",
+                "DENOM": " ",
+                "DATA_RIL": "20240118"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7890,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9269950419229,
+                    42.0440755098532
+                ]
+            },
+            "properties": {
+                "FID": 7890,
+                "TIPO": "FLANGIA",
+                "DEMOPERA": " ",
+                "FOTO": " ",
+                "QUOTA": 0,
+                "VIA": "MONTELLO",
+                "COPERTURA": "ASFALTO",
+                "CHIUSINO": " ",
+                "DIM_CHIUS": " ",
+                "NOTE_": " ",
+                "DIAMETRO": " ",
+                "CODICE": " ",
+                "Z_CHGCODE": null,
+                "PREV": " ",
+                "NEXT": " ",
+                "MATERIALE": " ",
+                "TIPOLOGICO": 0,
+                "DIAMETRO1": 0,
+                "DIAMETRO2": 0,
+                "ANGOLO": 0,
+                "DATAMODIF": 20240430,
+                "ID": " ",
+                "PATH": " ",
+                "MODELLO": " ",
+                "COMUNE": "SULMONA",
+                "COD_ISTAT": 66098,
+                "OPERATORE": "W.E.E. srl",
+                "ANNOTAZION": "MODIFICATO",
+                "ACCESSO": " ",
+                "DENOM": " ",
+                "DATA_RIL": "20240119"
+            }
+        }
+    ]
+}

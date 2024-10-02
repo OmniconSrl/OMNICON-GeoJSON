@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "id": 3258,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8649271308919,
+                    42.1010137258508
+                ]
+            },
+            "properties": {
+                "FID": 3258,
+                "TIPO": "CS",
+                "DEMOPERA": " ",
+                "FOTO": " ",
+                "QUOTA": 325,
+                "VIA": "SP 49 PER CORFINIO",
+                "COPERTURA": "ASFALTO",
+                "CHIUSINO": "NP",
+                "DIM_CHIUS": " ",
+                "NOTE_": "staz pompaggio x corfino",
+                "DIAMETRO": "37",
+                "CODICE": "62",
+                "Z_CHGCODE": null,
+                "PREV": "0030975785301000",
+                "NEXT": "0030964063501000",
+                "MATERIALE": " ",
+                "TIPOLOGICO": 3,
+                "DIAMETRO1": 0,
+                "DIAMETRO2": 0,
+                "ANGOLO": 0,
+                "DATAMODIF": 20080613,
+                "ID": "0030865804257000",
+                "PATH": "http://integragis/ato3peligno/foto.asp?ID_STR=62",
+                "MODELLO": "http://integragis/ato3peligno/modellazione.asp?cod_tr=0030865804257000",
+                "COMUNE": " ",
+                "COD_ISTAT": 0,
+                "OPERATORE": " ",
+                "ANNOTAZION": " ",
+                "ACCESSO": " ",
+                "DENOM": " ",
+                "DATA_RIL": " "
+            }
+        }
+    ]
+}

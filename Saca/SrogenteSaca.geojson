@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "id": 127,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0661210029133,
+                    41.876000828438
+                ]
+            },
+            "properties": {
+                "FID": 127,
+                "TIPO": "SORGENTE",
+                "DEMOPERA": " ",
+                "FOTO": " ",
+                "QUOTA": 0,
+                "VIA": " ",
+                "COPERTURA": " ",
+                "CHIUSINO": " ",
+                "DIM_CHIUS": " ",
+                "NOTE_": " ",
+                "DIAMETRO": " ",
+                "CODICE": " ",
+                "Z_CHGCODE": 0,
+                "PREV": "0032665656302000",
+                "NEXT": "0",
+                "MATERIALE": " ",
+                "TIPOLOGICO": 3,
+                "DIAMETRO1": 0,
+                "DIAMETRO2": 0,
+                "ANGOLO": 0,
+                "DATAMODIF": 20081210,
+                "ID": "0032665671932000",
+                "PATH": " ",
+                "MODELLO": "http://integragis/ato3peligno/modellazione.asp?cod_tr=0032665671932000",
+                "COMUNE": "RIVISONDOLI",
+                "COD_ISTAT": 66078,
+                "OPERATORE": "W.E.E. srl",
+                "ANNOTAZION": " ",
+                "ACCESSO": " ",
+                "DENOM": " ",
+                "DATA_RIL": " "
+            }
+        }
+    ]
+}

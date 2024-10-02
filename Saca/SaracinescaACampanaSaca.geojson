@@ -1,0 +1,187 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "id": 7853,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9257676927078,
+                    42.0429761824385
+                ]
+            },
+            "properties": {
+                "FID": 7853,
+                "TIPO": "SARACINESCA A CAMPANA",
+                "DEMOPERA": " ",
+                "FOTO": " ",
+                "QUOTA": 0,
+                "VIA": "C. BATTISTI",
+                "COPERTURA": "ASFALTO",
+                "CHIUSINO": " ",
+                "DIM_CHIUS": " ",
+                "NOTE_": " ",
+                "DIAMETRO": " ",
+                "CODICE": " ",
+                "Z_CHGCODE": null,
+                "PREV": " ",
+                "NEXT": " ",
+                "MATERIALE": " ",
+                "TIPOLOGICO": 0,
+                "DIAMETRO1": 0,
+                "DIAMETRO2": 0,
+                "ANGOLO": 0,
+                "DATAMODIF": 20240430,
+                "ID": " ",
+                "PATH": " ",
+                "MODELLO": " ",
+                "COMUNE": "SULMONA",
+                "COD_ISTAT": 66098,
+                "OPERATORE": "W.E.E. srl",
+                "ANNOTAZION": "MODIFICATO",
+                "ACCESSO": " ",
+                "DENOM": " ",
+                "DATA_RIL": "20240118"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7871,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9258531244334,
+                    42.044654504218
+                ]
+            },
+            "properties": {
+                "FID": 7871,
+                "TIPO": "SARACINESCA A CAMPANA",
+                "DEMOPERA": " ",
+                "FOTO": " ",
+                "QUOTA": 0,
+                "VIA": "CIRCONVALLAZIONE OCCIDENTALE",
+                "COPERTURA": "ASFALTO",
+                "CHIUSINO": " ",
+                "DIM_CHIUS": " ",
+                "NOTE_": " ",
+                "DIAMETRO": " ",
+                "CODICE": " ",
+                "Z_CHGCODE": null,
+                "PREV": " ",
+                "NEXT": " ",
+                "MATERIALE": " ",
+                "TIPOLOGICO": 0,
+                "DIAMETRO1": 0,
+                "DIAMETRO2": 0,
+                "ANGOLO": 0,
+                "DATAMODIF": 20240430,
+                "ID": " ",
+                "PATH": " ",
+                "MODELLO": " ",
+                "COMUNE": "SULMONA",
+                "COD_ISTAT": 66098,
+                "OPERATORE": "W.E.E. srl",
+                "ANNOTAZION": "MODIFICATO",
+                "ACCESSO": " ",
+                "DENOM": " ",
+                "DATA_RIL": "20240118"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7985,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9255190949407,
+                    42.0462492096092
+                ]
+            },
+            "properties": {
+                "FID": 7985,
+                "TIPO": "SARACINESCA A CAMPANA",
+                "DEMOPERA": " ",
+                "FOTO": " ",
+                "QUOTA": 0,
+                "VIA": "VICO ERTO",
+                "COPERTURA": "PREGIATA",
+                "CHIUSINO": " ",
+                "DIM_CHIUS": " ",
+                "NOTE_": " ",
+                "DIAMETRO": " ",
+                "CODICE": " ",
+                "Z_CHGCODE": null,
+                "PREV": " ",
+                "NEXT": " ",
+                "MATERIALE": " ",
+                "TIPOLOGICO": 0,
+                "DIAMETRO1": 0,
+                "DIAMETRO2": 0,
+                "ANGOLO": 0,
+                "DATAMODIF": 20240502,
+                "ID": " ",
+                "PATH": " ",
+                "MODELLO": " ",
+                "COMUNE": "SULMONA",
+                "COD_ISTAT": 66098,
+                "OPERATORE": "W.E.E. srl",
+                "ANNOTAZION": "MODIFICATO_SARACINESCA A CAMPANA",
+                "ACCESSO": " ",
+                "DENOM": " ",
+                "DATA_RIL": "20240124"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 9492,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9244005854226,
+                    42.0486035560833
+                ]
+            },
+            "properties": {
+                "FID": 9492,
+                "TIPO": "SARACINESCA A CAMPANA",
+                "DEMOPERA": " ",
+                "FOTO": " ",
+                "QUOTA": 0,
+                "VIA": "PIAZZA XX SETTEMBRE",
+                "COPERTURA": "PREGIATA",
+                "CHIUSINO": " ",
+                "DIM_CHIUS": " ",
+                "NOTE_": " ",
+                "DIAMETRO": " ",
+                "CODICE": " ",
+                "Z_CHGCODE": null,
+                "PREV": " ",
+                "NEXT": " ",
+                "MATERIALE": " ",
+                "TIPOLOGICO": 0,
+                "DIAMETRO1": 0,
+                "DIAMETRO2": 0,
+                "ANGOLO": 0,
+                "DATAMODIF": 20240503,
+                "ID": " ",
+                "PATH": " ",
+                "MODELLO": " ",
+                "COMUNE": "SULMONA",
+                "COD_ISTAT": 66098,
+                "OPERATORE": "W.E.E. srl",
+                "ANNOTAZION": "MODIFICATO_RILIEVO PARZIALE",
+                "ACCESSO": " ",
+                "DENOM": " ",
+                "DATA_RIL": "20240207"
+            }
+        }
+    ]
+}

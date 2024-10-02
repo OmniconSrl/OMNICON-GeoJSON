@@ -1,0 +1,99 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "id": 3350,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8726255791777,
+                    42.0961644526995
+                ]
+            },
+            "properties": {
+                "FID": 3350,
+                "TIPO": "SARACINESCA PER IDRANTE",
+                "DEMOPERA": " ",
+                "FOTO": " ",
+                "QUOTA": 0,
+                "VIA": "NAZARIO SAURO",
+                "COPERTURA": "PREGIATA",
+                "CHIUSINO": "NULL",
+                "DIM_CHIUS": " ",
+                "NOTE_": " ",
+                "DIAMETRO": "50",
+                "CODICE": "193",
+                "Z_CHGCODE": null,
+                "PREV": "0030865851705000",
+                "NEXT": "0030865847503000",
+                "MATERIALE": "GHISA GRIGIA",
+                "TIPOLOGICO": 2,
+                "DIAMETRO1": 60,
+                "DIAMETRO2": 0,
+                "ANGOLO": 0,
+                "DATAMODIF": 20240503,
+                "ID": "0030865804486000",
+                "PATH": "http://integragis/ato3peligno/foto.asp?ID_STR=193",
+                "MODELLO": "http://integragis/ato3peligno/modellazione.asp?cod_tr=0030865804486000",
+                "COMUNE": "PRATOLA PELIGNA",
+                "COD_ISTAT": 66075,
+                "OPERATORE": "IMPRESA ROSSI LUIGI SRL",
+                "ANNOTAZION": "MODIFICATO",
+                "ACCESSO": " ",
+                "DENOM": " ",
+                "DATA_RIL": "20240415"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4891,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8754127212081,
+                    42.0978928307771
+                ]
+            },
+            "properties": {
+                "FID": 4891,
+                "TIPO": "SARACINESCA PER IDRANTE",
+                "DEMOPERA": " ",
+                "FOTO": " ",
+                "QUOTA": 0,
+                "VIA": "CORDERIA",
+                "COPERTURA": "PREGIATA",
+                "CHIUSINO": "NULL",
+                "DIM_CHIUS": " ",
+                "NOTE_": " ",
+                "DIAMETRO": " ",
+                "CODICE": " ",
+                "Z_CHGCODE": null,
+                "PREV": " ",
+                "NEXT": " ",
+                "MATERIALE": "ACCIAIO",
+                "TIPOLOGICO": 0,
+                "DIAMETRO1": 50,
+                "DIAMETRO2": 0,
+                "ANGOLO": 0,
+                "DATAMODIF": 20240405,
+                "ID": " ",
+                "PATH": " ",
+                "MODELLO": " ",
+                "COMUNE": "PRATOLA PELIGNA",
+                "COD_ISTAT": 66075,
+                "OPERATORE": "IMPRESA ROSSI LUIGI SRL",
+                "ANNOTAZION": "MODIFICATO",
+                "ACCESSO": " ",
+                "DENOM": " ",
+                "DATA_RIL": "20240306"
+            }
+        }
+    ]
+}

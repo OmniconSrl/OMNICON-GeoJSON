@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "id": 3315,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8726219519966,
+                    42.0961644170614
+                ]
+            },
+            "properties": {
+                "FID": 3315,
+                "TIPO": "IDRANTE SOTTOSUOLO",
+                "DEMOPERA": " ",
+                "FOTO": " ",
+                "QUOTA": 0,
+                "VIA": "NAZARIO SAURO",
+                "COPERTURA": "PREGIATA",
+                "CHIUSINO": "NULL",
+                "DIM_CHIUS": " ",
+                "NOTE_": "idrante",
+                "DIAMETRO": " ",
+                "CODICE": " ",
+                "Z_CHGCODE": null,
+                "PREV": "0030865847502000",
+                "NEXT": "0",
+                "MATERIALE": " ",
+                "TIPOLOGICO": 3,
+                "DIAMETRO1": 0,
+                "DIAMETRO2": 0,
+                "ANGOLO": 0,
+                "DATAMODIF": 20240503,
+                "ID": "0030865804430000",
+                "PATH": " ",
+                "MODELLO": "http://integragis/ato3peligno/modellazione.asp?cod_tr=0030865804430000",
+                "COMUNE": "PRATOLA PELIGNA",
+                "COD_ISTAT": 66075,
+                "OPERATORE": "IMPRESA ROSSI LUIGI SRL",
+                "ANNOTAZION": "MODIFICATO",
+                "ACCESSO": " ",
+                "DENOM": " ",
+                "DATA_RIL": "20240415"
+            }
+        }
+    ]
+}

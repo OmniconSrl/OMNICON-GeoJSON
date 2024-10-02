@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "id": 7294,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9318894354704,
+                    42.0375596495272
+                ]
+            },
+            "properties": {
+                "FID": 7294,
+                "TIPO": "SARACINESCA PER CONTATORE",
+                "DEMOPERA": " ",
+                "FOTO": " ",
+                "QUOTA": 0,
+                "VIA": "BUCO DELLA GROTTA",
+                "COPERTURA": "ASFALTO",
+                "CHIUSINO": " ",
+                "DIM_CHIUS": " ",
+                "NOTE_": "SARACINESCA PER CONTATORE GRANDI UTENZE",
+                "DIAMETRO": "100",
+                "CODICE": "1298",
+                "Z_CHGCODE": null,
+                "PREV": "0032503865505000",
+                "NEXT": "0032503865506000",
+                "MATERIALE": " ",
+                "TIPOLOGICO": 2,
+                "DIAMETRO1": 0,
+                "DIAMETRO2": 0,
+                "ANGOLO": 0,
+                "DATAMODIF": 20240429,
+                "ID": "0032503842923000",
+                "PATH": "http://integragis/ato3peligno/foto.asp?ID_STR=1298",
+                "MODELLO": "http://integragis/ato3peligno/modellazione.asp?cod_tr=0032503842923000",
+                "COMUNE": "SULMONA",
+                "COD_ISTAT": 66098,
+                "OPERATORE": "W.E.E. srl",
+                "ANNOTAZION": "MODIFICATO",
+                "ACCESSO": " ",
+                "DENOM": " ",
+                "DATA_RIL": "20240115"
+            }
+        }
+    ]
+}

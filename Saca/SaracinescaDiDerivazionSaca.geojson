@@ -1,0 +1,319 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "id": 5719,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9329902911629,
+                    42.0353736227955
+                ]
+            },
+            "properties": {
+                "FID": 5719,
+                "TIPO": "SARACINESCA DI DERIVAZION",
+                "DEMOPERA": " ",
+                "FOTO": " ",
+                "QUOTA": 0,
+                "VIA": "VIALE G. MAZZINI",
+                "COPERTURA": "ASFALTO",
+                "CHIUSINO": " ",
+                "DIM_CHIUS": " ",
+                "NOTE_": "VALVOLA APERTA",
+                "DIAMETRO": "250",
+                "CODICE": "1041",
+                "Z_CHGCODE": null,
+                "PREV": "0032503867003000",
+                "NEXT": "0032503857504000",
+                "MATERIALE": "GHISA SFEROIDAL",
+                "TIPOLOGICO": 3,
+                "DIAMETRO1": 100,
+                "DIAMETRO2": 0,
+                "ANGOLO": 0,
+                "DATAMODIF": 20240429,
+                "ID": "0032503842109000",
+                "PATH": "http://integragis/ato3peligno/foto.asp?ID_STR=1041",
+                "MODELLO": "http://integragis/ato3peligno/modellazione.asp?cod_tr=0032503842109000",
+                "COMUNE": "SULMONA",
+                "COD_ISTAT": 66098,
+                "OPERATORE": "W.E.E. srl",
+                "ANNOTAZION": "MODIFICATO",
+                "ACCESSO": " ",
+                "DENOM": " ",
+                "DATA_RIL": "20240115"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7752,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9337423239864,
+                    42.0339944077895
+                ]
+            },
+            "properties": {
+                "FID": 7752,
+                "TIPO": "SARACINESCA DI DERIVAZION",
+                "DEMOPERA": " ",
+                "FOTO": " ",
+                "QUOTA": 0,
+                "VIA": "VIALE G. MAZZINI",
+                "COPERTURA": "ASFALTO",
+                "CHIUSINO": " ",
+                "DIM_CHIUS": " ",
+                "NOTE_": "VALVOLA APERTA",
+                "DIAMETRO": " ",
+                "CODICE": " ",
+                "Z_CHGCODE": null,
+                "PREV": " ",
+                "NEXT": " ",
+                "MATERIALE": "FERRO ZINCATO",
+                "TIPOLOGICO": 0,
+                "DIAMETRO1": 40,
+                "DIAMETRO2": 0,
+                "ANGOLO": 0,
+                "DATAMODIF": 20240429,
+                "ID": " ",
+                "PATH": " ",
+                "MODELLO": " ",
+                "COMUNE": "SULMONA",
+                "COD_ISTAT": 66098,
+                "OPERATORE": "W.E.E. srl",
+                "ANNOTAZION": "MODIFICATO",
+                "ACCESSO": " ",
+                "DENOM": " ",
+                "DATA_RIL": "20240115"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7753,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9337404601592,
+                    42.0339908485864
+                ]
+            },
+            "properties": {
+                "FID": 7753,
+                "TIPO": "SARACINESCA DI DERIVAZION",
+                "DEMOPERA": " ",
+                "FOTO": " ",
+                "QUOTA": 0,
+                "VIA": "VIALE G. MAZZINI",
+                "COPERTURA": "ASFALTO",
+                "CHIUSINO": " ",
+                "DIM_CHIUS": " ",
+                "NOTE_": "VALVOLA APERTA",
+                "DIAMETRO": " ",
+                "CODICE": " ",
+                "Z_CHGCODE": null,
+                "PREV": " ",
+                "NEXT": " ",
+                "MATERIALE": "FERRO ZINCATO",
+                "TIPOLOGICO": 0,
+                "DIAMETRO1": 20,
+                "DIAMETRO2": 0,
+                "ANGOLO": 0,
+                "DATAMODIF": 20240429,
+                "ID": " ",
+                "PATH": " ",
+                "MODELLO": " ",
+                "COMUNE": "SULMONA",
+                "COD_ISTAT": 66098,
+                "OPERATORE": "W.E.E. srl",
+                "ANNOTAZION": "MODIFICATO",
+                "ACCESSO": " ",
+                "DENOM": " ",
+                "DATA_RIL": "20240115"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7755,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9337429618766,
+                    42.0339798663279
+                ]
+            },
+            "properties": {
+                "FID": 7755,
+                "TIPO": "SARACINESCA DI DERIVAZION",
+                "DEMOPERA": " ",
+                "FOTO": " ",
+                "QUOTA": 0,
+                "VIA": "VIALE G. MAZZINI",
+                "COPERTURA": "ASFALTO",
+                "CHIUSINO": " ",
+                "DIM_CHIUS": " ",
+                "NOTE_": "VALVOLA APERTA",
+                "DIAMETRO": " ",
+                "CODICE": " ",
+                "Z_CHGCODE": null,
+                "PREV": " ",
+                "NEXT": " ",
+                "MATERIALE": "GHISA GRIGIA",
+                "TIPOLOGICO": 0,
+                "DIAMETRO1": 65,
+                "DIAMETRO2": 0,
+                "ANGOLO": 0,
+                "DATAMODIF": 20240429,
+                "ID": " ",
+                "PATH": " ",
+                "MODELLO": " ",
+                "COMUNE": "SULMONA",
+                "COD_ISTAT": 66098,
+                "OPERATORE": "W.E.E. srl",
+                "ANNOTAZION": "MODIFICATO",
+                "ACCESSO": " ",
+                "DENOM": " ",
+                "DATA_RIL": "20240115"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7759,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9330017278405,
+                    42.035374171525
+                ]
+            },
+            "properties": {
+                "FID": 7759,
+                "TIPO": "SARACINESCA DI DERIVAZION",
+                "DEMOPERA": " ",
+                "FOTO": " ",
+                "QUOTA": 0,
+                "VIA": "VIALE G. MAZZINI",
+                "COPERTURA": "ASFALTO",
+                "CHIUSINO": " ",
+                "DIM_CHIUS": " ",
+                "NOTE_": "VALVOLA APERTA",
+                "DIAMETRO": " ",
+                "CODICE": " ",
+                "Z_CHGCODE": null,
+                "PREV": " ",
+                "NEXT": " ",
+                "MATERIALE": "GHISA GRIGIA",
+                "TIPOLOGICO": 0,
+                "DIAMETRO1": 60,
+                "DIAMETRO2": 0,
+                "ANGOLO": 0,
+                "DATAMODIF": 20240429,
+                "ID": " ",
+                "PATH": " ",
+                "MODELLO": " ",
+                "COMUNE": "SULMONA",
+                "COD_ISTAT": 66098,
+                "OPERATORE": "W.E.E. srl",
+                "ANNOTAZION": "MODIFICATO",
+                "ACCESSO": " ",
+                "DENOM": " ",
+                "DATA_RIL": "20240115"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7760,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9329997349298,
+                    42.0353706513942
+                ]
+            },
+            "properties": {
+                "FID": 7760,
+                "TIPO": "SARACINESCA DI DERIVAZION",
+                "DEMOPERA": " ",
+                "FOTO": " ",
+                "QUOTA": 0,
+                "VIA": "VIALE G. MAZZINI",
+                "COPERTURA": "ASFALTO",
+                "CHIUSINO": " ",
+                "DIM_CHIUS": " ",
+                "NOTE_": "VALVOLA APERTA",
+                "DIAMETRO": " ",
+                "CODICE": " ",
+                "Z_CHGCODE": null,
+                "PREV": " ",
+                "NEXT": " ",
+                "MATERIALE": "FIBRO CEMENTO",
+                "TIPOLOGICO": 0,
+                "DIAMETRO1": 20,
+                "DIAMETRO2": 0,
+                "ANGOLO": 0,
+                "DATAMODIF": 20240429,
+                "ID": " ",
+                "PATH": " ",
+                "MODELLO": " ",
+                "COMUNE": "SULMONA",
+                "COD_ISTAT": 66098,
+                "OPERATORE": "W.E.E. srl",
+                "ANNOTAZION": "MODIFICATO",
+                "ACCESSO": " ",
+                "DENOM": " ",
+                "DATA_RIL": "20240115"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7762,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9329949054075,
+                    42.0353866861038
+                ]
+            },
+            "properties": {
+                "FID": 7762,
+                "TIPO": "SARACINESCA DI DERIVAZION",
+                "DEMOPERA": " ",
+                "FOTO": " ",
+                "QUOTA": 0,
+                "VIA": "VIALE G. MAZZINI",
+                "COPERTURA": "ASFALTO",
+                "CHIUSINO": " ",
+                "DIM_CHIUS": " ",
+                "NOTE_": "VALVOLA APERTA",
+                "DIAMETRO": " ",
+                "CODICE": " ",
+                "Z_CHGCODE": null,
+                "PREV": " ",
+                "NEXT": " ",
+                "MATERIALE": "GHISA GRIGIA",
+                "TIPOLOGICO": 0,
+                "DIAMETRO1": 60,
+                "DIAMETRO2": 0,
+                "ANGOLO": 0,
+                "DATAMODIF": 20240429,
+                "ID": " ",
+                "PATH": " ",
+                "MODELLO": " ",
+                "COMUNE": "SULMONA",
+                "COD_ISTAT": 66098,
+                "OPERATORE": "W.E.E. srl",
+                "ANNOTAZION": "MODIFICATO",
+                "ACCESSO": " ",
+                "DENOM": " ",
+                "DATA_RIL": "20240115"
+            }
+        }
+    ]
+}

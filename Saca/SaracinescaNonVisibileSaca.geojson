@@ -1,0 +1,319 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "id": 3748,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8728097352684,
+                    42.1007258771939
+                ]
+            },
+            "properties": {
+                "FID": 3748,
+                "TIPO": "SARACINESCA NON VISIBILE",
+                "DEMOPERA": " ",
+                "FOTO": " ",
+                "QUOTA": 0,
+                "VIA": "MINCIO",
+                "COPERTURA": "ASFALTO",
+                "CHIUSINO": "NULL",
+                "DIM_CHIUS": " ",
+                "NOTE_": "pava",
+                "DIAMETRO": "30",
+                "CODICE": "156",
+                "Z_CHGCODE": null,
+                "PREV": "0030865851116000",
+                "NEXT": "0030865845500000",
+                "MATERIALE": " ",
+                "TIPOLOGICO": 2,
+                "DIAMETRO1": 0,
+                "DIAMETRO2": 0,
+                "ANGOLO": 0,
+                "DATAMODIF": 20240417,
+                "ID": "0030865804322000",
+                "PATH": "http://integragis/ato3peligno/foto.asp?ID_STR=156",
+                "MODELLO": "http://integragis/ato3peligno/modellazione.asp?cod_tr=0030865804322000",
+                "COMUNE": "PRATOLA PELIGNA",
+                "COD_ISTAT": 66075,
+                "OPERATORE": "IMPRESA ROSSI LUIGI SRL",
+                "ANNOTAZION": "CONFERMATO",
+                "ACCESSO": " ",
+                "DENOM": " ",
+                "DATA_RIL": "20240315"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3749,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8730113145125,
+                    42.1007349663895
+                ]
+            },
+            "properties": {
+                "FID": 3749,
+                "TIPO": "SARACINESCA NON VISIBILE",
+                "DEMOPERA": " ",
+                "FOTO": " ",
+                "QUOTA": 0,
+                "VIA": "PIAVE",
+                "COPERTURA": "ASFALTO",
+                "CHIUSINO": "NULL",
+                "DIM_CHIUS": " ",
+                "NOTE_": "pava",
+                "DIAMETRO": "37",
+                "CODICE": "152",
+                "Z_CHGCODE": null,
+                "PREV": "0030865851117000",
+                "NEXT": "0030865845420000",
+                "MATERIALE": " ",
+                "TIPOLOGICO": 2,
+                "DIAMETRO1": 0,
+                "DIAMETRO2": 0,
+                "ANGOLO": 0,
+                "DATAMODIF": 20240417,
+                "ID": "0030865804323000",
+                "PATH": "http://integragis/ato3peligno/foto.asp?ID_STR=152",
+                "MODELLO": "http://integragis/ato3peligno/modellazione.asp?cod_tr=0030865804323000",
+                "COMUNE": "PRATOLA PELIGNA",
+                "COD_ISTAT": 66075,
+                "OPERATORE": "IMPRESA ROSSI LUIGI SRL",
+                "ANNOTAZION": "CONFERMATO",
+                "ACCESSO": " ",
+                "DENOM": " ",
+                "DATA_RIL": "20240315"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3751,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8733562727227,
+                    42.1007739925282
+                ]
+            },
+            "properties": {
+                "FID": 3751,
+                "TIPO": "SARACINESCA NON VISIBILE",
+                "DEMOPERA": " ",
+                "FOTO": " ",
+                "QUOTA": 0,
+                "VIA": "PESCARA",
+                "COPERTURA": "ASFALTO",
+                "CHIUSINO": "NULL",
+                "DIM_CHIUS": " ",
+                "NOTE_": " ",
+                "DIAMETRO": "37",
+                "CODICE": "154",
+                "Z_CHGCODE": null,
+                "PREV": "0030865851118000",
+                "NEXT": "0030865845410000",
+                "MATERIALE": " ",
+                "TIPOLOGICO": 2,
+                "DIAMETRO1": 0,
+                "DIAMETRO2": 0,
+                "ANGOLO": 0,
+                "DATAMODIF": 20240417,
+                "ID": "0030865804325000",
+                "PATH": "http://integragis/ato3peligno/foto.asp?ID_STR=154",
+                "MODELLO": "http://integragis/ato3peligno/modellazione.asp?cod_tr=0030865804325000",
+                "COMUNE": "PRATOLA PELIGNA",
+                "COD_ISTAT": 66075,
+                "OPERATORE": "IMPRESA ROSSI LUIGI SRL",
+                "ANNOTAZION": "CONFERMATO",
+                "ACCESSO": " ",
+                "DENOM": " ",
+                "DATA_RIL": "20240315"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3752,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8730574528443,
+                    42.1007356230842
+                ]
+            },
+            "properties": {
+                "FID": 3752,
+                "TIPO": "SARACINESCA NON VISIBILE",
+                "DEMOPERA": " ",
+                "FOTO": " ",
+                "QUOTA": 0,
+                "VIA": "VOLTURNO",
+                "COPERTURA": "ASFALTO",
+                "CHIUSINO": "NULL",
+                "DIM_CHIUS": " ",
+                "NOTE_": " ",
+                "DIAMETRO": "37",
+                "CODICE": "153",
+                "Z_CHGCODE": null,
+                "PREV": "0030865851121000",
+                "NEXT": "0030865850205000",
+                "MATERIALE": " ",
+                "TIPOLOGICO": 2,
+                "DIAMETRO1": 0,
+                "DIAMETRO2": 0,
+                "ANGOLO": 0,
+                "DATAMODIF": 20240417,
+                "ID": "0030865804327000",
+                "PATH": "http://integragis/ato3peligno/foto.asp?ID_STR=153",
+                "MODELLO": "http://integragis/ato3peligno/modellazione.asp?cod_tr=0030865804327000",
+                "COMUNE": "PRATOLA PELIGNA",
+                "COD_ISTAT": 66075,
+                "OPERATORE": "IMPRESA ROSSI LUIGI SRL",
+                "ANNOTAZION": "CONFERMATO",
+                "ACCESSO": " ",
+                "DENOM": " ",
+                "DATA_RIL": "20240315"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3759,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8727868387998,
+                    42.1007255230969
+                ]
+            },
+            "properties": {
+                "FID": 3759,
+                "TIPO": "SARACINESCA NON VISIBILE",
+                "DEMOPERA": " ",
+                "FOTO": " ",
+                "QUOTA": 0,
+                "VIA": "PIAVE",
+                "COPERTURA": "ASFALTO",
+                "CHIUSINO": "NULL",
+                "DIM_CHIUS": " ",
+                "NOTE_": " ",
+                "DIAMETRO": " ",
+                "CODICE": "155",
+                "Z_CHGCODE": null,
+                "PREV": "0030865851214000",
+                "NEXT": "0030865846921000",
+                "MATERIALE": " ",
+                "TIPOLOGICO": 2,
+                "DIAMETRO1": 0,
+                "DIAMETRO2": 0,
+                "ANGOLO": 0,
+                "DATAMODIF": 20240417,
+                "ID": "0030865804338000",
+                "PATH": "http://integragis/ato3peligno/foto.asp?ID_STR=155",
+                "MODELLO": "http://integragis/ato3peligno/modellazione.asp?cod_tr=0030865804338000",
+                "COMUNE": "PRATOLA PELIGNA",
+                "COD_ISTAT": 66075,
+                "OPERATORE": "IMPRESA ROSSI LUIGI SRL",
+                "ANNOTAZION": "CONFERMATO",
+                "ACCESSO": " ",
+                "DENOM": " ",
+                "DATA_RIL": "20240315"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3801,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.874197588606,
+                    42.0999567919113
+                ]
+            },
+            "properties": {
+                "FID": 3801,
+                "TIPO": "SARACINESCA NON VISIBILE",
+                "DEMOPERA": " ",
+                "FOTO": " ",
+                "QUOTA": 0,
+                "VIA": "LUIGI META",
+                "COPERTURA": "PREGIATA",
+                "CHIUSINO": "NULL",
+                "DIM_CHIUS": " ",
+                "NOTE_": " ",
+                "DIAMETRO": "75",
+                "CODICE": "321",
+                "Z_CHGCODE": null,
+                "PREV": "0030865852700000",
+                "NEXT": "0030865848702000",
+                "MATERIALE": "GHISA SFEROIDAL",
+                "TIPOLOGICO": 2,
+                "DIAMETRO1": 0,
+                "DIAMETRO2": 0,
+                "ANGOLO": 0,
+                "DATAMODIF": 20240418,
+                "ID": "0030865804772000",
+                "PATH": "http://integragis/ato3peligno/foto.asp?ID_STR=321",
+                "MODELLO": "http://integragis/ato3peligno/modellazione.asp?cod_tr=0030865804772000",
+                "COMUNE": "PRATOLA PELIGNA",
+                "COD_ISTAT": 66075,
+                "OPERATORE": "IMPRESA ROSSI LUIGI SRL",
+                "ANNOTAZION": "MODIFICATO",
+                "ACCESSO": " ",
+                "DENOM": " ",
+                "DATA_RIL": "20240312"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3819,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8739058236915,
+                    42.0995847637191
+                ]
+            },
+            "properties": {
+                "FID": 3819,
+                "TIPO": "SARACINESCA NON VISIBILE",
+                "DEMOPERA": " ",
+                "FOTO": " ",
+                "QUOTA": 0,
+                "VIA": "PIAZZA DELLA REPUBBLICA",
+                "COPERTURA": "CEMENTO",
+                "CHIUSINO": "NULL",
+                "DIM_CHIUS": " ",
+                "NOTE_": " ",
+                "DIAMETRO": " ",
+                "CODICE": " ",
+                "Z_CHGCODE": null,
+                "PREV": " ",
+                "NEXT": " ",
+                "MATERIALE": " ",
+                "TIPOLOGICO": 0,
+                "DIAMETRO1": 0,
+                "DIAMETRO2": 0,
+                "ANGOLO": 0,
+                "DATAMODIF": 20240416,
+                "ID": " ",
+                "PATH": " ",
+                "MODELLO": " ",
+                "COMUNE": "PRATOLA PELIGNA",
+                "COD_ISTAT": 66075,
+                "OPERATORE": "IMPRESA ROSSI LUIGI SRL",
+                "ANNOTAZION": "CONFERMATO",
+                "ACCESSO": " ",
+                "DENOM": " ",
+                "DATA_RIL": "20240313"
+            }
+        }
+    ]
+}
