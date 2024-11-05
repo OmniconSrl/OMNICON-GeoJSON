@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","name":"rid_prex","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:EPSG::32632"}},"features":[{"type":"Feature","properties":{"comune":"Novi Ligure"},"geometry":{"type":"Point","coordinates":[8.838685435640533,44.765869150057256]}}]}

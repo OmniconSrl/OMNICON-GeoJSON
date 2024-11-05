@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","name":"misuratore_portata","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:EPSG::32632"}},"features":[{"type":"Feature","properties":{"tipo":"PORTATA","comune":null,"localita":null,"via":null,"distretto_modello":"DNL08.2"},"geometry":{"type":"Point","coordinates":[8.838725435065445,44.76593914640182]}}]}
