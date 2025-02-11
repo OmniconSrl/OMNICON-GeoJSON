@@ -1,0 +1,8844 @@
+{
+  "type": "FeatureCollection",
+  "name": "condotte_allaccio",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::32632"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 352429,
+        "utenza_id": 102492,
+        "localita": "TASSAROLO",
+        "via": "VICOLO CORTE DEI SORI",
+        "civico": 7,
+        "id_condotta": 3244
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769929999991191,
+            44.72532000222114
+          ],
+          [
+            8.770140209174102,
+            44.72538814847702
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 352434,
+        "utenza_id": 102476,
+        "localita": "TASSAROLO",
+        "via": "VICOLO PIAZZO",
+        "civico": 2,
+        "id_condotta": 3245
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770293333324554,
+            44.724975002221015
+          ],
+          [
+            8.770377900696745,
+            44.725002291742186
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 352453,
+        "utenza_id": 95040,
+        "localita": "TASSAROLO",
+        "via": "VIA GAVI",
+        "civico": 3,
+        "id_condotta": 3352
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769623333324535,
+            44.72626500222135
+          ],
+          [
+            8.769693699280515,
+            44.7262661016024
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 352454,
+        "utenza_id": 116877,
+        "localita": "TASSAROLO",
+        "via": "PIAZZA LIBERTA'",
+        "civico": 9,
+        "id_condotta": 3352
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769676666657848,
+            44.72646500222147
+          ],
+          [
+            8.769687579482637,
+            44.72646517271809
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 352583,
+        "utenza_id": 116890,
+        "localita": "TASSAROLO",
+        "via": "VIA GARIBALDI",
+        "civico": 16,
+        "id_condotta": 22941
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770643333324587,
+            44.72604666888798
+          ],
+          [
+            8.770675937754422,
+            44.726220975773124
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 352584,
+        "utenza_id": 102425,
+        "localita": "TASSAROLO",
+        "via": "LOC. BOSCHINE",
+        "civico": 4,
+        "id_condotta": 3264
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.76363166665766,
+            44.72222666888714
+          ],
+          [
+            8.763915171579544,
+            44.72243115232143
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 352585,
+        "utenza_id": 102425,
+        "localita": "TASSAROLO",
+        "via": "LOC. BOSCHINE",
+        "civico": 4,
+        "id_condotta": 22940
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.76363166665766,
+            44.72222666888714
+          ],
+          [
+            8.763915171579544,
+            44.72243115232143
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 352586,
+        "utenza_id": 102488,
+        "localita": "TASSAROLO",
+        "via": "VIA XXV APRILE",
+        "civico": 26,
+        "id_condotta": 3275
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770901666657927,
+            44.72717500222158
+          ],
+          [
+            8.770850764156888,
+            44.72717412797372
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 352873,
+        "utenza_id": 102420,
+        "localita": "TASSAROLO",
+        "via": "PIAZZA LIBERTA'",
+        "civico": 11,
+        "id_condotta": 3250
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769614999991186,
+            44.72658000222148
+          ],
+          [
+            8.769692317820827,
+            44.72657540899043
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 352874,
+        "utenza_id": 102419,
+        "localita": "TASSAROLO",
+        "via": "PIAZZA LIBERTA'",
+        "civico": 11,
+        "id_condotta": 3250
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769678333324526,
+            44.726583335554785
+          ],
+          [
+            8.76969314156196,
+            44.72658245583566
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 352875,
+        "utenza_id": 109665,
+        "localita": "TASSAROLO",
+        "via": "PIAZZA LIBERTA'",
+        "civico": 11,
+        "id_condotta": 3250
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.76966666665785,
+            44.7266616688882
+          ],
+          [
+            8.76970215474237,
+            44.72665956063616
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 352876,
+        "utenza_id": 109734,
+        "localita": "TASSAROLO",
+        "via": "VIA DEI MARTIRI",
+        "civico": 1,
+        "id_condotta": 3251
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769776666657886,
+            44.725923335554555
+          ],
+          [
+            8.769819350257698,
+            44.72593477035181
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 352877,
+        "utenza_id": 102475,
+        "localita": "TASSAROLO",
+        "via": "VIA DEI MARTIRI",
+        "civico": 28,
+        "id_condotta": 3298
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770228333324544,
+            44.72509166888776
+          ],
+          [
+            8.770201904041633,
+            44.72513644611215
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 353075,
+        "utenza_id": 95115,
+        "localita": "TASSAROLO",
+        "via": "STRADA FRANCAVILLA",
+        "civico": 46,
+        "id_condotta": 3348
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.751494999990477,
+            44.73145166888929
+          ],
+          [
+            8.752580776056888,
+            44.732870185283815
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 353118,
+        "utenza_id": 95043,
+        "localita": "TASSAROLO",
+        "via": "VIA GAVI",
+        "civico": 9999,
+        "id_condotta": 3267
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.764416666657663,
+            44.722840002220586
+          ],
+          [
+            8.764740787914242,
+            44.72247998259097
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 353119,
+        "utenza_id": 95106,
+        "localita": "TASSAROLO",
+        "via": "VICOLO LEVANTE",
+        "civico": 1,
+        "id_condotta": 3274
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.771118333324576,
+            44.72521333555446
+          ],
+          [
+            8.770919612785152,
+            44.72521790070645
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 353122,
+        "utenza_id": 95109,
+        "localita": "TASSAROLO",
+        "via": "VICOLO IV NOVEMBRE",
+        "civico": 3,
+        "id_condotta": 3299
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770204999991192,
+            44.725721668887985
+          ],
+          [
+            8.770260592213466,
+            44.72562676332012
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 353123,
+        "utenza_id": 95110,
+        "localita": "TASSAROLO",
+        "via": "VICOLO CORTE DEI SORI",
+        "civico": 3,
+        "id_condotta": 3299
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770101666657883,
+            44.72565833555449
+          ],
+          [
+            8.770141013201153,
+            44.725591164379395
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 353124,
+        "utenza_id": 102473,
+        "localita": "TASSAROLO",
+        "via": "VIA DEI MARTIRI",
+        "civico": 12,
+        "id_condotta": 3299
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.77011999999123,
+            44.72567333555453
+          ],
+          [
+            8.770164105980173,
+            44.72559803916476
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 353125,
+        "utenza_id": 95108,
+        "localita": "TASSAROLO",
+        "via": "VICOLO IV NOVEMBRE",
+        "civico": 9,
+        "id_condotta": 3309
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.771983333324602,
+            44.72568333555455
+          ],
+          [
+            8.771887204672662,
+            44.72599724185465
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 353126,
+        "utenza_id": 102426,
+        "localita": "TASSAROLO",
+        "via": "VICOLO ANDREA GEMME",
+        "civico": 2,
+        "id_condotta": 3303
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770133333324539,
+            44.72610000222136
+          ],
+          [
+            8.770121878732196,
+            44.72611143471371
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 353127,
+        "utenza_id": 109672,
+        "localita": "TASSAROLO",
+        "via": "VICOLO PONENTE",
+        "civico": 14,
+        "id_condotta": 3304
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769951666657901,
+            44.72606333555462
+          ],
+          [
+            8.769954253487246,
+            44.72605886751329
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 353148,
+        "utenza_id": 109732,
+        "localita": "TASSAROLO",
+        "via": "VICOLO CORTE DEI SORI",
+        "civico": 6,
+        "id_condotta": 3305
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769806666657844,
+            44.726523335554724
+          ],
+          [
+            8.769759694290238,
+            44.72656840587539
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 353150,
+        "utenza_id": 95099,
+        "localita": "TASSAROLO",
+        "via": "LOCALITA' FILAGNOTTI",
+        "civico": 1,
+        "id_condotta": 5661
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.773316666658028,
+            44.722496668887125
+          ],
+          [
+            8.773454093047722,
+            44.72257295376981
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 353151,
+        "utenza_id": 109670,
+        "localita": "TASSAROLO",
+        "via": "VICOLO FRANCO BUFFARELLO",
+        "civico": 17,
+        "id_condotta": 3314
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770398333324545,
+            44.72745166888837
+          ],
+          [
+            8.77038569608836,
+            44.72749809751953
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 353152,
+        "utenza_id": 109736,
+        "localita": "TASSAROLO",
+        "via": "VIA MAZZINI",
+        "civico": 14,
+        "id_condotta": 3311
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769983333324546,
+            44.7269600022215
+          ],
+          [
+            8.770067824746926,
+            44.726971043364834
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 353153,
+        "utenza_id": 116896,
+        "localita": "TASSAROLO",
+        "via": "VICOLO ALLA VIA GARIBALDI",
+        "civico": 4,
+        "id_condotta": 3312
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770304999991232,
+            44.72727166888835
+          ],
+          [
+            8.770318594161047,
+            44.72718154995019
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 353154,
+        "utenza_id": 102429,
+        "localita": "TASSAROLO",
+        "via": "VICOLO FORNO",
+        "civico": 6,
+        "id_condotta": 3319
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.77050666665789,
+            44.72709000222154
+          ],
+          [
+            8.770478332793056,
+            44.72708883324356
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 353155,
+        "utenza_id": 102431,
+        "localita": "TASSAROLO",
+        "via": "VIA GARIBALDI",
+        "civico": 44,
+        "id_condotta": 3320
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770308333324543,
+            44.727000002221594
+          ],
+          [
+            8.77033499938806,
+            44.72698662282629
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 353157,
+        "utenza_id": 109735,
+        "localita": "TASSAROLO",
+        "via": "VIA MAZZINI",
+        "civico": 6,
+        "id_condotta": 3337
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769866666657892,
+            44.726453335554694
+          ],
+          [
+            8.769700338210425,
+            44.72645110601797
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 353158,
+        "utenza_id": 102493,
+        "localita": "TASSAROLO",
+        "via": "VICOLO GERA",
+        "civico": 1,
+        "id_condotta": 3333
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769848333324544,
+            44.726946668888196
+          ],
+          [
+            8.769742255292732,
+            44.726952154787085
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 353159,
+        "utenza_id": 109662,
+        "localita": "TASSAROLO",
+        "via": "VIA LUIGI BISIO",
+        "civico": 8,
+        "id_condotta": 3333
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769826666657883,
+            44.72703500222157
+          ],
+          [
+            8.769751083658932,
+            44.72703891103825
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 353160,
+        "utenza_id": 116881,
+        "localita": "TASSAROLO",
+        "via": "VIA GAVI",
+        "civico": 7,
+        "id_condotta": 3334
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769241666657873,
+            44.72631833555469
+          ],
+          [
+            8.769328815077964,
+            44.72636208764349
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 353161,
+        "utenza_id": 95037,
+        "localita": "TASSAROLO",
+        "via": "PIAZZA LIBERTA'",
+        "civico": 10,
+        "id_condotta": 3336
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.76955833332451,
+            44.72654666888811
+          ],
+          [
+            8.76957136021491,
+            44.726510006340504
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 353431,
+        "utenza_id": 65629,
+        "localita": "TASSAROLO",
+        "via": "LOCALITA' CARRETTA",
+        "civico": 18,
+        "id_condotta": 3236
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.779273333324895,
+            44.71908833555301
+          ],
+          [
+            8.778620784243044,
+            44.718974200595326
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 353467,
+        "utenza_id": 65644,
+        "localita": "TASSAROLO",
+        "via": "STRADA CAVALLARI",
+        "civico": 3,
+        "id_condotta": 3349
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.7565399999907,
+            44.73037666888906
+          ],
+          [
+            8.756497051329786,
+            44.73037156356913
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 353571,
+        "utenza_id": 73027,
+        "localita": "TASSAROLO",
+        "via": "VICOLO IV NOVEMBRE",
+        "civico": 1,
+        "id_condotta": 5667
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.77045833332454,
+            44.72521833555445
+          ],
+          [
+            8.770287316922873,
+            44.7251679448069
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 353572,
+        "utenza_id": 65637,
+        "localita": "TASSAROLO",
+        "via": "VIA DEI MARTIRI",
+        "civico": 27,
+        "id_condotta": 5667
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770373333324532,
+            44.72537666888787
+          ],
+          [
+            8.770199112750758,
+            44.725319521293834
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 353573,
+        "utenza_id": 95096,
+        "localita": "TASSAROLO",
+        "via": "VIA DEI MARTIRI",
+        "civico": 40,
+        "id_condotta": 5667
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.771124999991256,
+            44.724461668887635
+          ],
+          [
+            8.771080960914517,
+            44.72443680146568
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 353574,
+        "utenza_id": 109731,
+        "localita": "TASSAROLO",
+        "via": "VIA DEI MARTIRI",
+        "civico": 25,
+        "id_condotta": 5667
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770399999991238,
+            44.72521166888785
+          ],
+          [
+            8.770282107000144,
+            44.7251769311531
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 353575,
+        "utenza_id": 72961,
+        "localita": "TASSAROLO",
+        "via": "VIA GARIBALDI",
+        "civico": 10,
+        "id_condotta": 5667
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769968333324558,
+            44.72583166888793
+          ],
+          [
+            8.769903519678463,
+            44.72581367280443
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 353576,
+        "utenza_id": 73025,
+        "localita": "TASSAROLO",
+        "via": "VIA DEI MARTIRI",
+        "civico": 25,
+        "id_condotta": 5667
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770431666657885,
+            44.72529000222111
+          ],
+          [
+            8.770247938889328,
+            44.725235866015495
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 353577,
+        "utenza_id": 102481,
+        "localita": "TASSAROLO",
+        "via": "LOCALITA' CARUBIO",
+        "civico": 1,
+        "id_condotta": 5661
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.77463999999137,
+            44.72202500222037
+          ],
+          [
+            8.774504592194374,
+            44.7218950209887
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 353578,
+        "utenza_id": 109728,
+        "localita": "TASSAROLO",
+        "via": "VICOLO MANZONI",
+        "civico": 7,
+        "id_condotta": 5670
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.771813333324637,
+            44.72445666888765
+          ],
+          [
+            8.771887405605046,
+            44.72438936725467
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 353579,
+        "utenza_id": 116959,
+        "localita": "TASSAROLO",
+        "via": "VICOLO MANZONI",
+        "civico": 3,
+        "id_condotta": 5670
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.771843333324599,
+            44.724573335554304
+          ],
+          [
+            8.77198544853276,
+            44.724444210507045
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 353580,
+        "utenza_id": 109727,
+        "localita": "TASSAROLO",
+        "via": "VICOLO MANZONI",
+        "civico": 9,
+        "id_condotta": 5670
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.771844999991284,
+            44.72447666888761
+          ],
+          [
+            8.771920629687443,
+            44.724407952162785
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 353871,
+        "utenza_id": 116893,
+        "localita": "TASSAROLO",
+        "via": "VIA CAMPOLASSO",
+        "civico": 21,
+        "id_condotta": 6141
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.77294666665797,
+            44.726883335554795
+          ],
+          [
+            8.773010551778908,
+            44.726602971563004
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 353872,
+        "utenza_id": 65577,
+        "localita": "TASSAROLO",
+        "via": "VIA CAMPOLASSO",
+        "civico": 9,
+        "id_condotta": 6141
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.772691666657998,
+            44.7267300022215
+          ],
+          [
+            8.772905237153957,
+            44.72654212894094
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 353873,
+        "utenza_id": 116892,
+        "localita": "TASSAROLO",
+        "via": "VIA CAMPOLASSO",
+        "civico": 99999,
+        "id_condotta": 6142
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.77312166665799,
+            44.72565000222119
+          ],
+          [
+            8.773220616958552,
+            44.725692658629384
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 354008,
+        "utenza_id": 102495,
+        "localita": "TASSAROLO",
+        "via": "VIA MAZZINI",
+        "civico": 28,
+        "id_condotta": 3249
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769598333324502,
+            44.72804500222182
+          ],
+          [
+            8.769609228521384,
+            44.728047482922854
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 354676,
+        "utenza_id": 73023,
+        "localita": "TASSAROLO",
+        "via": "VICOLO LEVANTE",
+        "civico": 8,
+        "id_condotta": 5671
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.77165499999127,
+            44.72480166888776
+          ],
+          [
+            8.771429540959813,
+            44.725099975513736
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 356165,
+        "utenza_id": 95112,
+        "localita": "TASSAROLO",
+        "via": "LOCALITA' SAN DEFENDENTE",
+        "civico": 99999,
+        "id_condotta": 14867
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.765638333324366,
+            44.730261668889035
+          ],
+          [
+            8.765621834120102,
+            44.73022801160656
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 356240,
+        "utenza_id": 80381,
+        "localita": "TASSAROLO",
+        "via": "PIAZZA LIBERTA'",
+        "civico": 11,
+        "id_condotta": 3250
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769506666657886,
+            44.72675500222144
+          ],
+          [
+            8.769711886315958,
+            44.72674281082657
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 356242,
+        "utenza_id": 80390,
+        "localita": "TASSAROLO",
+        "via": "VICOLO FRANCO BUFFARELLO",
+        "civico": 2,
+        "id_condotta": 3250
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.76959166665789,
+            44.72729333555488
+          ],
+          [
+            8.769748874801326,
+            44.72729386934838
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 356264,
+        "utenza_id": 80443,
+        "localita": "TASSAROLO",
+        "via": "VIA DEI MARTIRI",
+        "civico": 99999,
+        "id_condotta": 3239
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.772656666657996,
+            44.722571668887184
+          ],
+          [
+            8.77317014778909,
+            44.722841701018865
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 356283,
+        "utenza_id": 80461,
+        "localita": "TASSAROLO",
+        "via": "STRADA FRANCAVILLA",
+        "civico": 6,
+        "id_condotta": 3349
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.75773499999071,
+            44.73146166888926
+          ],
+          [
+            8.756256488085707,
+            44.73124872386754
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 356573,
+        "utenza_id": 95103,
+        "localita": "TASSAROLO",
+        "via": "VIA XXV APRILE",
+        "civico": 2,
+        "id_condotta": 5671
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.771033333324564,
+            44.725018335554374
+          ],
+          [
+            8.771072793057913,
+            44.7249652363527
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 357714,
+        "utenza_id": 65698,
+        "localita": "TASSAROLO",
+        "via": "VIA VECCHIA NOVI LIGURE",
+        "civico": 26,
+        "id_condotta": 18044
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.77668333332478,
+            44.73327666888974
+          ],
+          [
+            8.776673947827515,
+            44.73328291022022
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 357715,
+        "utenza_id": 73089,
+        "localita": "TASSAROLO",
+        "via": "VIA VECCHIA NOVI LIGURE",
+        "civico": 26,
+        "id_condotta": 18044
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.776684999991454,
+            44.733290002223065
+          ],
+          [
+            8.776684053598657,
+            44.733290631571705
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 357783,
+        "utenza_id": 87832,
+        "localita": "TASSAROLO",
+        "via": "STRADA FRANCAVILLA",
+        "civico": 3,
+        "id_condotta": 21249
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.76082166665753,
+            44.73010833555556
+          ],
+          [
+            8.760750356730329,
+            44.729641988446076
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 357784,
+        "utenza_id": 116964,
+        "localita": "TASSAROLO",
+        "via": "STRADA FRANCAVILLA",
+        "civico": 1,
+        "id_condotta": 21249
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.761421666657524,
+            44.72995333555551
+          ],
+          [
+            8.761343482260163,
+            44.72956131293512
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 360262,
+        "utenza_id": 80384,
+        "localita": "TASSAROLO",
+        "via": "LOCALITA' CAVALLARI",
+        "civico": 4,
+        "id_condotta": 3264
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.763574999990986,
+            44.722786668887245
+          ],
+          [
+            8.763583525222906,
+            44.722790648405294
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 360263,
+        "utenza_id": 80389,
+        "localita": "TASSAROLO",
+        "via": "VICOLO FORNO",
+        "civico": 2,
+        "id_condotta": 3321
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770553333324536,
+            44.72690166888826
+          ],
+          [
+            8.770551832131027,
+            44.72694377100262
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 360264,
+        "utenza_id": 80392,
+        "localita": "TASSAROLO",
+        "via": "VICOLO PONENTE",
+        "civico": 10,
+        "id_condotta": 3268
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769504999991204,
+            44.725806668887955
+          ],
+          [
+            8.76936383299877,
+            44.72591457788847
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 360265,
+        "utenza_id": 80388,
+        "localita": "TASSAROLO",
+        "via": "VICOLO POZZO",
+        "civico": 3,
+        "id_condotta": 3305
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770016666657877,
+            44.7267116688882
+          ],
+          [
+            8.769933642643466,
+            44.72671881365036
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 360266,
+        "utenza_id": 80386,
+        "localita": "TASSAROLO",
+        "via": "VIA GARIBALDI",
+        "civico": 13,
+        "id_condotta": 3333
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769746666657865,
+            44.72678333555475
+          ],
+          [
+            8.769725189250691,
+            44.72678444626583
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 360299,
+        "utenza_id": 80445,
+        "localita": "TASSAROLO",
+        "via": "VIA CAMPOLASSO",
+        "civico": 5,
+        "id_condotta": 6141
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.772448333324647,
+            44.72667500222147
+          ],
+          [
+            8.772721066340688,
+            44.72643557347604
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 360300,
+        "utenza_id": 80450,
+        "localita": "TASSAROLO",
+        "via": "VICOLO CORTE DEI SORI",
+        "civico": 10,
+        "id_condotta": 3274
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770789999991218,
+            44.725398335554495
+          ],
+          [
+            8.770927625417265,
+            44.72539517412769
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 360301,
+        "utenza_id": 80441,
+        "localita": "TASSAROLO",
+        "via": "VICOLO CENTRALE",
+        "civico": 6,
+        "id_condotta": 3299
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770324999991209,
+            44.725670002221285
+          ],
+          [
+            8.770337003016792,
+            44.725649510899565
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 360302,
+        "utenza_id": 80456,
+        "localita": "TASSAROLO",
+        "via": "VICOLO MERLANI II",
+        "civico": 8,
+        "id_condotta": 3337
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769899999991212,
+            44.726198335554606
+          ],
+          [
+            8.769726145656561,
+            44.72617468186741
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 360342,
+        "utenza_id": 80464,
+        "localita": "TASSAROLO",
+        "via": "VIA VECCHIA NOVI LIGURE",
+        "civico": 8,
+        "id_condotta": 3316
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770118333324547,
+            44.72845666888856
+          ],
+          [
+            8.76983535090498,
+            44.728569085570584
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 360343,
+        "utenza_id": 80465,
+        "localita": "TASSAROLO",
+        "via": "VIA VECCHIA NOVI LIGURE",
+        "civico": 14,
+        "id_condotta": 3238
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.783113333325062,
+            44.71664166888581
+          ],
+          [
+            8.78313553392072,
+            44.71667009403758
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 360437,
+        "utenza_id": 80521,
+        "localita": "TASSAROLO",
+        "via": "VIA VECCHIA NOVI LIGURE",
+        "civico": 8,
+        "id_condotta": 3318
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769543333324519,
+            44.728638335555246
+          ],
+          [
+            8.769604432293448,
+            44.72860395394198
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 360503,
+        "utenza_id": 73084,
+        "localita": "TASSAROLO",
+        "via": "VIA SANT'AMBROGIO",
+        "civico": 13,
+        "id_condotta": 3270
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.771003333324593,
+            44.730858335555745
+          ],
+          [
+            8.770959564913584,
+            44.730734626421636
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 362323,
+        "utenza_id": 80514,
+        "localita": "TASSAROLO",
+        "via": "VIA SANT'AMBROGIO",
+        "civico": 14,
+        "id_condotta": 20983
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.771638333324614,
+            44.73077333555567
+          ],
+          [
+            8.771662573350742,
+            44.73080239104313
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 363723,
+        "utenza_id": 87764,
+        "localita": "TASSAROLO",
+        "via": "PIAZZA LIBERTA'",
+        "civico": 8,
+        "id_condotta": 3303
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770203333324558,
+            44.72614000222136
+          ],
+          [
+            8.770194768613313,
+            44.72614855041831
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 364660,
+        "utenza_id": 116168,
+        "localita": "FRAZ. ROVERETO GAVI",
+        "via": "FRAZIONE ROVERETO",
+        "civico": 99999,
+        "id_condotta": 7009
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770629999991243,
+            44.716610002219085
+          ],
+          [
+            8.770296157066554,
+            44.71643218299728
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 366029,
+        "utenza_id": 109796,
+        "localita": "TASSAROLO",
+        "via": "VIA MASSIMILIANO SPINOLA",
+        "civico": 5,
+        "id_condotta": 20982
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.772603333324623,
+            44.732630002222855
+          ],
+          [
+            8.772225632352665,
+            44.73208820988942
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 366048,
+        "utenza_id": 65642,
+        "localita": "TASSAROLO",
+        "via": "LOCALITA' RONCHI",
+        "civico": 1,
+        "id_condotta": 21247
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.764014999990943,
+            44.730413335555674
+          ],
+          [
+            8.764234086656076,
+            44.73059891451247
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 366049,
+        "utenza_id": 102497,
+        "localita": "TASSAROLO",
+        "via": "LOCALITA' SAN DEFENDENTE",
+        "civico": 9999,
+        "id_condotta": 21247
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.766024999991034,
+            44.72992666888891
+          ],
+          [
+            8.766164542747543,
+            44.730053249874416
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 366333,
+        "utenza_id": 87819,
+        "localita": "TASSAROLO",
+        "via": "VIA DEI MARTIRI",
+        "civico": 26,
+        "id_condotta": 3244
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770211666657879,
+            44.725268335554404
+          ],
+          [
+            8.770214543950475,
+            44.725269213714014
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 366334,
+        "utenza_id": 87773,
+        "localita": "TASSAROLO",
+        "via": "VICOLO FORNO",
+        "civico": 1,
+        "id_condotta": 3319
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770439999991243,
+            44.72705310222153
+          ],
+          [
+            8.770481095891379,
+            44.727054797738795
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 366340,
+        "utenza_id": 87822,
+        "localita": "TASSAROLO",
+        "via": "LOCALITA' CARUBIO",
+        "civico": 99999,
+        "id_condotta": 5662
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.775488333324777,
+            44.72161500222027
+          ],
+          [
+            8.77548304464143,
+            44.721639353916075
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 366838,
+        "utenza_id": 73034,
+        "localita": "TASSAROLO",
+        "via": "LOCALITA' SAN DEFENDENTE",
+        "civico": 1,
+        "id_condotta": 21244
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.766191666657749,
+            44.729941668888955
+          ],
+          [
+            8.766255829041123,
+            44.730002156849
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 368918,
+        "utenza_id": 95111,
+        "localita": "TASSAROLO",
+        "via": "STRADA FRANCAVILLA",
+        "civico": 2,
+        "id_condotta": 22939
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.768861666657827,
+            44.72845833555522
+          ],
+          [
+            8.76888564908281,
+            44.72848475955666
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 368921,
+        "utenza_id": 95097,
+        "localita": "TASSAROLO",
+        "via": "VIA DEI MARTIRI",
+        "civico": 44,
+        "id_condotta": 3246
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.771498333324619,
+            44.723953335554135
+          ],
+          [
+            8.771553476953242,
+            44.723984186974526
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 369292,
+        "utenza_id": 80515,
+        "localita": "TASSAROLO",
+        "via": "VIA SANT'AMBROGIO",
+        "civico": 10,
+        "id_condotta": 20983
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.771201666657895,
+            44.73097166888915
+          ],
+          [
+            8.771218182709092,
+            44.730991255120436
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 369300,
+        "utenza_id": 117010,
+        "localita": "TASSAROLO",
+        "via": "VIA SANT'AMBROGIO",
+        "civico": 17,
+        "id_condotta": 20983
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.771626666657943,
+            44.73092000222252
+          ],
+          [
+            8.771563563691826,
+            44.7308443633896
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 369301,
+        "utenza_id": 117011,
+        "localita": "TASSAROLO",
+        "via": "VIA SANT'AMBROGIO",
+        "civico": 6,
+        "id_condotta": 20983
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.77117666665792,
+            44.731125002222555
+          ],
+          [
+            8.771104838043808,
+            44.731039821322874
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 369302,
+        "utenza_id": 65695,
+        "localita": "TASSAROLO",
+        "via": "VIA SANT'AMBROGIO",
+        "civico": 7,
+        "id_condotta": 20983
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770976666657885,
+            44.731015002222506
+          ],
+          [
+            8.771026059142848,
+            44.7310735765866
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 369303,
+        "utenza_id": 73086,
+        "localita": "TASSAROLO",
+        "via": "VIA SANT'AMBROGIO",
+        "civico": 1,
+        "id_condotta": 20983
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.771278333324593,
+            44.73216833555605
+          ],
+          [
+            8.771181066164102,
+            44.73223085622222
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 369304,
+        "utenza_id": 109792,
+        "localita": "TASSAROLO",
+        "via": "VIA VECCHIA NOVI LIGURE",
+        "civico": 17,
+        "id_condotta": 20984
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.776486666658094,
+            44.7293700022221
+          ],
+          [
+            8.776347043434614,
+            44.729362748599755
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 369305,
+        "utenza_id": 80513,
+        "localita": "TASSAROLO",
+        "via": "VIA SANT'AMBROGIO",
+        "civico": 25,
+        "id_condotta": 20987
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.772624999991276,
+            44.730326668889006
+          ],
+          [
+            8.772685881249217,
+            44.73042359080163
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 369306,
+        "utenza_id": 95161,
+        "localita": "TASSAROLO",
+        "via": "VIA SANT'AMBROGIO",
+        "civico": 18,
+        "id_condotta": 20987
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.773589999991339,
+            44.72990166888892
+          ],
+          [
+            8.773712424102076,
+            44.730102301114634
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 369307,
+        "utenza_id": 73082,
+        "localita": "TASSAROLO",
+        "via": "VIA SANT'AMBROGIO",
+        "civico": 20,
+        "id_condotta": 20987
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.774879999991404,
+            44.72967333555547
+          ],
+          [
+            8.774891435019445,
+            44.72977407811109
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 369308,
+        "utenza_id": 102551,
+        "localita": "TASSAROLO",
+        "via": "VIA SANT'AMBROGIO",
+        "civico": 31,
+        "id_condotta": 20987
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.773796666658,
+            44.730056668889
+          ],
+          [
+            8.77380667804314,
+            44.730073075740066
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 369309,
+        "utenza_id": 65694,
+        "localita": "TASSAROLO",
+        "via": "VIA SANT'AMBROGIO",
+        "civico": 20,
+        "id_condotta": 20987
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.775933333324778,
+            44.72954333555543
+          ],
+          [
+            8.776006689896084,
+            44.729648259675166
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 369316,
+        "utenza_id": 80518,
+        "localita": "TASSAROLO",
+        "via": "VIA MASSIMILIANO SPINOLA",
+        "civico": 99999,
+        "id_condotta": 20996
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.77360666665801,
+            44.73071166888916
+          ],
+          [
+            8.77362349651336,
+            44.730731219698775
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 369317,
+        "utenza_id": 102552,
+        "localita": "TASSAROLO",
+        "via": "VIA MASSIMILIANO SPINOLA",
+        "civico": 16,
+        "id_condotta": 20996
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.773303333324675,
+            44.7307866688891
+          ],
+          [
+            8.773356235479543,
+            44.73084812434139
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 369318,
+        "utenza_id": 109795,
+        "localita": "TASSAROLO",
+        "via": "VIA MASSIMILIANO SPINOLA",
+        "civico": 12,
+        "id_condotta": 20996
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.772426666657983,
+            44.731151668889204
+          ],
+          [
+            8.772483918629957,
+            44.73122349859767
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 369319,
+        "utenza_id": 117012,
+        "localita": "TASSAROLO",
+        "via": "VIA MASSIMILIANO SPINOLA",
+        "civico": 8,
+        "id_condotta": 20996
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.772148333324605,
+            44.73147166888933
+          ],
+          [
+            8.772080693692518,
+            44.7313868060989
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 369320,
+        "utenza_id": 65697,
+        "localita": "TASSAROLO",
+        "via": "VIA MASSIMILIANO SPINOLA",
+        "civico": 9,
+        "id_condotta": 20996
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.772838333324664,
+            44.731070002222474
+          ],
+          [
+            8.772841246484324,
+            44.731073386416824
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 369351,
+        "utenza_id": 73036,
+        "localita": "TASSAROLO",
+        "via": "VIA VECCHIA NOVI LIGURE",
+        "civico": 12,
+        "id_condotta": 21143
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.771888333324586,
+            44.72843833555516
+          ],
+          [
+            8.771904677858695,
+            44.728495812342416
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 369352,
+        "utenza_id": 95117,
+        "localita": "TASSAROLO",
+        "via": "VIA VECCHIA NOVI LIGURE",
+        "civico": 20,
+        "id_condotta": 21146
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.776529999991482,
+            44.7290416688887
+          ],
+          [
+            8.776485056541626,
+            44.729109304497186
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 369353,
+        "utenza_id": 95159,
+        "localita": "TASSAROLO",
+        "via": "VIA SANT'AMBROGIO",
+        "civico": 22,
+        "id_condotta": 21146
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.776698333324813,
+            44.72936833555536
+          ],
+          [
+            8.776770169875375,
+            44.72934652458053
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 369354,
+        "utenza_id": 102500,
+        "localita": "TASSAROLO",
+        "via": "VIA VECCHIA NOVI LIGURE",
+        "civico": 15,
+        "id_condotta": 21146
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.775261666658082,
+            44.72880833555531
+          ],
+          [
+            8.775226198414611,
+            44.728842997681284
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 369355,
+        "utenza_id": 102501,
+        "localita": "TASSAROLO",
+        "via": "VIA VECCHIA NOVI LIGURE",
+        "civico": 16,
+        "id_condotta": 21146
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.775809999991402,
+            44.728896668888666
+          ],
+          [
+            8.775797739820288,
+            44.728946724713204
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 369356,
+        "utenza_id": 116967,
+        "localita": "TASSAROLO",
+        "via": "VIA VECCHIA NOVI LIGURE",
+        "civico": 16,
+        "id_condotta": 21146
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.775969999991434,
+            44.72881500222197
+          ],
+          [
+            8.775905987114298,
+            44.728963665110825
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 369357,
+        "utenza_id": 116968,
+        "localita": "TASSAROLO",
+        "via": "VIA VECCHIA NOVI LIGURE",
+        "civico": 16,
+        "id_condotta": 21146
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.776726666658142,
+            44.72903500222201
+          ],
+          [
+            8.77655988034602,
+            44.72916002795418
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 369358,
+        "utenza_id": 65646,
+        "localita": "TASSAROLO",
+        "via": "VIA VECCHIA NOVI LIGURE",
+        "civico": 5,
+        "id_condotta": 21146
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.775149999991413,
+            44.728723335555195
+          ],
+          [
+            8.77509718199365,
+            44.7287561395654
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 369359,
+        "utenza_id": 72965,
+        "localita": "TASSAROLO",
+        "via": "VICOLO FRANCO BUFFARELLO",
+        "civico": 19,
+        "id_condotta": 21146
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.774228333324672,
+            44.72810333555514
+          ],
+          [
+            8.77430126333527,
+            44.72817975760462
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 369910,
+        "utenza_id": 102480,
+        "localita": "TASSAROLO",
+        "via": "VIA DEI MARTIRI",
+        "civico": 50,
+        "id_condotta": 3239
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770514999991217,
+            44.722321668887126
+          ],
+          [
+            8.772140126549376,
+            44.72348680570642
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 370777,
+        "utenza_id": 80446,
+        "localita": "TASSAROLO",
+        "via": "VICOLO LEVANTE",
+        "civico": 10,
+        "id_condotta": 5671
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.771689999991287,
+            44.72485333555435
+          ],
+          [
+            8.771429540959813,
+            44.725099975513736
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 370781,
+        "utenza_id": 87833,
+        "localita": "TASSAROLO",
+        "via": "VIA PASTURANA",
+        "civico": 99999,
+        "id_condotta": 14756
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.75669833332404,
+            44.736620002223816
+          ],
+          [
+            8.756928144950425,
+            44.73680000963188
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 370846,
+        "utenza_id": 102483,
+        "localita": "TASSAROLO",
+        "via": "LOCALITA' CARRETTA",
+        "civico": 99999,
+        "id_condotta": 3237
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.780876666658303,
+            44.71849000221949
+          ],
+          [
+            8.78085021395197,
+            44.71851762331606
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 370938,
+        "utenza_id": 109722,
+        "localita": "TASSAROLO",
+        "via": "VIA DEI MARTIRI",
+        "civico": 36,
+        "id_condotta": 3246
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.771013333324596,
+            44.72446000222099
+          ],
+          [
+            8.771024641908413,
+            44.724466297244476
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 371827,
+        "utenza_id": 116876,
+        "localita": "TASSAROLO",
+        "via": "PIAZZA LIBERTA'",
+        "civico": 2,
+        "id_condotta": 3250
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769668333324534,
+            44.72667666888816
+          ],
+          [
+            8.769703907574629,
+            44.72667455551727
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 371916,
+        "utenza_id": 87769,
+        "localita": "TASSAROLO",
+        "via": "VIA CAMPOLASSO",
+        "civico": 11,
+        "id_condotta": 6142
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.772943333324664,
+            44.725986668887955
+          ],
+          [
+            8.772937398686535,
+            44.72598019267863
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 371917,
+        "utenza_id": 87765,
+        "localita": "TASSAROLO",
+        "via": "VICOLO MADDALENA",
+        "civico": 3,
+        "id_condotta": 3268
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769084999991152,
+            44.726016668888015
+          ],
+          [
+            8.769286136227858,
+            44.72586292014819
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 371918,
+        "utenza_id": 87772,
+        "localita": "TASSAROLO",
+        "via": "VIA GARIBALDI",
+        "civico": 24,
+        "id_condotta": 3301
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770644999991227,
+            44.72640500222137
+          ],
+          [
+            8.770398205593544,
+            44.72642273155232
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 371919,
+        "utenza_id": 87768,
+        "localita": "TASSAROLO",
+        "via": "VIA GARIBALDI",
+        "civico": 5,
+        "id_condotta": 3304
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770026666657856,
+            44.726061668888036
+          ],
+          [
+            8.7700175121693,
+            44.72607748080303
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 371920,
+        "utenza_id": 87762,
+        "localita": "TASSAROLO",
+        "via": "VIA LUIGI BISIO",
+        "civico": 14,
+        "id_condotta": 3305
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.77001166665788,
+            44.726763335554764
+          ],
+          [
+            8.769964746803561,
+            44.72679097757125
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 371921,
+        "utenza_id": 87775,
+        "localita": "TASSAROLO",
+        "via": "VICOLO FRANCO BUFFARELLO",
+        "civico": 3,
+        "id_condotta": 3314
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770201666657874,
+            44.72737666888831
+          ],
+          [
+            8.77016448510841,
+            44.72745952504022
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 371929,
+        "utenza_id": 87825,
+        "localita": "TASSAROLO",
+        "via": "VIA DEI MARTIRI",
+        "civico": 45,
+        "id_condotta": 5667
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.771281666657917,
+            44.72436666888767
+          ],
+          [
+            8.771206213418347,
+            44.72432406299345
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 371930,
+        "utenza_id": 87820,
+        "localita": "TASSAROLO",
+        "via": "VIA DEI MARTIRI",
+        "civico": 30,
+        "id_condotta": 5667
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.77037499999121,
+            44.72505000222111
+          ],
+          [
+            8.770365618459246,
+            44.725046907741984
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 371931,
+        "utenza_id": 87829,
+        "localita": "TASSAROLO",
+        "via": "VIA DEI MARTIRI",
+        "civico": 5,
+        "id_condotta": 5667
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769881666657877,
+            44.725871668887976
+          ],
+          [
+            8.769872421295732,
+            44.72586895361327
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 371932,
+        "utenza_id": 87830,
+        "localita": "TASSAROLO",
+        "via": "VICOLO MERLANI II",
+        "civico": 1,
+        "id_condotta": 5667
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770054999991205,
+            44.7256366688879
+          ],
+          [
+            8.770008154480553,
+            44.72562339253069
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 371933,
+        "utenza_id": 87836,
+        "localita": "TASSAROLO",
+        "via": "VIA ROVERE VERDE",
+        "civico": 3,
+        "id_condotta": 5670
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.772084999991279,
+            44.72443833555427
+          ],
+          [
+            8.772043063434708,
+            44.72447643904287
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 371934,
+        "utenza_id": 87826,
+        "localita": "TASSAROLO",
+        "via": "VIA XXV APRILE",
+        "civico": 8,
+        "id_condotta": 3274
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.771149999991275,
+            44.72563833555455
+          ],
+          [
+            8.770938835482308,
+            44.72564318658646
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 371935,
+        "utenza_id": 87835,
+        "localita": "TASSAROLO",
+        "via": "STRADA CAVALLARI",
+        "civico": 1,
+        "id_condotta": 3349
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.756386666657345,
+            44.730921668889145
+          ],
+          [
+            8.756350663893524,
+            44.7309164832895
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 371945,
+        "utenza_id": 87891,
+        "localita": "TASSAROLO",
+        "via": "VIA MASSIMILIANO SPINOLA",
+        "civico": 99999,
+        "id_condotta": 20995
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.77507833332471,
+            44.73019666888904
+          ],
+          [
+            8.774945746328289,
+            44.73002414034909
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 371946,
+        "utenza_id": 87893,
+        "localita": "TASSAROLO",
+        "via": "VIA NOVI LIGURE",
+        "civico": 8,
+        "id_condotta": 3282
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.771443333324571,
+            44.73244500222282
+          ],
+          [
+            8.771421466979444,
+            44.73242431934896
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 372606,
+        "utenza_id": 65631,
+        "localita": "TASSAROLO",
+        "via": "VIA DEI MARTIRI",
+        "civico": 49,
+        "id_condotta": 3246
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.77187666665798,
+            44.72353000222077
+          ],
+          [
+            8.771995711567973,
+            44.72360186895956
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 372607,
+        "utenza_id": 65579,
+        "localita": "TASSAROLO",
+        "via": "VICOLO ALLA VIA GARIBALDI",
+        "civico": 2,
+        "id_condotta": 3250
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769541666657831,
+            44.72727000222162
+          ],
+          [
+            8.769749029529812,
+            44.727270706358716
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 373225,
+        "utenza_id": 116886,
+        "localita": "TASSAROLO",
+        "via": "STRADA CAVALLARI",
+        "civico": 4,
+        "id_condotta": 3262
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.756041666657321,
+            44.729693335555474
+          ],
+          [
+            8.756178804631023,
+            44.7297916625999
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 373226,
+        "utenza_id": 116898,
+        "localita": "TASSAROLO",
+        "via": "VICOLO FRANCO BUFFARELLO",
+        "civico": 15,
+        "id_condotta": 3323
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770839999991258,
+            44.72764500222167
+          ],
+          [
+            8.7708575696103,
+            44.72764872530309
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 373227,
+        "utenza_id": 116897,
+        "localita": "TASSAROLO",
+        "via": "VIA GARIBALDI",
+        "civico": 48,
+        "id_condotta": 3306
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770218333324536,
+            44.72698666888824
+          ],
+          [
+            8.770226238687865,
+            44.726929305069625
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 373228,
+        "utenza_id": 116894,
+        "localita": "TASSAROLO",
+        "via": "VICOLO POZZO",
+        "civico": 1,
+        "id_condotta": 3301
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770436666657867,
+            44.726621668888136
+          ],
+          [
+            8.770412900390385,
+            44.72662150052206
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 373229,
+        "utenza_id": 116878,
+        "localita": "TASSAROLO",
+        "via": "PIAZZA LIBERTA'",
+        "civico": 11,
+        "id_condotta": 3305
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769921666657876,
+            44.72651833555476
+          ],
+          [
+            8.769868485447374,
+            44.7266082060423
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 373230,
+        "utenza_id": 117014,
+        "localita": "TASSAROLO",
+        "via": "LOCALITA' FARA NUOVA",
+        "civico": 1,
+        "id_condotta": 3295
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.768116599991151,
+            44.73645166889045
+          ],
+          [
+            8.76821305425352,
+            44.736312904020586
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 373231,
+        "utenza_id": 116961,
+        "localita": "TASSAROLO",
+        "via": "VIA XXV APRILE",
+        "civico": 18,
+        "id_condotta": 3275
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.77099499999125,
+            44.726470002221404
+          ],
+          [
+            8.770908058431086,
+            44.726468579858405
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 373232,
+        "utenza_id": 116954,
+        "localita": "TASSAROLO",
+        "via": "VICOLO PONENTE",
+        "civico": 16,
+        "id_condotta": 3268
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.76943166665786,
+            44.725571668887866
+          ],
+          [
+            8.769160193245511,
+            44.7257791849591
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 373233,
+        "utenza_id": 116956,
+        "localita": "TASSAROLO",
+        "via": "VICOLO PIAZZO",
+        "civico": 5,
+        "id_condotta": 3298
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769889999991177,
+            44.72495666888778
+          ],
+          [
+            8.769864120964957,
+            44.72503511651968
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 373238,
+        "utenza_id": 116955,
+        "localita": "TASSAROLO",
+        "via": "VICOLO CENTRALE",
+        "civico": 4,
+        "id_condotta": 3338
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769263333324524,
+            44.72477333555431
+          ],
+          [
+            8.76889122436227,
+            44.7247505641803
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 373366,
+        "utenza_id": 72957,
+        "localita": "TASSAROLO",
+        "via": "VIA GAVI",
+        "civico": 23,
+        "id_condotta": 3267
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.76566666665771,
+            44.72522500222113
+          ],
+          [
+            8.765764649608435,
+            44.725194196958
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 373378,
+        "utenza_id": 73015,
+        "localita": "TASSAROLO",
+        "via": "VICOLO CENTRALE",
+        "civico": 8,
+        "id_condotta": 3244
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769801666657852,
+            44.725433335554484
+          ],
+          [
+            8.770058315198373,
+            44.72551653677473
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 373379,
+        "utenza_id": 73024,
+        "localita": "TASSAROLO",
+        "via": "VIA DEI MARTIRI",
+        "civico": 35,
+        "id_condotta": 3246
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.77059333332454,
+            44.72471666888768
+          ],
+          [
+            8.770658876287715,
+            44.72476143538987
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 373381,
+        "utenza_id": 73032,
+        "localita": "TASSAROLO",
+        "via": "VIA VECCHIA NOVI LIGURE",
+        "civico": 1,
+        "id_condotta": 3252
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769116666657844,
+            44.7283783355552
+          ],
+          [
+            8.769122018230087,
+            44.728384898439764
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 373843,
+        "utenza_id": 65645,
+        "localita": "TASSAROLO",
+        "via": "LOCALITA' ZERBA",
+        "civico": 1,
+        "id_condotta": 3262
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.75617666665733,
+            44.72969166888885
+          ],
+          [
+            8.756178804631023,
+            44.7297916625999
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 373844,
+        "utenza_id": 65634,
+        "localita": "TASSAROLO",
+        "via": "VIA XXV APRILE",
+        "civico": 24,
+        "id_condotta": 3275
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770838333324571,
+            44.72713166888831
+          ],
+          [
+            8.77085278739852,
+            44.727132320394055
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 373845,
+        "utenza_id": 65627,
+        "localita": "TASSAROLO",
+        "via": "VIA DEI MARTIRI",
+        "civico": 38,
+        "id_condotta": 3275
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770989999991249,
+            44.726290002221404
+          ],
+          [
+            8.770931173305499,
+            44.72628489001394
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 373846,
+        "utenza_id": 65638,
+        "localita": "TASSAROLO",
+        "via": "VICOLO GERA",
+        "civico": 3,
+        "id_condotta": 3250
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769706666657862,
+            44.726693335554764
+          ],
+          [
+            8.769706106763584,
+            44.72669336881666
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 373847,
+        "utenza_id": 65624,
+        "localita": "TASSAROLO",
+        "via": "VICOLO CENTRALE",
+        "civico": 2,
+        "id_condotta": 3274
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770876666657898,
+            44.72546000222118
+          ],
+          [
+            8.7709304997174,
+            44.72545876558935
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 373848,
+        "utenza_id": 65570,
+        "localita": "TASSAROLO",
+        "via": "VICOLO MADDALENA",
+        "civico": 4,
+        "id_condotta": 3268
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.76925833332452,
+            44.72609333555468
+          ],
+          [
+            8.769432479086097,
+            44.7259602180397
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 373849,
+        "utenza_id": 65571,
+        "localita": "TASSAROLO",
+        "via": "VICOLO MADDALENA",
+        "civico": 7,
+        "id_condotta": 3268
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769004999991177,
+            44.72581500222124
+          ],
+          [
+            8.769102252730674,
+            44.725740662161
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 373850,
+        "utenza_id": 65582,
+        "localita": "TASSAROLO",
+        "via": "VICOLO PONENTE",
+        "civico": 2,
+        "id_condotta": 3268
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769624999991215,
+            44.726040002221346
+          ],
+          [
+            8.7695912658592,
+            44.72606578884275
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 373851,
+        "utenza_id": 65625,
+        "localita": "TASSAROLO",
+        "via": "VICOLO PIAZZO",
+        "civico": 8,
+        "id_condotta": 3298
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769839999991184,
+            44.72513500222108
+          ],
+          [
+            8.769893716752708,
+            44.72504399484305
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 373852,
+        "utenza_id": 65574,
+        "localita": "TASSAROLO",
+        "via": "VIA CAMPOLASSO",
+        "civico": 4,
+        "id_condotta": 3309
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.772166666657965,
+            44.72595166888803
+          ],
+          [
+            8.772079763926582,
+            44.7260694491069
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 373853,
+        "utenza_id": 65626,
+        "localita": "TASSAROLO",
+        "via": "VIA DEI MARTIRI",
+        "civico": 34,
+        "id_condotta": 3342
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770829999991216,
+            44.724830002221005
+          ],
+          [
+            8.770805594073604,
+            44.72485300685318
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 373854,
+        "utenza_id": 65632,
+        "localita": "TASSAROLO",
+        "via": "VIA DEI MARTIRI",
+        "civico": 43,
+        "id_condotta": 3342
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770858333324567,
+            44.724785002221
+          ],
+          [
+            8.770793248561526,
+            44.72484635013015
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 373855,
+        "utenza_id": 65628,
+        "localita": "TASSAROLO",
+        "via": "LOCALITA' CARUBIO",
+        "civico": 3,
+        "id_condotta": 3344
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.776581666658108,
+            44.7220200022204
+          ],
+          [
+            8.776704589868537,
+            44.721516874468804
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 374159,
+        "utenza_id": 80519,
+        "localita": "TASSAROLO",
+        "via": "VIA FARA VECCHIA",
+        "civico": 2,
+        "id_condotta": 20982
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.771733333324615,
+            44.73206333555605
+          ],
+          [
+            8.771796233885672,
+            44.732175808287245
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 374185,
+        "utenza_id": 87766,
+        "localita": "TASSAROLO",
+        "via": "VIA GAVI",
+        "civico": 1,
+        "id_condotta": 3334
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769623333324539,
+            44.72618666888805
+          ],
+          [
+            8.769563390123663,
+            44.72615241768466
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 374209,
+        "utenza_id": 80454,
+        "localita": "TASSAROLO",
+        "via": "VICOLO MERLANI II",
+        "civico": 1,
+        "id_condotta": 21142
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769264999991153,
+            44.72853000222185
+          ],
+          [
+            8.769264833574903,
+            44.728530034857506
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 374224,
+        "utenza_id": 80460,
+        "localita": "TASSAROLO",
+        "via": "LOCALITA' ORTO",
+        "civico": 1,
+        "id_condotta": 21172
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.763783333324321,
+            44.72911333555533
+          ],
+          [
+            8.763861791837575,
+            44.72931619400979
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 374225,
+        "utenza_id": 95113,
+        "localita": "TASSAROLO",
+        "via": "STRADA FRANCAVILLA",
+        "civico": 1,
+        "id_condotta": 21172
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.764521666657641,
+            44.72917166888875
+          ],
+          [
+            8.764528100312164,
+            44.72919625389201
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 374478,
+        "utenza_id": 72959,
+        "localita": "TASSAROLO",
+        "via": "LOCALITA' CAVALLARI",
+        "civico": 2,
+        "id_condotta": 3262
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.756068333323965,
+            44.72992333555554
+          ],
+          [
+            8.756178804631023,
+            44.7297916625999
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 374479,
+        "utenza_id": 72958,
+        "localita": "TASSAROLO",
+        "via": "LOC. TAGLIATE",
+        "civico": 1,
+        "id_condotta": 3267
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.765723333324377,
+            44.72267500222048
+          ],
+          [
+            8.765248927661975,
+            44.72280307309421
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 374480,
+        "utenza_id": 72953,
+        "localita": "TASSAROLO",
+        "via": "LOCALITA' ROVERINA",
+        "civico": 1,
+        "id_condotta": 3267
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.767668333324435,
+            44.72569833555454
+          ],
+          [
+            8.767544292266914,
+            44.72583234742428
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 374481,
+        "utenza_id": 72960,
+        "localita": "TASSAROLO",
+        "via": "VICOLO ANDREA GEMME",
+        "civico": 6,
+        "id_condotta": 3299
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770464999991203,
+            44.72558500222116
+          ],
+          [
+            8.770413818358405,
+            44.72567237884097
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 374488,
+        "utenza_id": 72962,
+        "localita": "TASSAROLO",
+        "via": "VIA GARIBALDI",
+        "civico": 20,
+        "id_condotta": 22941
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.77071333332456,
+            44.72622833555467
+          ],
+          [
+            8.770712835332997,
+            44.72621854100784
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 374489,
+        "utenza_id": 73019,
+        "localita": "TASSAROLO",
+        "via": "LOCALITA' SAN PIETRO",
+        "civico": 1,
+        "id_condotta": 3238
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.78312166665838,
+            44.7168033355524
+          ],
+          [
+            8.78304551753803,
+            44.71670583595386
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 374490,
+        "utenza_id": 73035,
+        "localita": "TASSAROLO",
+        "via": "STRADA CAVALLARI",
+        "civico": 7,
+        "id_condotta": 3259
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.757386399990713,
+            44.72992300222224
+          ],
+          [
+            8.757374047076441,
+            44.72973207819237
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 374491,
+        "utenza_id": 72966,
+        "localita": "TASSAROLO",
+        "via": "VICOLO PONENTE",
+        "civico": 12,
+        "id_condotta": 3268
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769321666657822,
+            44.726023335554586
+          ],
+          [
+            8.769417374866672,
+            44.725950175833084
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 374492,
+        "utenza_id": 73037,
+        "localita": "TASSAROLO",
+        "via": "VIA ROVERE VERDE",
+        "civico": 6,
+        "id_condotta": 3326
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.777874999991534,
+            44.72905333555529
+          ],
+          [
+            8.777908969724882,
+            44.729100574445184
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 374493,
+        "utenza_id": 72964,
+        "localita": "TASSAROLO",
+        "via": "VICOLO FRANCO BUFFARELLO",
+        "civico": 6,
+        "id_condotta": 3314
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770204999991188,
+            44.727658335554956
+          ],
+          [
+            8.77025358902773,
+            44.72747982384896
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 374494,
+        "utenza_id": 73029,
+        "localita": "TASSAROLO",
+        "via": "VICOLO CORTE DEI SORI",
+        "civico": 5,
+        "id_condotta": 3338
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.768369999991167,
+            44.725435002221175
+          ],
+          [
+            8.768757518587226,
+            44.72541435715256
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 374496,
+        "utenza_id": 73088,
+        "localita": "TASSAROLO",
+        "via": "VIA NOVI LIGURE",
+        "civico": 8,
+        "id_condotta": 3282
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.771444999991253,
+            44.73242000222286
+          ],
+          [
+            8.771421466979444,
+            44.73242431934896
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 375059,
+        "utenza_id": 102479,
+        "localita": "TASSAROLO",
+        "via": "VIA DEI MARTIRI",
+        "civico": 32,
+        "id_condotta": 5667
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770731666657907,
+            44.72475333555434
+          ],
+          [
+            8.770709770907171,
+            44.72473791322631
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 376320,
+        "utenza_id": 95038,
+        "localita": "TASSAROLO",
+        "via": "PIAZZA LIBERTA'",
+        "civico": 11,
+        "id_condotta": 3267
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.768619999991147,
+            44.72661666888816
+          ],
+          [
+            8.768652655334888,
+            44.72668236745332
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 376321,
+        "utenza_id": 95041,
+        "localita": "TASSAROLO",
+        "via": "VIA GAVI",
+        "civico": 5,
+        "id_condotta": 3267
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.768513333324476,
+            44.726446668888066
+          ],
+          [
+            8.768632959340177,
+            44.72668734276384
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 376871,
+        "utenza_id": 95102,
+        "localita": "TASSAROLO",
+        "via": "GIUSEPPE BRUNO",
+        "civico": 99999,
+        "id_condotta": 5667
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.771078333324558,
+            44.7245566688877
+          ],
+          [
+            8.77099811340751,
+            44.72451137132452
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 377032,
+        "utenza_id": 102428,
+        "localita": "TASSAROLO",
+        "via": "VIA GARIBALDI",
+        "civico": 34,
+        "id_condotta": 3309
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.771878333324604,
+            44.72656166888815
+          ],
+          [
+            8.772301829384705,
+            44.72619204256174
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 377606,
+        "utenza_id": 116957,
+        "localita": "TASSAROLO",
+        "via": "VIA DEI MARTIRI",
+        "civico": 32,
+        "id_condotta": 5667
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770731666657907,
+            44.72475333555434
+          ],
+          [
+            8.770709770907171,
+            44.72473791322631
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 377815,
+        "utenza_id": 73017,
+        "localita": "TASSAROLO",
+        "via": "STRADA DELLE VIGNE",
+        "civico": 99999,
+        "id_condotta": 3238
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.783206666658376,
+            44.71663833555236
+          ],
+          [
+            8.783208761777274,
+            44.71664101809057
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 381338,
+        "utenza_id": 73018,
+        "localita": "TASSAROLO",
+        "via": "LOC. MONTEMARINO",
+        "civico": 99999,
+        "id_condotta": 3238
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.783206666658376,
+            44.71663833555236
+          ],
+          [
+            8.783208761777274,
+            44.71664101809057
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 381339,
+        "utenza_id": 73020,
+        "localita": "TASSAROLO",
+        "via": "VICOLO MANZONI",
+        "civico": 1,
+        "id_condotta": 5667
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.771434999991275,
+            44.72467166888774
+          ],
+          [
+            8.771057097271395,
+            44.72445828081627
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 384699,
+        "utenza_id": 87821,
+        "localita": "TASSAROLO",
+        "via": "VIA DEI MARTIRI",
+        "civico": 36,
+        "id_condotta": 3246
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770948333324558,
+            44.724446668887595
+          ],
+          [
+            8.771009094784466,
+            44.72448049232744
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 388085,
+        "utenza_id": 95160,
+        "localita": "TASSAROLO",
+        "via": "VIA SANT'AMBROGIO",
+        "civico": 35,
+        "id_condotta": 3290
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.77552833332473,
+            44.730786668889095
+          ],
+          [
+            8.775232576257668,
+            44.73079798766754
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 388086,
+        "utenza_id": 116970,
+        "localita": "TASSAROLO",
+        "via": "VIA VECCHIA NOVI LIGURE",
+        "civico": 99999,
+        "id_condotta": 3290
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.776709999991427,
+            44.72963833555547
+          ],
+          [
+            8.776660377221944,
+            44.72959407229407
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 388213,
+        "utenza_id": 73028,
+        "localita": "TASSAROLO",
+        "via": "VICOLO CORTE DEI SORI",
+        "civico": 13,
+        "id_condotta": 5671
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.771716666657955,
+            44.72505000222105
+          ],
+          [
+            8.771429540959813,
+            44.725099975513736
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 388214,
+        "utenza_id": 80447,
+        "localita": "TASSAROLO",
+        "via": "VICOLO LEVANTE",
+        "civico": 7,
+        "id_condotta": 5671
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.771251666657946,
+            44.72518500222114
+          ],
+          [
+            8.771339987359593,
+            44.72506615241762
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 388215,
+        "utenza_id": 95105,
+        "localita": "TASSAROLO",
+        "via": "VICOLO LEVANTE",
+        "civico": 6,
+        "id_condotta": 5671
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.771616666657959,
+            44.72482833555433
+          ],
+          [
+            8.771418034563588,
+            44.7250956297209
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 388216,
+        "utenza_id": 102486,
+        "localita": "TASSAROLO",
+        "via": "VICOLO LEVANTE",
+        "civico": 5,
+        "id_condotta": 5671
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.771171666657938,
+            44.7251683355544
+          ],
+          [
+            8.771267849091585,
+            44.725038906760155
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 388298,
+        "utenza_id": 65636,
+        "localita": "TASSAROLO",
+        "via": "VIA DEI MARTIRI",
+        "civico": 31,
+        "id_condotta": 5671
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.77099333332456,
+            44.72494166888773
+          ],
+          [
+            8.770997072393552,
+            44.7249366373935
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 388849,
+        "utenza_id": 87831,
+        "localita": "TASSAROLO",
+        "via": "LOCALITA' RONCHI",
+        "civico": 2,
+        "id_condotta": 14868
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.764101666657638,
+            44.73101333555578
+          ],
+          [
+            8.764082926760626,
+            44.73101288259017
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 388850,
+        "utenza_id": 109740,
+        "localita": "TASSAROLO",
+        "via": "LOCALITA' RONCHI",
+        "civico": 2,
+        "id_condotta": 14868
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.76401499999095,
+            44.73137833555588
+          ],
+          [
+            8.7640729957378,
+            44.73122165394778
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 389169,
+        "utenza_id": 102494,
+        "localita": "TASSAROLO",
+        "via": "VIA MAZZINI",
+        "civico": 6,
+        "id_condotta": 3248
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769219999991206,
+            44.728163335555145
+          ],
+          [
+            8.769329799041712,
+            44.72829175015331
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 389170,
+        "utenza_id": 109663,
+        "localita": "TASSAROLO",
+        "via": "VIA LUIGI BISIO",
+        "civico": 10,
+        "id_condotta": 3352
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769679999991208,
+            44.726435002221386
+          ],
+          [
+            8.769688502896003,
+            44.72643513506649
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 389201,
+        "utenza_id": 80382,
+        "localita": "TASSAROLO",
+        "via": "VIA GAVI",
+        "civico": 4,
+        "id_condotta": 3352
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769658333324546,
+            44.72633333555471
+          ],
+          [
+            8.769691616409279,
+            44.726333855556426
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 390073,
+        "utenza_id": 65633,
+        "localita": "TASSAROLO",
+        "via": "VICOLO LEVANTE",
+        "civico": 2,
+        "id_condotta": 5671
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.771018333324577,
+            44.72478333555436
+          ],
+          [
+            8.770924717863629,
+            44.72490930971729
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 390397,
+        "utenza_id": 73016,
+        "localita": "TASSAROLO",
+        "via": "VIA DEI MARTIRI",
+        "civico": 42,
+        "id_condotta": 3239
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.772551666658003,
+            44.72306500222056
+          ],
+          [
+            8.772675676809959,
+            44.723175632247845
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 390401,
+        "utenza_id": 102484,
+        "localita": "TASSAROLO",
+        "via": "VICOLO EUROPA",
+        "civico": 2,
+        "id_condotta": 3239
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.772539999991322,
+            44.72317833555394
+          ],
+          [
+            8.77259102984473,
+            44.723223859512586
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 390474,
+        "utenza_id": 65643,
+        "localita": "TASSAROLO",
+        "via": "STRADA FRANCAVILLA",
+        "civico": 5,
+        "id_condotta": 3260
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.758458333324093,
+            44.73049333555563
+          ],
+          [
+            8.757716287302099,
+            44.729665100715785
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 390475,
+        "utenza_id": 65643,
+        "localita": "TASSAROLO",
+        "via": "STRADA FRANCAVILLA",
+        "civico": 5,
+        "id_condotta": 3259
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.758458333324093,
+            44.73049333555563
+          ],
+          [
+            8.757716287302099,
+            44.729665100715785
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 390476,
+        "utenza_id": 65565,
+        "localita": "TASSAROLO",
+        "via": "VIA LUIGI BISIO",
+        "civico": 6,
+        "id_condotta": 3250
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.76969166665788,
+            44.7272200022216
+          ],
+          [
+            8.76974936692369,
+            44.72722019811509
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 390477,
+        "utenza_id": 116962,
+        "localita": "TASSAROLO",
+        "via": "VIA MAZZINI",
+        "civico": 8,
+        "id_condotta": 3250
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769619999991164,
+            44.72698833555482
+          ],
+          [
+            8.769736109034955,
+            44.72698424326038
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 390478,
+        "utenza_id": 80453,
+        "localita": "TASSAROLO",
+        "via": "VIA MAZZINI",
+        "civico": 20,
+        "id_condotta": 3250
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769681666657876,
+            44.72736666888836
+          ],
+          [
+            8.769746461479093,
+            44.72736999552349
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 390479,
+        "utenza_id": 87776,
+        "localita": "TASSAROLO",
+        "via": "VIA DEI MARTIRI",
+        "civico": 4,
+        "id_condotta": 3251
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769764999991216,
+            44.72583333555457
+          ],
+          [
+            8.769859477259656,
+            44.72585864572968
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 390480,
+        "utenza_id": 80391,
+        "localita": "TASSAROLO",
+        "via": "VIA DEI MARTIRI",
+        "civico": 8,
+        "id_condotta": 3251
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769908333324528,
+            44.725613335554556
+          ],
+          [
+            8.76998776473471,
+            44.72563612892729
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 390822,
+        "utenza_id": 80520,
+        "localita": "TASSAROLO",
+        "via": "LOCALITA' FARA NUOVA",
+        "civico": 3,
+        "id_condotta": 3293
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.765853333324385,
+            44.73422000222326
+          ],
+          [
+            8.765912474779922,
+            44.7342989288009
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 390823,
+        "utenza_id": 117013,
+        "localita": "TASSAROLO",
+        "via": "LOCALITA' FARA NUOVA",
+        "civico": 4,
+        "id_condotta": 3293
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.76494166665768,
+            44.735481668890245
+          ],
+          [
+            8.76499654995191,
+            44.73548429431809
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 390831,
+        "utenza_id": 67819,
+        "localita": "FRANCAVILLA BISIO",
+        "via": "VIA TASSAROLO",
+        "civico": 99999,
+        "id_condotta": 3348
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.745373333323595,
+            44.73118666888926
+          ],
+          [
+            8.74728882438848,
+            44.73424195083996
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 391054,
+        "utenza_id": 116969,
+        "localita": "TASSAROLO",
+        "via": "VIA VECCHIA NOVI LIGURE",
+        "civico": 24,
+        "id_condotta": 18044
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.776531666658103,
+            44.733030002222954
+          ],
+          [
+            8.776430762819405,
+            44.73309710293257
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 391247,
+        "utenza_id": 116882,
+        "localita": "TASSAROLO",
+        "via": "VIA GAVI",
+        "civico": 17,
+        "id_condotta": 3267
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.768793333324474,
+            44.72652333555476
+          ],
+          [
+            8.768837305099042,
+            44.726645192602746
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 393974,
+        "utenza_id": 117015,
+        "localita": "TASSAROLO",
+        "via": "VIA NOVI LIGURE",
+        "civico": 2,
+        "id_condotta": 3270
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769981666657863,
+            44.73028000222235
+          ],
+          [
+            8.769933047115005,
+            44.73008319249207
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 393975,
+        "utenza_id": 95162,
+        "localita": "TASSAROLO",
+        "via": "VIA NOVI LIGURE",
+        "civico": 6,
+        "id_condotta": 3270
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.768781666657803,
+            44.72998833555555
+          ],
+          [
+            8.769413867180361,
+            44.72987845101124
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 394548,
+        "utenza_id": 95044,
+        "localita": "TASSAROLO",
+        "via": "LOCALITA' CAVALLARI",
+        "civico": 1,
+        "id_condotta": 3264
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.762718333324285,
+            44.7237216688875
+          ],
+          [
+            8.76267462667822,
+            44.72370546665037
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 394549,
+        "utenza_id": 95107,
+        "localita": "TASSAROLO",
+        "via": "VIA XXV APRILE",
+        "civico": 20,
+        "id_condotta": 3275
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770898333324554,
+            44.72664666888819
+          ],
+          [
+            8.770897489896472,
+            44.72664662814526
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 394550,
+        "utenza_id": 95042,
+        "localita": "TASSAROLO",
+        "via": "VIA GAVI",
+        "civico": 27,
+        "id_condotta": 3267
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.764361666657672,
+            44.72227166888712
+          ],
+          [
+            8.764344817470263,
+            44.72228783815949
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 394551,
+        "utenza_id": 95104,
+        "localita": "TASSAROLO",
+        "via": "VICOLO LEVANTE",
+        "civico": 4,
+        "id_condotta": 3274
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.771006666657907,
+            44.72512333555441
+          ],
+          [
+            8.770915433256766,
+            44.72512543139142
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 394552,
+        "utenza_id": 95039,
+        "localita": "TASSAROLO",
+        "via": "VICOLO MADDALENA",
+        "civico": 4,
+        "id_condotta": 3268
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769186666657877,
+            44.72594333555455
+          ],
+          [
+            8.769289201171723,
+            44.72586495791999
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 394553,
+        "utenza_id": 95095,
+        "localita": "TASSAROLO",
+        "via": "VICOLO PIAZZO",
+        "civico": 1,
+        "id_condotta": 3298
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.76993833332455,
+            44.725128335554395
+          ],
+          [
+            8.769973914732368,
+            44.725068053065684
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 394554,
+        "utenza_id": 95045,
+        "localita": "TASSAROLO",
+        "via": "VICOLO ANDREA GEMME",
+        "civico": 9,
+        "id_condotta": 3299
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770466666657901,
+            44.72574666888793
+          ],
+          [
+            8.770495873879238,
+            44.7256968067077
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 394555,
+        "utenza_id": 95047,
+        "localita": "TASSAROLO",
+        "via": "VIA GARIBALDI",
+        "civico": 40,
+        "id_condotta": 3311
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.77003333332454,
+            44.72694666888821
+          ],
+          [
+            8.77007276722501,
+            44.72695182201059
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 394556,
+        "utenza_id": 95046,
+        "localita": "TASSAROLO",
+        "via": "VIA GARIBALDI",
+        "civico": 30,
+        "id_condotta": 3311
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.7700049999912,
+            44.7271133355549
+          ],
+          [
+            8.770039316164931,
+            44.72711049906229
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 394557,
+        "utenza_id": 95048,
+        "localita": "TASSAROLO",
+        "via": "VICOLO ALLA VIA GARIBALDI",
+        "civico": 3,
+        "id_condotta": 3312
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770136666657889,
+            44.72717333555486
+          ],
+          [
+            8.770137521506243,
+            44.72716766867348
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 396896,
+        "utenza_id": 87892,
+        "localita": "TASSAROLO",
+        "via": "VIA MASSIMILIANO SPINOLA",
+        "civico": 3,
+        "id_condotta": 20982
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.772219999991261,
+            44.731856668889385
+          ],
+          [
+            8.772225632352665,
+            44.73208820988942
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 396996,
+        "utenza_id": 80463,
+        "localita": "TASSAROLO",
+        "via": "VIA VECCHIA NOVI LIGURE",
+        "civico": 2,
+        "id_condotta": 21142
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.76933999999117,
+            44.728545002221864
+          ],
+          [
+            8.769275491532056,
+            44.728557652901685
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 396997,
+        "utenza_id": 116965,
+        "localita": "TASSAROLO",
+        "via": "VIA VECCHIA NOVI LIGURE",
+        "civico": 10,
+        "id_condotta": 21142
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769508333324508,
+            44.72874333555524
+          ],
+          [
+            8.769355661372527,
+            44.72877219462534
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 397520,
+        "utenza_id": 87890,
+        "localita": "TASSAROLO",
+        "via": "VIA SANT'AMBROGIO",
+        "civico": 19,
+        "id_condotta": 20983
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.771771666657935,
+            44.73089333555578
+          ],
+          [
+            8.771687114925676,
+            44.730791987313324
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 397521,
+        "utenza_id": 109793,
+        "localita": "TASSAROLO",
+        "via": "VIA SANT'AMBROGIO",
+        "civico": 4,
+        "id_condotta": 20983
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.77079333332458,
+            44.73142666888931
+          ],
+          [
+            8.770652350453219,
+            44.73123804754206
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 397522,
+        "utenza_id": 73085,
+        "localita": "TASSAROLO",
+        "via": "VIA SANT'AMBROGIO",
+        "civico": 3,
+        "id_condotta": 20983
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.771219999991235,
+            44.73196666888939
+          ],
+          [
+            8.771014202631282,
+            44.73209894981301
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 397523,
+        "utenza_id": 102550,
+        "localita": "TASSAROLO",
+        "via": "VIA SANT'AMBROGIO",
+        "civico": 33,
+        "id_condotta": 20987
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.774169999991372,
+            44.7301150022223
+          ],
+          [
+            8.774090680998366,
+            44.729985014127955
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 399589,
+        "utenza_id": 102489,
+        "localita": "TASSAROLO",
+        "via": "VIA XXV APRILE",
+        "civico": 1,
+        "id_condotta": 22930
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.771006666657913,
+            44.72836500222183
+          ],
+          [
+            8.77082141802534,
+            44.728475558774115
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 399927,
+        "utenza_id": 109726,
+        "localita": "TASSAROLO",
+        "via": "VICOLO MANZONI",
+        "civico": 1,
+        "id_condotta": 5667
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.771434999991275,
+            44.72467166888774
+          ],
+          [
+            8.771057097271395,
+            44.72445828081627
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 399932,
+        "utenza_id": 72955,
+        "localita": "TASSAROLO",
+        "via": "VIA GAVI",
+        "civico": 15,
+        "id_condotta": 3267
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.768896666657833,
+            44.7266800022215
+          ],
+          [
+            8.768881200837464,
+            44.726637142688034
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 399933,
+        "utenza_id": 72956,
+        "localita": "TASSAROLO",
+        "via": "VIA GAVI",
+        "civico": 19,
+        "id_condotta": 3267
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.768678333324505,
+            44.726683335554796
+          ],
+          [
+            8.768675041397081,
+            44.72667671261262
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 400532,
+        "utenza_id": 80452,
+        "localita": "TASSAROLO",
+        "via": "VIA MAZZINI",
+        "civico": 12,
+        "id_condotta": 3333
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769841666657856,
+            44.72712833555486
+          ],
+          [
+            8.769760610147149,
+            44.72713252743888
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 401112,
+        "utenza_id": 109729,
+        "localita": "TASSAROLO",
+        "via": "VIA DEI MARTIRI",
+        "civico": 45,
+        "id_condotta": 5667
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.771271666657926,
+            44.72439333555421
+          ],
+          [
+            8.771184152889836,
+            44.72434391948705
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 401113,
+        "utenza_id": 73022,
+        "localita": "TASSAROLO",
+        "via": "VIA XXV APRILE",
+        "civico": 2,
+        "id_condotta": 5667
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770659999991246,
+            44.72485000222102
+          ],
+          [
+            8.770607106485805,
+            44.72481095734748
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 401114,
+        "utenza_id": 109035,
+        "localita": "TASSAROLO",
+        "via": "VIA DEI MARTIRI",
+        "civico": 19,
+        "id_condotta": 5667
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770188333324523,
+            44.72548166888789
+          ],
+          [
+            8.770110862034993,
+            44.725456256802346
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 401115,
+        "utenza_id": 73026,
+        "localita": "TASSAROLO",
+        "via": "VICOLO IV NOVEMBRE",
+        "civico": 5,
+        "id_condotta": 5667
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770426666657878,
+            44.725026668887786
+          ],
+          [
+            8.770387201795618,
+            44.72501365149265
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 401116,
+        "utenza_id": 116888,
+        "localita": "TASSAROLO",
+        "via": "LOC. BOSCHINE",
+        "civico": 9999,
+        "id_condotta": 22940
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.763208333324291,
+            44.721406668886864
+          ],
+          [
+            8.764205227836062,
+            44.722247627096124
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 401124,
+        "utenza_id": 80385,
+        "localita": "TASSAROLO",
+        "via": "VIA CAMPOLASSO",
+        "civico": 3,
+        "id_condotta": 22941
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770634999991229,
+            44.726201668888066
+          ],
+          [
+            8.770639263510375,
+            44.726224462149915
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 401126,
+        "utenza_id": 80458,
+        "localita": "TASSAROLO",
+        "via": "LOCALITA' CONTESSA",
+        "civico": 1,
+        "id_condotta": 3294
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.76941499999119,
+            44.73192166888944
+          ],
+          [
+            8.769526657782075,
+            44.73248417417415
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 401127,
+        "utenza_id": 109797,
+        "localita": "TASSAROLO",
+        "via": "LOCALITA' COLLETTO",
+        "civico": 5,
+        "id_condotta": 3294
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.767029999991099,
+            44.73262833555618
+          ],
+          [
+            8.767627349046322,
+            44.73293157375211
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 401128,
+        "utenza_id": 73083,
+        "localita": "TASSAROLO",
+        "via": "VIA SANT'AMBROGIO",
+        "civico": 16,
+        "id_condotta": 20987
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.773134999991335,
+            44.73023666888904
+          ],
+          [
+            8.773157768404557,
+            44.73027323245273
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 401129,
+        "utenza_id": 80512,
+        "localita": "TASSAROLO",
+        "via": "VIA SANT'AMBROGIO",
+        "civico": 29,
+        "id_condotta": 20987
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.773401666658028,
+            44.73045833555567
+          ],
+          [
+            8.773266435711308,
+            44.73023892952018
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 401130,
+        "utenza_id": 109743,
+        "localita": "TASSAROLO",
+        "via": "VIA SANT'AMBROGIO",
+        "civico": 1,
+        "id_condotta": 20987
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.77576333332477,
+            44.729533335555395
+          ],
+          [
+            8.775876113951309,
+            44.729694649787355
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 401131,
+        "utenza_id": 117008,
+        "localita": "TASSAROLO",
+        "via": "VIA SANT'AMBROGIO",
+        "civico": 99999,
+        "id_condotta": 20987
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.773054999991329,
+            44.73028333555561
+          ],
+          [
+            8.773066660673143,
+            44.73030206136707
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 401132,
+        "utenza_id": 65696,
+        "localita": "TASSAROLO",
+        "via": "VIA MASSIMILIANO SPINOLA",
+        "civico": 14,
+        "id_condotta": 20996
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.772918333324633,
+            44.73094333555579
+          ],
+          [
+            8.772978575012324,
+            44.731013317747774
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 401133,
+        "utenza_id": 80516,
+        "localita": "TASSAROLO",
+        "via": "VIA SANT'AMBROGIO",
+        "civico": 5,
+        "id_condotta": 20996
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770819999991224,
+            44.7318850022227
+          ],
+          [
+            8.770820166040387,
+            44.7318860322687
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 401134,
+        "utenza_id": 80517,
+        "localita": "TASSAROLO",
+        "via": "VIA MASSIMILIANO SPINOLA",
+        "civico": 13,
+        "id_condotta": 20996
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.771371666657924,
+            44.731768335556
+          ],
+          [
+            8.771314800939281,
+            44.73169698885378
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 401135,
+        "utenza_id": 109794,
+        "localita": "TASSAROLO",
+        "via": "VIA MASSIMILIANO SPINOLA",
+        "civico": 10,
+        "id_condotta": 20996
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.77194499999127,
+            44.73154833555589
+          ],
+          [
+            8.771880784922216,
+            44.73146776897421
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 401136,
+        "utenza_id": 73087,
+        "localita": "TASSAROLO",
+        "via": "VIA MASSIMILIANO SPINOLA",
+        "civico": 7,
+        "id_condotta": 20996
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.772711666657973,
+            44.73136240222261
+          ],
+          [
+            8.772572392117189,
+            44.731187666213366
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 401137,
+        "utenza_id": 95116,
+        "localita": "TASSAROLO",
+        "via": "VIA VECCHIA NOVI LIGURE",
+        "civico": 18,
+        "id_condotta": 21146
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.777143333324792,
+            44.72846500222191
+          ],
+          [
+            8.776485056541626,
+            44.729109304497186
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 401138,
+        "utenza_id": 102499,
+        "localita": "TASSAROLO",
+        "via": "VIA VECCHIA NOVI LIGURE",
+        "civico": 3,
+        "id_condotta": 21146
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.774483333324694,
+            44.728120002221786
+          ],
+          [
+            8.77446471287658,
+            44.72810049028558
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 401139,
+        "utenza_id": 102502,
+        "localita": "TASSAROLO",
+        "via": "VIA VECCHIA NOVI LIGURE",
+        "civico": 19,
+        "id_condotta": 21146
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.776813333324785,
+            44.729298335555384
+          ],
+          [
+            8.77675242665759,
+            44.72931682805172
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 401140,
+        "utenza_id": 109742,
+        "localita": "TASSAROLO",
+        "via": "VIA VECCHIA NOVI LIGURE",
+        "civico": 11,
+        "id_condotta": 21146
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.774893333324698,
+            44.72914333555538
+          ],
+          [
+            8.775209528342119,
+            44.72883432939343
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 401141,
+        "utenza_id": 116966,
+        "localita": "TASSAROLO",
+        "via": "VIA VECCHIA NOVI LIGURE",
+        "civico": 7,
+        "id_condotta": 21146
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.775094999991367,
+            44.728781668888686
+          ],
+          [
+            8.7751139778598,
+            44.72876988219612
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 401142,
+        "utenza_id": 116887,
+        "localita": "TASSAROLO",
+        "via": "LOCALITA' ORTOLANA",
+        "civico": 9,
+        "id_condotta": 3265
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.761131666657537,
+            44.72309833555396
+          ],
+          [
+            8.761077182979255,
+            44.72299713832356
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 401143,
+        "utenza_id": 102423,
+        "localita": "TASSAROLO",
+        "via": "LOCALITA' ORTOLANA",
+        "civico": 2,
+        "id_condotta": 3265
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.760671666657547,
+            44.722985002220575
+          ],
+          [
+            8.760806275539823,
+            44.72307716715682
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 401144,
+        "utenza_id": 116885,
+        "localita": "TASSAROLO",
+        "via": "LOCALITA' ORTOLANA",
+        "civico": 1,
+        "id_condotta": 3265
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.761856666657575,
+            44.723313335553996
+          ],
+          [
+            8.76177522750986,
+            44.723360445895246
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 401145,
+        "utenza_id": 80459,
+        "localita": "TASSAROLO",
+        "via": "LOCALITA' RONCHI",
+        "civico": 1,
+        "id_condotta": 14867
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.764426666657638,
+            44.73078000222243
+          ],
+          [
+            8.76420782850487,
+            44.73064844653314
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 401146,
+        "utenza_id": 80379,
+        "localita": "TASSAROLO",
+        "via": "PIAZZA LIBERTA'",
+        "civico": 1,
+        "id_condotta": 3275
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.77118666665791,
+            44.72702666888828
+          ],
+          [
+            8.770863450057002,
+            44.72701210064309
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 401147,
+        "utenza_id": 109730,
+        "localita": "TASSAROLO",
+        "via": "VIA XXV APRILE",
+        "civico": 18,
+        "id_condotta": 3275
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770958333324595,
+            44.72676333555482
+          ],
+          [
+            8.77088672542367,
+            44.72675987646073
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 401148,
+        "utenza_id": 102430,
+        "localita": "TASSAROLO",
+        "via": "VICOLO FORNO",
+        "civico": 8,
+        "id_condotta": 3275
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770773333324547,
+            44.72689166888818
+          ],
+          [
+            8.770873737219299,
+            44.72689651907939
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 401149,
+        "utenza_id": 102427,
+        "localita": "TASSAROLO",
+        "via": "VIA GARIBALDI",
+        "civico": 32,
+        "id_condotta": 3275
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770976666657885,
+            44.726981668888214
+          ],
+          [
+            8.770866589192835,
+            44.72697670729616
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 401150,
+        "utenza_id": 109668,
+        "localita": "TASSAROLO",
+        "via": "VIA GARIBALDI",
+        "civico": 26,
+        "id_condotta": 3275
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.7709266666579,
+            44.72667833555475
+          ],
+          [
+            8.770894623180522,
+            44.72667678765575
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 401151,
+        "utenza_id": 65578,
+        "localita": "TASSAROLO",
+        "via": "VIA GARIBALDI",
+        "civico": 22,
+        "id_condotta": 3275
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.77106833332458,
+            44.7266716688882
+          ],
+          [
+            8.77089590145573,
+            44.72666333946488
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 401152,
+        "utenza_id": 116963,
+        "localita": "TASSAROLO",
+        "via": "VICOLO MERLANI II",
+        "civico": 6,
+        "id_condotta": 3275
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.771359999991244,
+            44.72751333555494
+          ],
+          [
+            8.770866659682273,
+            44.72752189646931
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 401153,
+        "utenza_id": 65641,
+        "localita": "TASSAROLO",
+        "via": "VICOLO MERLANI II",
+        "civico": 6,
+        "id_condotta": 3275
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.77086666665791,
+            44.72706166888827
+          ],
+          [
+            8.770859084016365,
+            44.72706132710756
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 401154,
+        "utenza_id": 87834,
+        "localita": "TASSAROLO",
+        "via": "LOC. BUFFALORA",
+        "civico": 84,
+        "id_condotta": 3316
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769931666657865,
+            44.72830833555516
+          ],
+          [
+            8.769702639700386,
+            44.72839931789848
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 401155,
+        "utenza_id": 102496,
+        "localita": "TASSAROLO",
+        "via": "VIA MAZZINI",
+        "civico": 28,
+        "id_condotta": 3316
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.7696799999912,
+            44.72852333555522
+          ],
+          [
+            8.769771249990072,
+            44.72848708613356
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 401156,
+        "utenza_id": 109739,
+        "localita": "TASSAROLO",
+        "via": "VICOLO MERLANI II",
+        "civico": 4,
+        "id_condotta": 3316
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769759999991212,
+            44.728763335555215
+          ],
+          [
+            8.769853247734888,
+            44.72859197957935
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 401157,
+        "utenza_id": 80457,
+        "localita": "TASSAROLO",
+        "via": "VICOLO MERLANI II",
+        "civico": 2,
+        "id_condotta": 3323
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770369999991205,
+            44.72803666888851
+          ],
+          [
+            8.770585011150743,
+            44.72814116479663
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 401158,
+        "utenza_id": 87827,
+        "localita": "TASSAROLO",
+        "via": "VIA XXV APRILE",
+        "civico": 30,
+        "id_condotta": 3323
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770461666657898,
+            44.72801000222178
+          ],
+          [
+            8.770638473733317,
+            44.7280840028862
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 401159,
+        "utenza_id": 65635,
+        "localita": "TASSAROLO",
+        "via": "VIA XXV APRILE",
+        "civico": 21,
+        "id_condotta": 3323
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770804999991244,
+            44.7279050022217
+          ],
+          [
+            8.770755115567034,
+            44.72789443150087
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 401160,
+        "utenza_id": 95100,
+        "localita": "TASSAROLO",
+        "via": "LOCALITA' CARUBIO",
+        "civico": 5,
+        "id_condotta": 5661
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.77468166665805,
+            44.72188000222034
+          ],
+          [
+            8.774628797842803,
+            44.72182925217652
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 401161,
+        "utenza_id": 95098,
+        "localita": "TASSAROLO",
+        "via": "VIA DEI MARTIRI",
+        "civico": 99999,
+        "id_condotta": 5661
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.773648333324697,
+            44.7225633355538
+          ],
+          [
+            8.773533942532302,
+            44.72249983797379
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 401162,
+        "utenza_id": 95101,
+        "localita": "TASSAROLO",
+        "via": "VICOLO DANTE",
+        "civico": 2,
+        "id_condotta": 5663
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.771998333324628,
+            44.7237000022208
+          ],
+          [
+            8.77194446505776,
+            44.723667618394785
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 401163,
+        "utenza_id": 87824,
+        "localita": "TASSAROLO",
+        "via": "VICOLO EUROPA",
+        "civico": 3,
+        "id_condotta": 5665
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.772363333324638,
+            44.723735002220735
+          ],
+          [
+            8.772416144490215,
+            44.723685288395885
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 401164,
+        "utenza_id": 65630,
+        "localita": "TASSAROLO",
+        "via": "VICOLO EUROPA",
+        "civico": 4,
+        "id_condotta": 5665
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.772331666658,
+            44.72382333555408
+          ],
+          [
+            8.77245565357034,
+            44.72370662049434
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 401165,
+        "utenza_id": 80444,
+        "localita": "TASSAROLO",
+        "via": "VICOLO DANTE",
+        "civico": 4,
+        "id_condotta": 5669
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.772043333324634,
+            44.72401166888747
+          ],
+          [
+            8.772066042313517,
+            44.72398928794454
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 401166,
+        "utenza_id": 109725,
+        "localita": "TASSAROLO",
+        "via": "VIA DEI MARTIRI",
+        "civico": 47,
+        "id_condotta": 5669
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.77249333332465,
+            44.724196668887615
+          ],
+          [
+            8.772312399707946,
+            44.72411633576486
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 401167,
+        "utenza_id": 80451,
+        "localita": "TASSAROLO",
+        "via": "VICOLO CORTE DEI SORI",
+        "civico": 11,
+        "id_condotta": 5670
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.772388333324603,
+            44.72468833555432
+          ],
+          [
+            8.772169482947016,
+            44.724547155168956
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 401168,
+        "utenza_id": 102485,
+        "localita": "TASSAROLO",
+        "via": "VICOLO MANZONI",
+        "civico": 1,
+        "id_condotta": 5670
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.771783333324608,
+            44.72439833555416
+          ],
+          [
+            8.7718291000424,
+            44.7243567522002
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 401169,
+        "utenza_id": 73021,
+        "localita": "TASSAROLO",
+        "via": "VICOLO MANZONI",
+        "civico": 5,
+        "id_condotta": 5670
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.772151666657974,
+            44.72450000222098
+          ],
+          [
+            8.772126334521692,
+            44.72452301898153
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 401170,
+        "utenza_id": 116960,
+        "localita": "TASSAROLO",
+        "via": "VIA CAMPOLASSO",
+        "civico": 7,
+        "id_condotta": 6141
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.772226666657948,
+            44.72676666888815
+          ],
+          [
+            8.772650966626575,
+            44.726394939677675
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 401171,
+        "utenza_id": 87770,
+        "localita": "TASSAROLO",
+        "via": "VIA CAMPOLASSO",
+        "civico": 8,
+        "id_condotta": 6141
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.772969999991309,
+            44.72697833555489
+          ],
+          [
+            8.773010551778908,
+            44.726602971563004
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 401172,
+        "utenza_id": 87771,
+        "localita": "TASSAROLO",
+        "via": "VIA CAMPOLASSO",
+        "civico": 10,
+        "id_condotta": 6141
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.772991666657976,
+            44.726461668888106
+          ],
+          [
+            8.772902197885628,
+            44.726540373084084
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 401173,
+        "utenza_id": 65575,
+        "localita": "TASSAROLO",
+        "via": "VIA CAMPOLASSO",
+        "civico": 6,
+        "id_condotta": 6142
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.772608333324614,
+            44.72607333555459
+          ],
+          [
+            8.772715204070726,
+            44.7261188382636
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 401174,
+        "utenza_id": 65576,
+        "localita": "TASSAROLO",
+        "via": "VIA CAMPOLASSO",
+        "civico": 6,
+        "id_condotta": 6142
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.773051666658,
+            44.72572333555454
+          ],
+          [
+            8.773156326416697,
+            44.72576845327444
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 401175,
+        "utenza_id": 102432,
+        "localita": "TASSAROLO",
+        "via": "VICOLO FRANCO BUFFARELLO",
+        "civico": 4,
+        "id_condotta": 3306
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770218333324548,
+            44.726936668888236
+          ],
+          [
+            8.77021941400974,
+            44.72692882709424
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 401176,
+        "utenza_id": 65564,
+        "localita": "TASSAROLO",
+        "via": "LOCALITA' FARA NUOVA",
+        "civico": 99999,
+        "id_condotta": 21247
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.757911666657403,
+            44.7358283355569
+          ],
+          [
+            8.757944814600249,
+            44.73585320406541
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 402368,
+        "utenza_id": 109724,
+        "localita": "TASSAROLO",
+        "via": "LOCALITA' GANGIO",
+        "civico": 1,
+        "id_condotta": 3238
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.783149999991718,
+            44.716785002219154
+          ],
+          [
+            8.783078073534929,
+            44.71669290927894
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 402381,
+        "utenza_id": 109666,
+        "localita": "TASSAROLO",
+        "via": "VIA GAVI",
+        "civico": 21,
+        "id_condotta": 3267
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.768189999991167,
+            44.726666668888114
+          ],
+          [
+            8.768258117148061,
+            44.72678966942953
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 402382,
+        "utenza_id": 87767,
+        "localita": "TASSAROLO",
+        "via": "VIA GAVI",
+        "civico": 11,
+        "id_condotta": 3267
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769247299991179,
+            44.726479402221415
+          ],
+          [
+            8.769223903272673,
+            44.72646477786569
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 402383,
+        "utenza_id": 116884,
+        "localita": "TASSAROLO",
+        "via": "VIA GAVI",
+        "civico": 33,
+        "id_condotta": 22940
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.764431666657647,
+            44.721628335553596
+          ],
+          [
+            8.764253712332176,
+            44.722239583174
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 402384,
+        "utenza_id": 116884,
+        "localita": "TASSAROLO",
+        "via": "VIA GAVI",
+        "civico": 33,
+        "id_condotta": 3267
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.764431666657647,
+            44.721628335553596
+          ],
+          [
+            8.764253712332176,
+            44.722239583174
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 402385,
+        "utenza_id": 109667,
+        "localita": "TASSAROLO",
+        "via": "VIA GAVI",
+        "civico": 25,
+        "id_condotta": 3267
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.764589999990985,
+            44.72456166888768
+          ],
+          [
+            8.765390841595405,
+            44.72445378595767
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 402386,
+        "utenza_id": 80383,
+        "localita": "TASSAROLO",
+        "via": "LOC. TAGLIATE",
+        "civico": 1,
+        "id_condotta": 3267
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.765408333324382,
+            44.72299833555386
+          ],
+          [
+            8.765297881824502,
+            44.722999939788494
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 402387,
+        "utenza_id": 102418,
+        "localita": "TASSAROLO",
+        "via": "VIA RINALDO BIANCHI",
+        "civico": 2,
+        "id_condotta": 3267
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769154999991175,
+            44.72685333555483
+          ],
+          [
+            8.76898998915238,
+            44.72661719222571
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 402388,
+        "utenza_id": 109741,
+        "localita": "TASSAROLO",
+        "via": "STRADA CAVALLARI",
+        "civico": 2,
+        "id_condotta": 3261
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.756393333324029,
+            44.72953666888886
+          ],
+          [
+            8.756493786428965,
+            44.72978325008341
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 402389,
+        "utenza_id": 87828,
+        "localita": "TASSAROLO",
+        "via": "VICOLO IV NOVEMBRE",
+        "civico": 7,
+        "id_condotta": 3274
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770998333324556,
+            44.7256100022212
+          ],
+          [
+            8.770937398827092,
+            44.72561140201479
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 402390,
+        "utenza_id": 80449,
+        "localita": "TASSAROLO",
+        "via": "VIA DEI MARTIRI",
+        "civico": 33,
+        "id_condotta": 3274
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770638333324547,
+            44.72510833555439
+          ],
+          [
+            8.770914373942869,
+            44.72510199472336
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 402391,
+        "utenza_id": 102490,
+        "localita": "TASSAROLO",
+        "via": "VIA DEI MARTIRI",
+        "civico": 29,
+        "id_condotta": 3274
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770721666657922,
+            44.72501166888781
+          ],
+          [
+            8.77090503841216,
+            44.724981435947186
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 402392,
+        "utenza_id": 80448,
+        "localita": "TASSAROLO",
+        "via": "VIA XXV APRILE",
+        "civico": 14,
+        "id_condotta": 3274
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.771248333324582,
+            44.72568000222121
+          ],
+          [
+            8.77094081886052,
+            44.72568706680713
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 402393,
+        "utenza_id": 65569,
+        "localita": "TASSAROLO",
+        "via": "VICOLO MADDALENA",
+        "civico": 4,
+        "id_condotta": 3268
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769243333324493,
+            44.725895002221236
+          ],
+          [
+            8.769285690819693,
+            44.72586262401218
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 402394,
+        "utenza_id": 116879,
+        "localita": "TASSAROLO",
+        "via": "VICOLO MADDALENA",
+        "civico": 12,
+        "id_condotta": 3268
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769013333324493,
+            44.72593500222124
+          ],
+          [
+            8.769190668634893,
+            44.72579944703997
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 402395,
+        "utenza_id": 65572,
+        "localita": "TASSAROLO",
+        "via": "VICOLO MADDALENA",
+        "civico": 7,
+        "id_condotta": 3268
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769149999991182,
+            44.725803335554566
+          ],
+          [
+            8.769171638843705,
+            44.72578679476231
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 402407,
+        "utenza_id": 72963,
+        "localita": "TASSAROLO",
+        "via": "VIA GARIBALDI",
+        "civico": 7,
+        "id_condotta": 3301
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.77047999999125,
+            44.726450002221455
+          ],
+          [
+            8.770402843844462,
+            44.72645554494212
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 402408,
+        "utenza_id": 72952,
+        "localita": "TASSAROLO",
+        "via": "VIA SAN NICOLAO",
+        "civico": 5,
+        "id_condotta": 3301
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770193333324524,
+            44.72656500222142
+          ],
+          [
+            8.770413666200922,
+            44.72656656334869
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 402409,
+        "utenza_id": 73030,
+        "localita": "TASSAROLO",
+        "via": "VIA MAZZINI",
+        "civico": 16,
+        "id_condotta": 3301
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770264999991227,
+            44.726470002221426
+          ],
+          [
+            8.77040348123638,
+            44.726460054179825
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 402410,
+        "utenza_id": 87763,
+        "localita": "TASSAROLO",
+        "via": "VIA SAN NICOLAO",
+        "civico": 3,
+        "id_condotta": 3301
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770309999991229,
+            44.726501668888105
+          ],
+          [
+            8.770408364753756,
+            44.72649460266643
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 402411,
+        "utenza_id": 65567,
+        "localita": "TASSAROLO",
+        "via": "VIA SAN NICOLAO",
+        "civico": 1,
+        "id_condotta": 3301
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770288333324563,
+            44.72644500222137
+          ],
+          [
+            8.770400217498294,
+            44.72643696481334
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 402412,
+        "utenza_id": 109671,
+        "localita": "TASSAROLO",
+        "via": "VICOLO FRANCO BUFFARELLO",
+        "civico": 9,
+        "id_condotta": 3301
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770334999991201,
+            44.726858335554816
+          ],
+          [
+            8.770356230203632,
+            44.72686291586853
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 402413,
+        "utenza_id": 102498,
+        "localita": "TASSAROLO",
+        "via": "STRADA FRANCAVILLA",
+        "civico": 99999,
+        "id_condotta": 3296
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.766541666657762,
+            44.729421668888804
+          ],
+          [
+            8.766498270178696,
+            44.72941066804735
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 402414,
+        "utenza_id": 109720,
+        "localita": "TASSAROLO",
+        "via": "VICOLO PIAZZO",
+        "civico": 5,
+        "id_condotta": 3298
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.7697899999912,
+            44.724963335554364
+          ],
+          [
+            8.769864120964957,
+            44.72503511651968
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 402415,
+        "utenza_id": 109721,
+        "localita": "TASSAROLO",
+        "via": "VICOLO PIAZZO",
+        "civico": 5,
+        "id_condotta": 3298
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769856666657848,
+            44.72470500222097
+          ],
+          [
+            8.769864120964957,
+            44.72503511651968
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 402416,
+        "utenza_id": 80442,
+        "localita": "TASSAROLO",
+        "via": "VICOLO PIAZZO",
+        "civico": 4,
+        "id_condotta": 3298
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769861666657851,
+            44.725215002221084
+          ],
+          [
+            8.7699522405374,
+            44.725061551131255
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 402417,
+        "utenza_id": 102478,
+        "localita": "TASSAROLO",
+        "via": "VICOLO PIAZZO",
+        "civico": 3,
+        "id_condotta": 3298
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770104999991194,
+            44.72494333555437
+          ],
+          [
+            8.770022741173907,
+            44.72508270024772
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 402418,
+        "utenza_id": 102477,
+        "localita": "TASSAROLO",
+        "via": "VICOLO PIAZZO",
+        "civico": 10,
+        "id_condotta": 3298
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770053333324526,
+            44.72506166888775
+          ],
+          [
+            8.770038185158269,
+            44.72508733319976
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 402419,
+        "utenza_id": 80440,
+        "localita": "TASSAROLO",
+        "via": "VICOLO CENTRALE",
+        "civico": 6,
+        "id_condotta": 3298
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769701666657864,
+            44.72531333555448
+          ],
+          [
+            8.769865619727122,
+            44.72503556612766
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 402420,
+        "utenza_id": 102474,
+        "localita": "TASSAROLO",
+        "via": "VIA DEI MARTIRI",
+        "civico": 24,
+        "id_condotta": 3299
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.7701816666579,
+            44.72557166888792
+          ],
+          [
+            8.770165906008454,
+            44.725598575038
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 402421,
+        "utenza_id": 105681,
+        "localita": "TASSAROLO",
+        "via": "VIA DEI MARTIRI",
+        "civico": 34,
+        "id_condotta": 3299
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770604999991223,
+            44.72553500222122
+          ],
+          [
+            8.770508091482329,
+            44.72570044387214
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 402422,
+        "utenza_id": 80387,
+        "localita": "TASSAROLO",
+        "via": "VIA GARIBALDI",
+        "civico": 28,
+        "id_condotta": 3309
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.771211666657942,
+            44.726300002221386
+          ],
+          [
+            8.77121131507271,
+            44.72622330484359
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 402423,
+        "utenza_id": 102487,
+        "localita": "TASSAROLO",
+        "via": "VIA XXV APRILE",
+        "civico": 16,
+        "id_condotta": 3309
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.77106999999126,
+            44.72621500222134
+          ],
+          [
+            8.771070039538277,
+            44.72622363388605
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 402424,
+        "utenza_id": 109664,
+        "localita": "TASSAROLO",
+        "via": "PIAZZA LIBERTA'",
+        "civico": 8,
+        "id_condotta": 3304
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769906666657892,
+            44.726005002221335
+          ],
+          [
+            8.769886946683512,
+            44.72603906304909
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 402425,
+        "utenza_id": 65566,
+        "localita": "TASSAROLO",
+        "via": "VIA LUIGI BISIO",
+        "civico": 12,
+        "id_condotta": 3305
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769931666657866,
+            44.72685333555483
+          ],
+          [
+            8.76999427586911,
+            44.726816450487036
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 402426,
+        "utenza_id": 109661,
+        "localita": "TASSAROLO",
+        "via": "VIA LUIGI BISIO",
+        "civico": 4,
+        "id_condotta": 3305
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770054999991205,
+            44.72674500222152
+          ],
+          [
+            8.76996970335623,
+            44.726795253287676
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 402431,
+        "utenza_id": 80455,
+        "localita": "TASSAROLO",
+        "via": "VICOLO MERLANI II",
+        "civico": 13,
+        "id_condotta": 3318
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769619499991178,
+            44.72856980222193
+          ],
+          [
+            8.769589933030527,
+            44.728578291465496
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 402432,
+        "utenza_id": 65573,
+        "localita": "TASSAROLO",
+        "via": "VIA CAMPOLASSO",
+        "civico": 1,
+        "id_condotta": 3310
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770844999991255,
+            44.72616333555464
+          ],
+          [
+            8.770841344496887,
+            44.72622184764252
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 402433,
+        "utenza_id": 102503,
+        "localita": "TASSAROLO",
+        "via": "VIA ROVERE VERDE",
+        "civico": 2,
+        "id_condotta": 3326
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.777274999991468,
+            44.72934333555541
+          ],
+          [
+            8.777271191949808,
+            44.72933816728207
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 402434,
+        "utenza_id": 116971,
+        "localita": "TASSAROLO",
+        "via": "VIA ROVERE VERDE",
+        "civico": 8,
+        "id_condotta": 3326
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.77819333332485,
+            44.729020202222046
+          ],
+          [
+            8.778179926842151,
+            44.72900155908372
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 402436,
+        "utenza_id": 116972,
+        "localita": "TASSAROLO",
+        "via": "VIA ROVERE VERDE",
+        "civico": 10,
+        "id_condotta": 3327
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.77868666665819,
+            44.728865002221994
+          ],
+          [
+            8.778651884416387,
+            44.72882266761298
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 402437,
+        "utenza_id": 73033,
+        "localita": "TASSAROLO",
+        "via": "STRADA FRANCAVILLA",
+        "civico": 4,
+        "id_condotta": 3331
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.768594999991171,
+            44.72863333555517
+          ],
+          [
+            8.768585413511255,
+            44.728621646017
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 402438,
+        "utenza_id": 87774,
+        "localita": "TASSAROLO",
+        "via": "VICOLO ALLA VIA GARIBALDI",
+        "civico": 11,
+        "id_condotta": 3314
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770378333324574,
+            44.72736500222168
+          ],
+          [
+            8.770343688166028,
+            44.72749228680376
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 402439,
+        "utenza_id": 109723,
+        "localita": "TASSAROLO",
+        "via": "VICOLO FRANCO BUFFARELLO",
+        "civico": 5,
+        "id_condotta": 3314
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.77010166665789,
+            44.72749333555499
+          ],
+          [
+            8.770121262475831,
+            44.72744966799284
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 402440,
+        "utenza_id": 65580,
+        "localita": "TASSAROLO",
+        "via": "VICOLO FRANCO BUFFARELLO",
+        "civico": 10,
+        "id_condotta": 3314
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770763333324549,
+            44.727543335554984
+          ],
+          [
+            8.77074154572401,
+            44.727584051359635
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 402441,
+        "utenza_id": 116895,
+        "localita": "TASSAROLO",
+        "via": "VIA GARIBALDI",
+        "civico": 36,
+        "id_condotta": 3311
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769909999991205,
+            44.72707333555482
+          ],
+          [
+            8.770042700412008,
+            44.727087063481235
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 402442,
+        "utenza_id": 73031,
+        "localita": "TASSAROLO",
+        "via": "VICOLO MERLANI II",
+        "civico": 4,
+        "id_condotta": 3311
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769991666657864,
+            44.72705166888824
+          ],
+          [
+            8.770048704220237,
+            44.72705756943346
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 402443,
+        "utenza_id": 109669,
+        "localita": "TASSAROLO",
+        "via": "VICOLO ALLA VIA GARIBALDI",
+        "civico": 13,
+        "id_condotta": 3312
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.77034666665787,
+            44.72723833555486
+          ],
+          [
+            8.770354813713563,
+            44.72718432655524
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 402444,
+        "utenza_id": 65581,
+        "localita": "TASSAROLO",
+        "via": "VICOLO FRANCO BUFFARELLO",
+        "civico": 5,
+        "id_condotta": 3312
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770119999991232,
+            44.72718833555487
+          ],
+          [
+            8.770119088570102,
+            44.72716742476719
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 402447,
+        "utenza_id": 109733,
+        "localita": "TASSAROLO",
+        "via": "VIA DEI MARTIRI",
+        "civico": 3,
+        "id_condotta": 3339
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770084999991223,
+            44.725901668888
+          ],
+          [
+            8.770182326378471,
+            44.72596702678778
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 402448,
+        "utenza_id": 116889,
+        "localita": "TASSAROLO",
+        "via": "VICOLO ANDREA GEMME",
+        "civico": 3,
+        "id_condotta": 3339
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770198333324563,
+            44.7259750022213
+          ],
+          [
+            8.770200093975877,
+            44.725970956441486
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 402449,
+        "utenza_id": 102421,
+        "localita": "TASSAROLO",
+        "via": "VIA GAVI",
+        "civico": 1,
+        "id_condotta": 3339
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770121666657868,
+            44.72594333555459
+          ],
+          [
+            8.770182326378471,
+            44.72596702678778
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 402450,
+        "utenza_id": 116891,
+        "localita": "TASSAROLO",
+        "via": "VIA GARIBALDI",
+        "civico": 18,
+        "id_condotta": 3339
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770568333324569,
+            44.72599666888799
+          ],
+          [
+            8.770343210820714,
+            44.72598422548647
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 402451,
+        "utenza_id": 102417,
+        "localita": "TASSAROLO",
+        "via": "VICOLO TRAVERSO",
+        "civico": 1,
+        "id_condotta": 3337
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769871666657876,
+            44.72622666888809
+          ],
+          [
+            8.769717831379511,
+            44.72620573887126
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 402452,
+        "utenza_id": 109737,
+        "localita": "TASSAROLO",
+        "via": "VIA MAZZINI",
+        "civico": 18,
+        "id_condotta": 3333
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.76976666665785,
+            44.72705500222156
+          ],
+          [
+            8.769752794115375,
+            44.727055719643985
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 402453,
+        "utenza_id": 72954,
+        "localita": "TASSAROLO",
+        "via": "VIA GAVI",
+        "civico": 13,
+        "id_condotta": 3334
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769199999991184,
+            44.726421668888115
+          ],
+          [
+            8.769246765032122,
+            44.72644514686082
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 402454,
+        "utenza_id": 102422,
+        "localita": "TASSAROLO",
+        "via": "VICOLO XX SETTEMBRE",
+        "civico": 2,
+        "id_condotta": 3334
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769028333324515,
+            44.726316668888124
+          ],
+          [
+            8.769259190201508,
+            44.72643256888774
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 402455,
+        "utenza_id": 116880,
+        "localita": "TASSAROLO",
+        "via": "VICOLO MADDALENA",
+        "civico": 8,
+        "id_condotta": 3338
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.768811666657827,
+            44.72582000222127
+          ],
+          [
+            8.769034307199586,
+            44.72568499119921
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 402456,
+        "utenza_id": 102491,
+        "localita": "TASSAROLO",
+        "via": "VICOLO CORTE DEI SORI",
+        "civico": 19,
+        "id_condotta": 3338
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.76925333332453,
+            44.72558666888797
+          ],
+          [
+            8.769058189374588,
+            44.725705006661215
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 402632,
+        "utenza_id": 102482,
+        "localita": "TASSAROLO",
+        "via": "LOCALITA' CARUBIO",
+        "civico": 4,
+        "id_condotta": 3344
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.777241666658155,
+            44.722153335553706
+          ],
+          [
+            8.776704589868537,
+            44.721516874468804
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 402773,
+        "utenza_id": 95114,
+        "localita": "TASSAROLO",
+        "via": "LOCALITA' ALBORINA",
+        "civico": 1,
+        "id_condotta": 3348
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.755469999990654,
+            44.73230666888951
+          ],
+          [
+            8.755466966517247,
+            44.7323388244896
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 402774,
+        "utenza_id": 80462,
+        "localita": "TASSAROLO",
+        "via": "STRADA CAVALLARI",
+        "civico": 5,
+        "id_condotta": 3349
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.756533333324022,
+            44.73017500222226
+          ],
+          [
+            8.756542770384502,
+            44.73017612401056
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 403166,
+        "utenza_id": 109738,
+        "localita": "TASSAROLO",
+        "via": "VIA MAZZINI",
+        "civico": 24,
+        "id_condotta": 3249
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769849999991223,
+            44.72756833555495
+          ],
+          [
+            8.769744096949202,
+            44.72756771726341
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 403167,
+        "utenza_id": 65639,
+        "localita": "TASSAROLO",
+        "via": "VIA MAZZINI",
+        "civico": 26,
+        "id_condotta": 3249
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769754999991168,
+            44.72772666888841
+          ],
+          [
+            8.76972112487436,
+            44.72772202088419
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 403168,
+        "utenza_id": 65640,
+        "localita": "TASSAROLO",
+        "via": "VIA MAZZINI",
+        "civico": 28,
+        "id_condotta": 3249
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.76967833332452,
+            44.728141668888554
+          ],
+          [
+            8.769583915615922,
+            44.728103979903125
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 403447,
+        "utenza_id": 102424,
+        "localita": "TASSAROLO",
+        "via": "STRADA CAVALLARI",
+        "civico": 15,
+        "id_condotta": 3263
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.760649999990836,
+            44.726555002221396
+          ],
+          [
+            8.76071151386086,
+            44.72661399739179
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 404984,
+        "utenza_id": 116958,
+        "localita": "TASSAROLO",
+        "via": "LOCALITA' CARRETTA",
+        "civico": 9999,
+        "id_condotta": 5660
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.782599999991698,
+            44.72022833555321
+          ],
+          [
+            8.782454867121405,
+            44.720233287572604
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 404985,
+        "utenza_id": 87823,
+        "localita": "TASSAROLO",
+        "via": "LOCALITA' CARUBIO",
+        "civico": 2,
+        "id_condotta": 5662
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.775604999991431,
+            44.72195166888708
+          ],
+          [
+            8.775548076526814,
+            44.72164653290868
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 405865,
+        "utenza_id": 116883,
+        "localita": "TASSAROLO",
+        "via": "VIA GAVI",
+        "civico": 29,
+        "id_condotta": 7009
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.769966666657897,
+            44.71728500221923
+          ],
+          [
+            8.769717372810844,
+            44.71703999209783
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 407498,
+        "utenza_id": 117009,
+        "localita": "TASSAROLO",
+        "via": "VIA SANT'AMBROGIO",
+        "civico": 14,
+        "id_condotta": 20983
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.771638333324614,
+            44.73077333555567
+          ],
+          [
+            8.771662573350742,
+            44.73080239104313
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 409178,
+        "utenza_id": 80380,
+        "localita": "TASSAROLO",
+        "via": "PIAZZA LIBERTA'",
+        "civico": 6,
+        "id_condotta": 3303
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770203333324558,
+            44.72614000222136
+          ],
+          [
+            8.770194768613313,
+            44.72614855041831
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 409396,
+        "utenza_id": 65568,
+        "localita": "TASSAROLO",
+        "via": "PIAZZA LIBERTA'",
+        "civico": 5,
+        "id_condotta": 3303
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.770203333324558,
+            44.72614000222136
+          ],
+          [
+            8.770194768613313,
+            44.72614855041831
+          ]
+        ]
+      }
+    }
+  ]
+}
