@@ -1,0 +1,30 @@
+{
+  "type": "FeatureCollection",
+  "name": "staz_pompaggio",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::32632"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "comune": "Tassarolo",
+        "localita": "Localita' Osteria",
+        "anno_posa": 2016,
+        "nome_imp": "Localita' Osteria",
+        "id_distretto": "DTS05",
+        "codImpianto": "STP30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.757299693850108,
+          44.736577257094396
+        ]
+      }
+    }
+  ]
+}

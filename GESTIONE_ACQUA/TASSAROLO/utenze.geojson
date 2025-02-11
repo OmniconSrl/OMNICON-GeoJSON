@@ -1,0 +1,8020 @@
+{
+  "type": "FeatureCollection",
+  "name": "utenze",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::32632"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00200037477",
+        "Località": "TASSAROLO",
+        "Via": "LOCALITA' FARA NUOVA",
+        "Civico": 99999,
+        "x": 480832,
+        "y": 4953633,
+        "distretto_modello": null,
+        "Codice condotta H2O": 21247,
+        "CONSUMI ANNO": "2023",
+        "MC": 3148.21
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.757911666657403,
+          44.7358283355569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037607",
+        "Località": "TASSAROLO",
+        "Via": "VIA LUIGI BISIO",
+        "Civico": 6,
+        "x": 481762,
+        "y": 4952675,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3250,
+        "CONSUMI ANNO": "2023",
+        "MC": 88.82
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.76969166665788,
+          44.7272200022216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037610",
+        "Località": "TASSAROLO",
+        "Via": "VIA LUIGI BISIO",
+        "Civico": 12,
+        "x": 481781,
+        "y": 4952634,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3305,
+        "CONSUMI ANNO": null,
+        "MC": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769931666657866,
+          44.72685333555483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037641",
+        "Località": "TASSAROLO",
+        "Via": "VIA SAN NICOLAO",
+        "Civico": 1,
+        "x": 481809,
+        "y": 4952588,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3301,
+        "CONSUMI ANNO": "2023",
+        "MC": 165.42
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770288333324563,
+          44.72644500222137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037495",
+        "Località": "TASSAROLO",
+        "Via": "PIAZZA LIBERTA'",
+        "Civico": 5,
+        "x": 481802,
+        "y": 4952554,
+        "distretto_modello": null,
+        "Codice condotta H2O": null,
+        "CONSUMI ANNO": null,
+        "MC": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770203333324558,
+          44.72614000222136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00300037764",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO MADDALENA",
+        "Civico": 4,
+        "x": 481726,
+        "y": 4952527,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3268,
+        "CONSUMI ANNO": "2023",
+        "MC": 19.03
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769243333324493,
+          44.725895002221236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00200037764",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO MADDALENA",
+        "Civico": 4,
+        "x": 481728,
+        "y": 4952549,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3268,
+        "CONSUMI ANNO": "2023",
+        "MC": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.76925833332452,
+          44.72609333555468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00200037765",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO MADDALENA",
+        "Civico": 7,
+        "x": 481707,
+        "y": 4952519,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3268,
+        "CONSUMI ANNO": "2023",
+        "MC": 13.97
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769004999991177,
+          44.72581500222124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037765",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO MADDALENA",
+        "Civico": 7,
+        "x": 481719,
+        "y": 4952517,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3268,
+        "CONSUMI ANNO": "2023",
+        "MC": 340.02
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769149999991182,
+          44.725803335554566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037515",
+        "Località": "TASSAROLO",
+        "Via": "VIA CAMPOLASSO",
+        "Civico": 1,
+        "x": 481853,
+        "y": 4952557,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3310,
+        "CONSUMI ANNO": "2023",
+        "MC": 31
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770844999991255,
+          44.72616333555464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037517",
+        "Località": "TASSAROLO",
+        "Via": "VIA CAMPOLASSO",
+        "Civico": 4,
+        "x": 481958,
+        "y": 4952533,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3309,
+        "CONSUMI ANNO": "2023",
+        "MC": 134.04
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.772166666657965,
+          44.72595166888803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037518",
+        "Località": "TASSAROLO",
+        "Via": "VIA CAMPOLASSO",
+        "Civico": 6,
+        "x": 481993,
+        "y": 4952546,
+        "distretto_modello": null,
+        "Codice condotta H2O": 6142,
+        "CONSUMI ANNO": "2023",
+        "MC": 292.49
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.772608333324614,
+          44.72607333555459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00200037518",
+        "Località": "TASSAROLO",
+        "Via": "VIA CAMPOLASSO",
+        "Civico": 6,
+        "x": 482028,
+        "y": 4952508,
+        "distretto_modello": null,
+        "Codice condotta H2O": 6142,
+        "CONSUMI ANNO": "2023",
+        "MC": 63.96
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.773051666658,
+          44.72572333555454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037521",
+        "Località": "TASSAROLO",
+        "Via": "VIA CAMPOLASSO",
+        "Civico": 9,
+        "x": 482000,
+        "y": 4952619,
+        "distretto_modello": null,
+        "Codice condotta H2O": 6141,
+        "CONSUMI ANNO": "2023",
+        "MC": 213.01
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.772691666657998,
+          44.7267300022215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037575",
+        "Località": "TASSAROLO",
+        "Via": "VIA GARIBALDI",
+        "Civico": 22,
+        "x": 481871,
+        "y": 4952613,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3275,
+        "CONSUMI ANNO": "2023",
+        "MC": 64.99
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.77106833332458,
+          44.7266716688882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037699",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO ALLA VIA GARIBALDI",
+        "Civico": 2,
+        "x": 481750,
+        "y": 4952680,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3250,
+        "CONSUMI ANNO": "2023",
+        "MC": 146.78
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769541666657831,
+          44.72727000222162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037741",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO FRANCO BUFFARELLO",
+        "Civico": 10,
+        "x": 481847,
+        "y": 4952710,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3314,
+        "CONSUMI ANNO": "2023",
+        "MC": 206.27
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770763333324549,
+          44.727543335554984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037738",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO FRANCO BUFFARELLO",
+        "Civico": 5,
+        "x": 481796,
+        "y": 4952671,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3312,
+        "CONSUMI ANNO": "2023",
+        "MC": 107
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770119999991232,
+          44.72718833555487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037788",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO PONENTE",
+        "Civico": 2,
+        "x": 481757,
+        "y": 4952543,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3268,
+        "CONSUMI ANNO": "2023",
+        "MC": 37.81
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769624999991215,
+          44.726040002221346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037710",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO CENTRALE",
+        "Civico": 2,
+        "x": 481856,
+        "y": 4952479,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3274,
+        "CONSUMI ANNO": "2023",
+        "MC": 11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770876666657898,
+          44.72546000222118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037786",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO PIAZZO",
+        "Civico": 8,
+        "x": 481773,
+        "y": 4952443,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3298,
+        "CONSUMI ANNO": "2023",
+        "MC": 44.29
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769839999991184,
+          44.72513500222108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00200037549",
+        "Località": "TASSAROLO",
+        "Via": "VIA DEI MARTIRI",
+        "Civico": 34,
+        "x": 481852,
+        "y": 4952409,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3342,
+        "CONSUMI ANNO": "2023",
+        "MC": 80.27
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770829999991216,
+          44.724830002221005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037552",
+        "Località": "TASSAROLO",
+        "Via": "VIA DEI MARTIRI",
+        "Civico": 38,
+        "x": 481865,
+        "y": 4952571,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3275,
+        "CONSUMI ANNO": "2023",
+        "MC": 99.25
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770989999991249,
+          44.726290002221404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037463",
+        "Località": "TASSAROLO",
+        "Via": "LOCALITA' CARUBIO",
+        "Civico": 3,
+        "x": 482306,
+        "y": 4952095,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3344,
+        "CONSUMI ANNO": "2023",
+        "MC": 1801.04
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.776581666658108,
+          44.7220200022204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037459",
+        "Località": "TASSAROLO",
+        "Via": "LOCALITA' CARRETTA",
+        "Civico": 18,
+        "x": 482519,
+        "y": 4951769,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3236,
+        "CONSUMI ANNO": "2023",
+        "MC": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.779273333324895,
+          44.71908833555301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037729",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO EUROPA",
+        "Civico": 4,
+        "x": 481970,
+        "y": 4952297,
+        "distretto_modello": null,
+        "Codice condotta H2O": 5665,
+        "CONSUMI ANNO": "2023",
+        "MC": 184.89
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.772331666658,
+          44.72382333555408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037561",
+        "Località": "TASSAROLO",
+        "Via": "VIA DEI MARTIRI",
+        "Civico": 49,
+        "x": 481934,
+        "y": 4952264,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3246,
+        "CONSUMI ANNO": "2023",
+        "MC": 187.07
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.77187666665798,
+          44.72353000222077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037555",
+        "Località": "TASSAROLO",
+        "Via": "VIA DEI MARTIRI",
+        "Civico": 43,
+        "x": 481854,
+        "y": 4952404,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3342,
+        "CONSUMI ANNO": "2023",
+        "MC": 82.95
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770858333324567,
+          44.724785002221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037755",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO LEVANTE",
+        "Civico": 2,
+        "x": 481867,
+        "y": 4952404,
+        "distretto_modello": null,
+        "Codice condotta H2O": 5671,
+        "CONSUMI ANNO": "2023",
+        "MC": 157.95
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.771018333324577,
+          44.72478333555436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037696",
+        "Località": "TASSAROLO",
+        "Via": "VIA XXV APRILE",
+        "Civico": 24,
+        "x": 481853,
+        "y": 4952664,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3275,
+        "CONSUMI ANNO": "2023",
+        "MC": 228.33
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770838333324571,
+          44.72713166888831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037695",
+        "Località": "TASSAROLO",
+        "Via": "VIA XXV APRILE",
+        "Civico": 21,
+        "x": 481851,
+        "y": 4952750,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3323,
+        "CONSUMI ANNO": "2023",
+        "MC": 137.53
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770804999991244,
+          44.7279050022217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037546",
+        "Località": "TASSAROLO",
+        "Via": "VIA DEI MARTIRI",
+        "Civico": 31,
+        "x": 481865,
+        "y": 4952421,
+        "distretto_modello": null,
+        "Codice condotta H2O": 5671,
+        "CONSUMI ANNO": "2023",
+        "MC": 70.43
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.77099333332456,
+          44.72494166888773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037542",
+        "Località": "TASSAROLO",
+        "Via": "VIA DEI MARTIRI",
+        "Civico": 27,
+        "x": 481816,
+        "y": 4952470,
+        "distretto_modello": null,
+        "Codice condotta H2O": 5667,
+        "CONSUMI ANNO": "2023",
+        "MC": 47.29
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770373333324532,
+          44.72537666888787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037748",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO GERA",
+        "Civico": 3,
+        "x": 481763,
+        "y": 4952616,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3250,
+        "CONSUMI ANNO": "2023",
+        "MC": 91.97
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769706666657862,
+          44.726693335554764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037621",
+        "Località": "TASSAROLO",
+        "Via": "VIA MAZZINI",
+        "Civico": 26,
+        "x": 481767,
+        "y": 4952731,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3249,
+        "CONSUMI ANNO": "2023",
+        "MC": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769754999991168,
+          44.72772666888841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037622",
+        "Località": "TASSAROLO",
+        "Via": "VIA MAZZINI",
+        "Civico": 28,
+        "x": 481761,
+        "y": 4952777,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3249,
+        "CONSUMI ANNO": "2023",
+        "MC": 99.19
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.76967833332452,
+          44.728141668888554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037778",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO MERLANI II",
+        "Civico": 6,
+        "x": 481855,
+        "y": 4952657,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3275,
+        "CONSUMI ANNO": "2023",
+        "MC": 38.43
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.77086666665791,
+          44.72706166888827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00200037486",
+        "Località": "TASSAROLO",
+        "Via": "LOCALITA' RONCHI",
+        "Civico": 1,
+        "x": 481314,
+        "y": 4953031,
+        "distretto_modello": null,
+        "Codice condotta H2O": 21247,
+        "CONSUMI ANNO": "2023",
+        "MC": 40
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.764014999990943,
+          44.730413335555674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037511",
+        "Località": "TASSAROLO",
+        "Via": "STRADA FRANCAVILLA",
+        "Civico": 5,
+        "x": 480874,
+        "y": 4953041,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3260,
+        "CONSUMI ANNO": "2023",
+        "MC": 391.46
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.758458333324093,
+          44.73049333555563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037503",
+        "Località": "TASSAROLO",
+        "Via": "STRADA CAVALLARI",
+        "Civico": 3,
+        "x": 480722,
+        "y": 4953028,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3349,
+        "CONSUMI ANNO": "2023",
+        "MC": 170.14
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7565399999907,
+          44.73037666888906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037492",
+        "Località": "TASSAROLO",
+        "Via": "LOCALITA' ZERBA",
+        "Civico": 1,
+        "x": 480693,
+        "y": 4952952,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3262,
+        "CONSUMI ANNO": "2023",
+        "MC": 671.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.75617666665733,
+          44.72969166888885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037668",
+        "Località": "TASSAROLO",
+        "Via": "VIA VECCHIA NOVI LIGURE",
+        "Civico": 5,
+        "x": 482195,
+        "y": 4952840,
+        "distretto_modello": null,
+        "Codice condotta H2O": 21146,
+        "CONSUMI ANNO": "2023",
+        "MC": 321.12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.775149999991413,
+          44.728723335555195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037657",
+        "Località": "TASSAROLO",
+        "Via": "VIA SANT'AMBROGIO",
+        "Civico": 20,
+        "x": 482257,
+        "y": 4952931,
+        "distretto_modello": null,
+        "Codice condotta H2O": 20987,
+        "CONSUMI ANNO": "2023",
+        "MC": 224.13
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.775933333324778,
+          44.72954333555543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037649",
+        "Località": "TASSAROLO",
+        "Via": "VIA SANT'AMBROGIO",
+        "Civico": 7,
+        "x": 481865,
+        "y": 4953096,
+        "distretto_modello": null,
+        "Codice condotta H2O": 20983,
+        "CONSUMI ANNO": "2023",
+        "MC": 281.06
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770976666657885,
+          44.731015002222506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037631",
+        "Località": "TASSAROLO",
+        "Via": "VIA MASSIMILIANO SPINOLA",
+        "Civico": 14,
+        "x": 482019,
+        "y": 4953087,
+        "distretto_modello": null,
+        "Codice condotta H2O": 20996,
+        "CONSUMI ANNO": "2023",
+        "MC": 237.55
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.772918333324633,
+          44.73094333555579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037627",
+        "Località": "TASSAROLO",
+        "Via": "VIA MASSIMILIANO SPINOLA",
+        "Civico": 9,
+        "x": 482013,
+        "y": 4953101,
+        "distretto_modello": null,
+        "Codice condotta H2O": 20996,
+        "CONSUMI ANNO": "2023",
+        "MC": 131
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.772838333324664,
+          44.731070002222474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037683",
+        "Località": "TASSAROLO",
+        "Via": "VIA VECCHIA NOVI LIGURE",
+        "Civico": 26,
+        "x": 482318,
+        "y": 4953346,
+        "distretto_modello": null,
+        "Codice condotta H2O": 18044,
+        "CONSUMI ANNO": "2023",
+        "MC": 209
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.77668333332478,
+          44.73327666888974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037643",
+        "Località": "TASSAROLO",
+        "Via": "VIA SAN NICOLAO",
+        "Civico": 5,
+        "x": 481802,
+        "y": 4952602,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3301,
+        "CONSUMI ANNO": "2023",
+        "MC": 74.32
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770193333324524,
+          44.72656500222142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037488",
+        "Località": "TASSAROLO",
+        "Via": "LOCALITA' ROVERINA",
+        "Civico": 1,
+        "x": 481602,
+        "y": 4952506,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3267,
+        "CONSUMI ANNO": "2023",
+        "MC": 216.69
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.767668333324435,
+          44.72569833555454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037595",
+        "Località": "TASSAROLO",
+        "Via": "VIA GAVI",
+        "Civico": 13,
+        "x": 481723,
+        "y": 4952586,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3334,
+        "CONSUMI ANNO": "2023",
+        "MC": 67.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769199999991184,
+          44.726421668888115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037596",
+        "Località": "TASSAROLO",
+        "Via": "VIA GAVI",
+        "Civico": 15,
+        "x": 481699,
+        "y": 4952615,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3267,
+        "CONSUMI ANNO": "2023",
+        "MC": 173.11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.768896666657833,
+          44.7266800022215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037598",
+        "Località": "TASSAROLO",
+        "Via": "VIA GAVI",
+        "Civico": 19,
+        "x": 481682,
+        "y": 4952615,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3267,
+        "CONSUMI ANNO": "2023",
+        "MC": 227.07
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.768678333324505,
+          44.726683335554796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037600",
+        "Località": "TASSAROLO",
+        "Via": "VIA GAVI",
+        "Civico": 23,
+        "x": 481443,
+        "y": 4952454,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3267,
+        "CONSUMI ANNO": "2023",
+        "MC": 540.19
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.76566666665771,
+          44.72522500222113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00200037800",
+        "Località": "TASSAROLO",
+        "Via": "LOC. TAGLIATE",
+        "Civico": 1,
+        "x": 481447,
+        "y": 4952171,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3267,
+        "CONSUMI ANNO": "2023",
+        "MC": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.765723333324377,
+          44.72267500222048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037470",
+        "Località": "TASSAROLO",
+        "Via": "LOCALITA' CAVALLARI",
+        "Civico": 2,
+        "x": 480684,
+        "y": 4952978,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3262,
+        "CONSUMI ANNO": "2023",
+        "MC": 117
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.756068333323965,
+          44.72992333555554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037707",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO ANDREA GEMME",
+        "Civico": 6,
+        "x": 481823,
+        "y": 4952493,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3299,
+        "CONSUMI ANNO": "2023",
+        "MC": 18.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770464999991203,
+          44.72558500222116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037568",
+        "Località": "TASSAROLO",
+        "Via": "VIA GARIBALDI",
+        "Civico": 10,
+        "x": 481784,
+        "y": 4952520,
+        "distretto_modello": null,
+        "Codice condotta H2O": 5667,
+        "CONSUMI ANNO": "2023",
+        "MC": 32.13
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769968333324558,
+          44.72583166888793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037574",
+        "Località": "TASSAROLO",
+        "Via": "VIA GARIBALDI",
+        "Civico": 20,
+        "x": 481843,
+        "y": 4952564,
+        "distretto_modello": null,
+        "Codice condotta H2O": 22941,
+        "CONSUMI ANNO": "2023",
+        "MC": 45
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.77071333332456,
+          44.72622833555467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037567",
+        "Località": "TASSAROLO",
+        "Via": "VIA GARIBALDI",
+        "Civico": 7,
+        "x": 481824,
+        "y": 4952589,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3301,
+        "CONSUMI ANNO": "2023",
+        "MC": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.77047999999125,
+          44.726450002221455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037739",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO FRANCO BUFFARELLO",
+        "Civico": 6,
+        "x": 481803,
+        "y": 4952723,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3314,
+        "CONSUMI ANNO": "2023",
+        "MC": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770204999991188,
+          44.727658335554956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037746",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO FRANCO BUFFARELLO",
+        "Civico": 19,
+        "x": 482122,
+        "y": 4952772,
+        "distretto_modello": null,
+        "Codice condotta H2O": 21146,
+        "CONSUMI ANNO": "2023",
+        "MC": 21
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.774228333324672,
+          44.72810333555514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037791",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO PONENTE",
+        "Civico": 12,
+        "x": 481733,
+        "y": 4952542,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3268,
+        "CONSUMI ANNO": "2023",
+        "MC": 181.91
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769321666657822,
+          44.726023335554586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037713",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO CENTRALE",
+        "Civico": 8,
+        "x": 481770,
+        "y": 4952476,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3244,
+        "CONSUMI ANNO": "2023",
+        "MC": 55.18
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769801666657852,
+          44.725433335554484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037554",
+        "Località": "TASSAROLO",
+        "Via": "VIA DEI MARTIRI",
+        "Civico": 42,
+        "x": 481987,
+        "y": 4952212,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3239,
+        "CONSUMI ANNO": "2023",
+        "MC": 173.62
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.772551666658003,
+          44.72306500222056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037506",
+        "Località": "TASSAROLO",
+        "Via": "STRADA DELLE VIGNE",
+        "Civico": 99999,
+        "x": 482829,
+        "y": 4951496,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3238,
+        "CONSUMI ANNO": "2023",
+        "MC": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.783206666658376,
+          44.71663833555236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037453",
+        "Località": "TASSAROLO",
+        "Via": "LOC. MONTEMARINO",
+        "Civico": 99999,
+        "x": 482829,
+        "y": 4951496,
+        "distretto_modello": null,
+        "Codice condotta H2O": null,
+        "CONSUMI ANNO": "2023",
+        "MC": 248
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.783206666658376,
+          44.71663833555236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037491",
+        "Località": "TASSAROLO",
+        "Via": "LOCALITA' SAN PIETRO",
+        "Civico": 1,
+        "x": 482823,
+        "y": 4951514,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3238,
+        "CONSUMI ANNO": "2023",
+        "MC": 315.78
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.78312166665838,
+          44.7168033355524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00200037767",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO MANZONI",
+        "Civico": 1,
+        "x": 481900,
+        "y": 4952391,
+        "distretto_modello": null,
+        "Codice condotta H2O": null,
+        "CONSUMI ANNO": "2023",
+        "MC": 47.22
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.771434999991275,
+          44.72467166888774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037769",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO MANZONI",
+        "Civico": 5,
+        "x": 481956,
+        "y": 4952372,
+        "distretto_modello": null,
+        "Codice condotta H2O": 5670,
+        "CONSUMI ANNO": "2023",
+        "MC": 112.46
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.772151666657974,
+          44.72450000222098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037686",
+        "Località": "TASSAROLO",
+        "Via": "VIA XXV APRILE",
+        "Civico": 2,
+        "x": 481838,
+        "y": 4952411,
+        "distretto_modello": null,
+        "Codice condotta H2O": 5667,
+        "CONSUMI ANNO": "2023",
+        "MC": 116.91
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770659999991246,
+          44.72485000222102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037760",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO LEVANTE",
+        "Civico": 8,
+        "x": 481917,
+        "y": 4952405,
+        "distretto_modello": null,
+        "Codice condotta H2O": 5671,
+        "CONSUMI ANNO": "2023",
+        "MC": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.77165499999127,
+          44.72480166888776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037550",
+        "Località": "TASSAROLO",
+        "Via": "VIA DEI MARTIRI",
+        "Civico": 35,
+        "x": 481833,
+        "y": 4952396,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3246,
+        "CONSUMI ANNO": "2023",
+        "MC": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.77059333332454,
+          44.72471666888768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037540",
+        "Località": "TASSAROLO",
+        "Via": "VIA DEI MARTIRI",
+        "Civico": 25,
+        "x": 481820,
+        "y": 4952460,
+        "distretto_modello": null,
+        "Codice condotta H2O": 5667,
+        "CONSUMI ANNO": "2023",
+        "MC": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770431666657885,
+          44.72529000222111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037751",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO IV NOVEMBRE",
+        "Civico": 5,
+        "x": 481820,
+        "y": 4952431,
+        "distretto_modello": null,
+        "Codice condotta H2O": 5667,
+        "CONSUMI ANNO": "2023",
+        "MC": 47
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770426666657878,
+          44.725026668887786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037749",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO IV NOVEMBRE",
+        "Civico": 1,
+        "x": 481822,
+        "y": 4952452,
+        "distretto_modello": null,
+        "Codice condotta H2O": 5667,
+        "CONSUMI ANNO": "2023",
+        "MC": 39
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.77045833332454,
+          44.72521833555445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037722",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO CORTE DEI SORI",
+        "Civico": 13,
+        "x": 481922,
+        "y": 4952433,
+        "distretto_modello": null,
+        "Codice condotta H2O": 5671,
+        "CONSUMI ANNO": "2023",
+        "MC": 44.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.771716666657955,
+          44.72505000222105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037716",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO CORTE DEI SORI",
+        "Civico": 5,
+        "x": 481657,
+        "y": 4952477,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3338,
+        "CONSUMI ANNO": "2023",
+        "MC": 164.89
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.768369999991167,
+          44.725435002221175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037617",
+        "Località": "TASSAROLO",
+        "Via": "VIA MAZZINI",
+        "Civico": 16,
+        "x": 481807,
+        "y": 4952591,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3301,
+        "CONSUMI ANNO": "2023",
+        "MC": 14.88
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770264999991227,
+          44.726470002221426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00300037613",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO MERLANI II",
+        "Civico": 4,
+        "x": 481786,
+        "y": 4952656,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3311,
+        "CONSUMI ANNO": "2023",
+        "MC": 170.83
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769991666657864,
+          44.72705166888824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037665",
+        "Località": "TASSAROLO",
+        "Via": "VIA VECCHIA NOVI LIGURE",
+        "Civico": 1,
+        "x": 481717,
+        "y": 4952803,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3252,
+        "CONSUMI ANNO": "2023",
+        "MC": 981.72
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769116666657844,
+          44.7283783355552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037510",
+        "Località": "TASSAROLO",
+        "Via": "STRADA FRANCAVILLA",
+        "Civico": 4,
+        "x": 481676,
+        "y": 4952832,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3331,
+        "CONSUMI ANNO": "2023",
+        "MC": 456.05
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.768594999991171,
+          44.72863333555517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037489",
+        "Località": "TASSAROLO",
+        "Via": "LOCALITA' SAN DEFENDENTE",
+        "Civico": 1,
+        "x": 481486,
+        "y": 4952978,
+        "distretto_modello": null,
+        "Codice condotta H2O": 21244,
+        "CONSUMI ANNO": "2023",
+        "MC": 222.66
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.766191666657749,
+          44.729941668888955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037504",
+        "Località": "TASSAROLO",
+        "Via": "STRADA CAVALLARI",
+        "Civico": 7,
+        "x": 480789,
+        "y": 4952978,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3259,
+        "CONSUMI ANNO": "2023",
+        "MC": 207.65
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.757386399990713,
+          44.72992300222224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037674",
+        "Località": "TASSAROLO",
+        "Via": "VIA VECCHIA NOVI LIGURE",
+        "Civico": 12,
+        "x": 481937,
+        "y": 4952809,
+        "distretto_modello": null,
+        "Codice condotta H2O": 21143,
+        "CONSUMI ANNO": "2023",
+        "MC": 213.25
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.771888333324586,
+          44.72843833555516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037638",
+        "Località": "TASSAROLO",
+        "Via": "VIA ROVERE VERDE",
+        "Civico": 6,
+        "x": 482411,
+        "y": 4952876,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3326,
+        "CONSUMI ANNO": "2023",
+        "MC": 82.54
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.777874999991534,
+          44.72905333555529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037658",
+        "Località": "TASSAROLO",
+        "Via": "VIA SANT'AMBROGIO",
+        "Civico": 20,
+        "x": 482174,
+        "y": 4952946,
+        "distretto_modello": null,
+        "Codice condotta H2O": 20987,
+        "CONSUMI ANNO": "2023",
+        "MC": 8.35
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.774879999991404,
+          44.72967333555547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037653",
+        "Località": "TASSAROLO",
+        "Via": "VIA SANT'AMBROGIO",
+        "Civico": 16,
+        "x": 482036,
+        "y": 4953009,
+        "distretto_modello": null,
+        "Codice condotta H2O": 20987,
+        "CONSUMI ANNO": "2023",
+        "MC": 339.07
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.773134999991335,
+          44.73023666888904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037651",
+        "Località": "TASSAROLO",
+        "Via": "VIA SANT'AMBROGIO",
+        "Civico": 13,
+        "x": 481867,
+        "y": 4953078,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3270,
+        "CONSUMI ANNO": "2023",
+        "MC": 145.45
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.771003333324593,
+          44.730858335555745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037645",
+        "Località": "TASSAROLO",
+        "Via": "VIA SANT'AMBROGIO",
+        "Civico": 3,
+        "x": 481885,
+        "y": 4953201,
+        "distretto_modello": null,
+        "Codice condotta H2O": 20983,
+        "CONSUMI ANNO": "2023",
+        "MC": 84.97
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.771219999991235,
+          44.73196666888939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00200037644",
+        "Località": "TASSAROLO",
+        "Via": "VIA SANT'AMBROGIO",
+        "Civico": 1,
+        "x": 481889,
+        "y": 4953224,
+        "distretto_modello": null,
+        "Codice condotta H2O": 20983,
+        "CONSUMI ANNO": "2023",
+        "MC": 130.48
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.771278333324593,
+          44.73216833555605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037625",
+        "Località": "TASSAROLO",
+        "Via": "VIA MASSIMILIANO SPINOLA",
+        "Civico": 7,
+        "x": 482003,
+        "y": 4953134,
+        "distretto_modello": null,
+        "Codice condotta H2O": 20996,
+        "CONSUMI ANNO": "2023",
+        "MC": 328.88
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.772711666657973,
+          44.73136240222261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037635",
+        "Località": "TASSAROLO",
+        "Via": "VIA NOVI LIGURE",
+        "Civico": 8,
+        "x": 481903,
+        "y": 4953252,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3282,
+        "CONSUMI ANNO": "2023",
+        "MC": 23
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.771444999991253,
+          44.73242000222286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00200037683",
+        "Località": "TASSAROLO",
+        "Via": "VIA VECCHIA NOVI LIGURE",
+        "Civico": 26,
+        "x": 482318,
+        "y": 4953347,
+        "distretto_modello": null,
+        "Codice condotta H2O": 18044,
+        "CONSUMI ANNO": "2023",
+        "MC": 433
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.776684999991454,
+          44.733290002223065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037493",
+        "Località": "TASSAROLO",
+        "Via": "PIAZZA LIBERTA'",
+        "Civico": 1,
+        "x": 481881,
+        "y": 4952653,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3275,
+        "CONSUMI ANNO": "2023",
+        "MC": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.77118666665791,
+          44.72702666888828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037496",
+        "Località": "TASSAROLO",
+        "Via": "PIAZZA LIBERTA'",
+        "Civico": 6,
+        "x": 481802,
+        "y": 4952554,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3303,
+        "CONSUMI ANNO": "2023",
+        "MC": 93.06
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770203333324558,
+          44.72614000222136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00200037500",
+        "Località": "TASSAROLO",
+        "Via": "PIAZZA LIBERTA'",
+        "Civico": 11,
+        "x": 481747,
+        "y": 4952623,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3250,
+        "CONSUMI ANNO": "2023",
+        "MC": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769506666657886,
+          44.72675500222144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037590",
+        "Località": "TASSAROLO",
+        "Via": "VIA GAVI",
+        "Civico": 4,
+        "x": 481759,
+        "y": 4952576,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3227,
+        "CONSUMI ANNO": "2023",
+        "MC": 131.68
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769658333324546,
+          44.72633333555471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037800",
+        "Località": "TASSAROLO",
+        "Via": "LOC. TAGLIATE",
+        "Civico": 1,
+        "x": 481422,
+        "y": 4952207,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3267,
+        "CONSUMI ANNO": "2023",
+        "MC": 495.45
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.765408333324382,
+          44.72299833555386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037471",
+        "Località": "TASSAROLO",
+        "Via": "LOCALITA' CAVALLARI",
+        "Civico": 4,
+        "x": 481276,
+        "y": 4952183,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3264,
+        "CONSUMI ANNO": "2023",
+        "MC": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.763574999990986,
+          44.722786668887245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037516",
+        "Località": "TASSAROLO",
+        "Via": "VIA CAMPOLASSO",
+        "Civico": 3,
+        "x": 481837,
+        "y": 4952561,
+        "distretto_modello": null,
+        "Codice condotta H2O": 22941,
+        "CONSUMI ANNO": "2023",
+        "MC": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770634999991229,
+          44.726201668888066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037570",
+        "Località": "TASSAROLO",
+        "Via": "VIA GARIBALDI",
+        "Civico": 13,
+        "x": 481766,
+        "y": 4952626,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3333,
+        "CONSUMI ANNO": "2023",
+        "MC": 84.57
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769746666657865,
+          44.72678333555475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037578",
+        "Località": "TASSAROLO",
+        "Via": "VIA GARIBALDI",
+        "Civico": 28,
+        "x": 481882,
+        "y": 4952572,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3309,
+        "CONSUMI ANNO": "2023",
+        "MC": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.771211666657942,
+          44.726300002221386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037794",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO POZZO",
+        "Civico": 3,
+        "x": 481788,
+        "y": 4952618,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3305,
+        "CONSUMI ANNO": "2023",
+        "MC": 90.23
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770016666657877,
+          44.7267116688882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037731",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO FORNO",
+        "Civico": 2,
+        "x": 481830,
+        "y": 4952639,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3321,
+        "CONSUMI ANNO": "2023",
+        "MC": 151.79
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770553333324536,
+          44.72690166888826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037735",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO FRANCO BUFFARELLO",
+        "Civico": 2,
+        "x": 481754,
+        "y": 4952683,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3250,
+        "CONSUMI ANNO": "2023",
+        "MC": 9.09
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.76959166665789,
+          44.72729333555488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037531",
+        "Località": "TASSAROLO",
+        "Via": "VIA DEI MARTIRI",
+        "Civico": 8,
+        "x": 481779,
+        "y": 4952496,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3226,
+        "CONSUMI ANNO": "2023",
+        "MC": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769908333324528,
+          44.725613335554556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00200037790",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO PONENTE",
+        "Civico": 10,
+        "x": 481747,
+        "y": 4952518,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3268,
+        "CONSUMI ANNO": "2023",
+        "MC": 63.95
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769504999991204,
+          44.725806668887955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037712",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO CENTRALE",
+        "Civico": 6,
+        "x": 481762,
+        "y": 4952463,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3298,
+        "CONSUMI ANNO": "2023",
+        "MC": 135.66
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769701666657864,
+          44.72531333555448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00200037712",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO CENTRALE",
+        "Civico": 6,
+        "x": 481812,
+        "y": 4952502,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3299,
+        "CONSUMI ANNO": "2023",
+        "MC": 96.88
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770324999991209,
+          44.725670002221285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037784",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO PIAZZO",
+        "Civico": 4,
+        "x": 481775,
+        "y": 4952452,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3298,
+        "CONSUMI ANNO": "2023",
+        "MC": 167.03
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769861666657851,
+          44.725215002221084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00200037563",
+        "Località": "TASSAROLO",
+        "Via": "VIA DEI MARTIRI",
+        "Civico": 99999,
+        "x": 481996,
+        "y": 4952158,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3239,
+        "CONSUMI ANNO": "2023",
+        "MC": 12.22
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.772656666657996,
+          44.722571668887184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037726",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO DANTE",
+        "Civico": 4,
+        "x": 481947,
+        "y": 4952318,
+        "distretto_modello": null,
+        "Codice condotta H2O": 5669,
+        "CONSUMI ANNO": "2023",
+        "MC": 173.24
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.772043333324634,
+          44.72401166888747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037525",
+        "Località": "TASSAROLO",
+        "Via": "VIA CAMPOLASSO",
+        "Civico": 5,
+        "x": 481980,
+        "y": 4952613,
+        "distretto_modello": null,
+        "Codice condotta H2O": 6141,
+        "CONSUMI ANNO": "2023",
+        "MC": 143.01
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.772448333324647,
+          44.72667500222147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037761",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO LEVANTE",
+        "Civico": 10,
+        "x": 481920,
+        "y": 4952411,
+        "distretto_modello": null,
+        "Codice condotta H2O": 5671,
+        "CONSUMI ANNO": "2023",
+        "MC": 148.09
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.771689999991287,
+          44.72485333555435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037759",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO LEVANTE",
+        "Civico": 7,
+        "x": 481885,
+        "y": 4952448,
+        "distretto_modello": null,
+        "Codice condotta H2O": 5671,
+        "CONSUMI ANNO": "2023",
+        "MC": 17.13
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.771251666657946,
+          44.72518500222114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037690",
+        "Località": "TASSAROLO",
+        "Via": "VIA XXV APRILE",
+        "Civico": 14,
+        "x": 481885,
+        "y": 4952503,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3274,
+        "CONSUMI ANNO": "2023",
+        "MC": 95.18
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.771248333324582,
+          44.72568000222121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037548",
+        "Località": "TASSAROLO",
+        "Via": "VIA DEI MARTIRI",
+        "Civico": 33,
+        "x": 481837,
+        "y": 4952440,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3274,
+        "CONSUMI ANNO": "2023",
+        "MC": 9.64
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770638333324547,
+          44.72510833555439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037720",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO CORTE DEI SORI",
+        "Civico": 10,
+        "x": 481849,
+        "y": 4952472,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3274,
+        "CONSUMI ANNO": "2023",
+        "MC": 88
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770789999991218,
+          44.725398335554495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037721",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO CORTE DEI SORI",
+        "Civico": 11,
+        "x": 481975,
+        "y": 4952393,
+        "distretto_modello": null,
+        "Codice condotta H2O": 5670,
+        "CONSUMI ANNO": "2023",
+        "MC": 38
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.772388333324603,
+          44.72468833555432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037615",
+        "Località": "TASSAROLO",
+        "Via": "VIA MAZZINI",
+        "Civico": 12,
+        "x": 481774,
+        "y": 4952664,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3333,
+        "CONSUMI ANNO": "2023",
+        "MC": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769841666657856,
+          44.72712833555486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037619",
+        "Località": "TASSAROLO",
+        "Via": "VIA MAZZINI",
+        "Civico": 20,
+        "x": 481762,
+        "y": 4952691,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3250,
+        "CONSUMI ANNO": "2023",
+        "MC": 101.88
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769681666657876,
+          44.72736666888836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00200037775",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO MERLANI II",
+        "Civico": 1,
+        "x": 481729,
+        "y": 4952820,
+        "distretto_modello": null,
+        "Codice condotta H2O": 21142,
+        "CONSUMI ANNO": "2023",
+        "MC": 121.44
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769264999991153,
+          44.72853000222185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037780",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO MERLANI II",
+        "Civico": 13,
+        "x": 481757,
+        "y": 4952824,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3318,
+        "CONSUMI ANNO": "2023",
+        "MC": 28
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769619499991178,
+          44.72856980222193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037779",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO MERLANI II",
+        "Civico": 8,
+        "x": 481778,
+        "y": 4952561,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3337,
+        "CONSUMI ANNO": "2023",
+        "MC": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769899999991212,
+          44.726198335554606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037776",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO MERLANI II",
+        "Civico": 2,
+        "x": 481816,
+        "y": 4952765,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3323,
+        "CONSUMI ANNO": "2023",
+        "MC": 115.84
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770369999991205,
+          44.72803666888851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037797",
+        "Località": "TASSAROLO",
+        "Via": "LOCALITA' CONTESSA",
+        "Civico": 1,
+        "x": 481742,
+        "y": 4953197,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3294,
+        "CONSUMI ANNO": "2023",
+        "MC": 254.73
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.76941499999119,
+          44.73192166888944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037486",
+        "Località": "TASSAROLO",
+        "Via": "LOCALITA' RONCHI",
+        "Civico": 1,
+        "x": 481346,
+        "y": 4953071,
+        "distretto_modello": null,
+        "Codice condotta H2O": 14867,
+        "CONSUMI ANNO": "2023",
+        "MC": 148.55
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.764426666657638,
+          44.73078000222243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037481",
+        "Località": "TASSAROLO",
+        "Via": "LOCALITA' ORTO",
+        "Civico": 1,
+        "x": 481295,
+        "y": 4952886,
+        "distretto_modello": null,
+        "Codice condotta H2O": 21172,
+        "CONSUMI ANNO": "2023",
+        "MC": 49.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.763783333324321,
+          44.72911333555533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037512",
+        "Località": "TASSAROLO",
+        "Via": "STRADA FRANCAVILLA",
+        "Civico": 6,
+        "x": 480817,
+        "y": 4953148,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3231,
+        "CONSUMI ANNO": "2023",
+        "MC": 103.99
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.75773499999071,
+          44.73146166888926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00200037503",
+        "Località": "TASSAROLO",
+        "Via": "STRADA CAVALLARI",
+        "Civico": 5,
+        "x": 480721,
+        "y": 4953006,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3349,
+        "CONSUMI ANNO": "2023",
+        "MC": 307.76
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.756533333324022,
+          44.73017500222226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037666",
+        "Località": "TASSAROLO",
+        "Via": "VIA VECCHIA NOVI LIGURE",
+        "Civico": 2,
+        "x": 481735,
+        "y": 4952822,
+        "distretto_modello": null,
+        "Codice condotta H2O": 21142,
+        "CONSUMI ANNO": null,
+        "MC": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.76933999999117,
+          44.728545002221864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00200037671",
+        "Località": "TASSAROLO",
+        "Via": "VIA VECCHIA NOVI LIGURE",
+        "Civico": 8,
+        "x": 481796,
+        "y": 4952812,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3316,
+        "CONSUMI ANNO": null,
+        "MC": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770118333324547,
+          44.72845666888856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037454",
+        "Località": "TASSAROLO",
+        "Via": "VIA VECCHIA NOVI LIGURE",
+        "Civico": 14,
+        "x": 482822,
+        "y": 4951497,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3238,
+        "CONSUMI ANNO": "2023",
+        "MC": 265.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.783113333325062,
+          44.71664166888581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037661",
+        "Località": "TASSAROLO",
+        "Via": "VIA SANT'AMBROGIO",
+        "Civico": 29,
+        "x": 482057,
+        "y": 4953033,
+        "distretto_modello": null,
+        "Codice condotta H2O": 20987,
+        "CONSUMI ANNO": "2023",
+        "MC": 11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.773401666658028,
+          44.73045833555567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037660",
+        "Località": "TASSAROLO",
+        "Via": "VIA SANT'AMBROGIO",
+        "Civico": 25,
+        "x": 481996,
+        "y": 4953019,
+        "distretto_modello": null,
+        "Codice condotta H2O": 20987,
+        "CONSUMI ANNO": "2023",
+        "MC": 147.96
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.772624999991276,
+          44.730326668889006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037652",
+        "Località": "TASSAROLO",
+        "Via": "VIA SANT'AMBROGIO",
+        "Civico": 14,
+        "x": 481918,
+        "y": 4953069,
+        "distretto_modello": null,
+        "Codice condotta H2O": 20983,
+        "CONSUMI ANNO": "2023",
+        "MC": 267
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.771638333324614,
+          44.73077333555567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037650",
+        "Località": "TASSAROLO",
+        "Via": "VIA SANT'AMBROGIO",
+        "Civico": 10,
+        "x": 481883,
+        "y": 4953091,
+        "distretto_modello": null,
+        "Codice condotta H2O": 20983,
+        "CONSUMI ANNO": "2023",
+        "MC": 104.73
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.771201666657895,
+          44.73097166888915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037647",
+        "Località": "TASSAROLO",
+        "Via": "VIA SANT'AMBROGIO",
+        "Civico": 5,
+        "x": 481853,
+        "y": 4953192,
+        "distretto_modello": null,
+        "Codice condotta H2O": 20996,
+        "CONSUMI ANNO": "2023",
+        "MC": 105.58
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770819999991224,
+          44.7318850022227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037630",
+        "Località": "TASSAROLO",
+        "Via": "VIA MASSIMILIANO SPINOLA",
+        "Civico": 13,
+        "x": 481897,
+        "y": 4953179,
+        "distretto_modello": null,
+        "Codice condotta H2O": 20996,
+        "CONSUMI ANNO": "2023",
+        "MC": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.771371666657924,
+          44.731768335556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00200037632",
+        "Località": "TASSAROLO",
+        "Via": "VIA MASSIMILIANO SPINOLA",
+        "Civico": 99999,
+        "x": 482073,
+        "y": 4953062,
+        "distretto_modello": null,
+        "Codice condotta H2O": 20996,
+        "CONSUMI ANNO": "2023",
+        "MC": 361.68
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.77360666665801,
+          44.73071166888916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037564",
+        "Località": "TASSAROLO",
+        "Via": "VIA FARA VECCHIA",
+        "Civico": 2,
+        "x": 481925,
+        "y": 4953212,
+        "distretto_modello": null,
+        "Codice condotta H2O": 20982,
+        "CONSUMI ANNO": "2023",
+        "MC": 251.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.771733333324615,
+          44.73206333555605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037475",
+        "Località": "TASSAROLO",
+        "Via": "LOCALITA' FARA NUOVA",
+        "Civico": 3,
+        "x": 481461,
+        "y": 4953453,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3293,
+        "CONSUMI ANNO": "2023",
+        "MC": 143.92
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.765853333324385,
+          44.73422000222326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037671",
+        "Località": "TASSAROLO",
+        "Via": "VIA VECCHIA NOVI LIGURE",
+        "Civico": 8,
+        "x": 481751,
+        "y": 4952832,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3318,
+        "CONSUMI ANNO": "2023",
+        "MC": 79.09
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769543333324519,
+          44.728638335555246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037611",
+        "Località": "TASSAROLO",
+        "Via": "VIA LUIGI BISIO",
+        "Civico": 14,
+        "x": 481787,
+        "y": 4952624,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3305,
+        "CONSUMI ANNO": "2023",
+        "MC": 84.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.77001166665788,
+          44.726763335554764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037642",
+        "Località": "TASSAROLO",
+        "Via": "VIA SAN NICOLAO",
+        "Civico": 3,
+        "x": 481811,
+        "y": 4952595,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3301,
+        "CONSUMI ANNO": "2023",
+        "MC": 72.76
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770309999991229,
+          44.726501668888105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00200037497",
+        "Località": "TASSAROLO",
+        "Via": "PIAZZA LIBERTA'",
+        "Civico": 8,
+        "x": 481802,
+        "y": 4952554,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3303,
+        "CONSUMI ANNO": "2023",
+        "MC": 113.84
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770203333324558,
+          44.72614000222136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037763",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO MADDALENA",
+        "Civico": 3,
+        "x": 481714,
+        "y": 4952541,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3268,
+        "CONSUMI ANNO": "2023",
+        "MC": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769084999991152,
+          44.726016668888015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00200037588",
+        "Località": "TASSAROLO",
+        "Via": "VIA GAVI",
+        "Civico": 1,
+        "x": 481757,
+        "y": 4952560,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3334,
+        "CONSUMI ANNO": "2023",
+        "MC": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769623333324539,
+          44.72618666888805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037594",
+        "Località": "TASSAROLO",
+        "Via": "VIA GAVI",
+        "Civico": 11,
+        "x": 481727,
+        "y": 4952592,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3267,
+        "CONSUMI ANNO": "2023",
+        "MC": 229.59
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769247299991179,
+          44.726479402221415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037566",
+        "Località": "TASSAROLO",
+        "Via": "VIA GARIBALDI",
+        "Civico": 5,
+        "x": 481788,
+        "y": 4952546,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3304,
+        "CONSUMI ANNO": "2023",
+        "MC": 98.14
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770026666657856,
+          44.726061668888036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037523",
+        "Località": "TASSAROLO",
+        "Via": "VIA CAMPOLASSO",
+        "Civico": 11,
+        "x": 482019,
+        "y": 4952537,
+        "distretto_modello": null,
+        "Codice condotta H2O": 6142,
+        "CONSUMI ANNO": "2023",
+        "MC": 202.21
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.772943333324664,
+          44.725986668887955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037520",
+        "Località": "TASSAROLO",
+        "Via": "VIA CAMPOLASSO",
+        "Civico": 8,
+        "x": 482022,
+        "y": 4952647,
+        "distretto_modello": null,
+        "Codice condotta H2O": 6141,
+        "CONSUMI ANNO": "2023",
+        "MC": 174.88
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.772969999991309,
+          44.72697833555489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037522",
+        "Località": "TASSAROLO",
+        "Via": "VIA CAMPOLASSO",
+        "Civico": 10,
+        "x": 482023,
+        "y": 4952590,
+        "distretto_modello": null,
+        "Codice condotta H2O": 6141,
+        "CONSUMI ANNO": "2023",
+        "MC": 539.21
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.772991666657976,
+          44.726461668888106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037576",
+        "Località": "TASSAROLO",
+        "Via": "VIA GARIBALDI",
+        "Civico": 24,
+        "x": 481837,
+        "y": 4952584,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3301,
+        "CONSUMI ANNO": "2023",
+        "MC": 96.83
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770644999991227,
+          44.72640500222137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037730",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO FORNO",
+        "Civico": 1,
+        "x": 481821,
+        "y": 4952656,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3319,
+        "CONSUMI ANNO": "2023",
+        "MC": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770439999991243,
+          44.72705310222153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037702",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO ALLA VIA GARIBALDI",
+        "Civico": 11,
+        "x": 481817,
+        "y": 4952690,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3314,
+        "CONSUMI ANNO": "2023",
+        "MC": 135.65
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770378333324574,
+          44.72736500222168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037736",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO FRANCO BUFFARELLO",
+        "Civico": 3,
+        "x": 481803,
+        "y": 4952692,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3314,
+        "CONSUMI ANNO": "2023",
+        "MC": 37.42
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770201666657874,
+          44.72737666888831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037529",
+        "Località": "TASSAROLO",
+        "Via": "VIA DEI MARTIRI",
+        "Civico": 4,
+        "x": 481768,
+        "y": 4952520,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3226,
+        "CONSUMI ANNO": "2023",
+        "MC": 29.34
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769764999991216,
+          44.72583333555457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037541",
+        "Località": "TASSAROLO",
+        "Via": "VIA DEI MARTIRI",
+        "Civico": 26,
+        "x": 481803,
+        "y": 4952458,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3244,
+        "CONSUMI ANNO": "2023",
+        "MC": 119
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770211666657879,
+          44.725268335554404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037545",
+        "Località": "TASSAROLO",
+        "Via": "VIA DEI MARTIRI",
+        "Civico": 30,
+        "x": 481816,
+        "y": 4952433,
+        "distretto_modello": null,
+        "Codice condotta H2O": 5667,
+        "CONSUMI ANNO": "2023",
+        "MC": 139.51
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.77037499999121,
+          44.72505000222111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00300037551",
+        "Località": "TASSAROLO",
+        "Via": "VIA DEI MARTIRI",
+        "Civico": 36,
+        "x": 481861,
+        "y": 4952366,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3246,
+        "CONSUMI ANNO": "2023",
+        "MC": 118.95
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770948333324558,
+          44.724446668887595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037467",
+        "Località": "TASSAROLO",
+        "Via": "LOCALITA' CARUBIO",
+        "Civico": 99999,
+        "x": 482220,
+        "y": 4952051,
+        "distretto_modello": null,
+        "Codice condotta H2O": 5662,
+        "CONSUMI ANNO": "2023",
+        "MC": 119.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.775488333324777,
+          44.72161500222027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037462",
+        "Località": "TASSAROLO",
+        "Via": "LOCALITA' CARUBIO",
+        "Civico": 2,
+        "x": 482229,
+        "y": 4952088,
+        "distretto_modello": null,
+        "Codice condotta H2O": 5662,
+        "CONSUMI ANNO": "2023",
+        "MC": 756.28
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.775604999991431,
+          44.72195166888708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037728",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO EUROPA",
+        "Civico": 3,
+        "x": 481973,
+        "y": 4952287,
+        "distretto_modello": null,
+        "Codice condotta H2O": 5665,
+        "CONSUMI ANNO": "2023",
+        "MC": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.772363333324638,
+          44.723735002220735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037557",
+        "Località": "TASSAROLO",
+        "Via": "VIA DEI MARTIRI",
+        "Civico": 45,
+        "x": 481887,
+        "y": 4952357,
+        "distretto_modello": null,
+        "Codice condotta H2O": 5667,
+        "CONSUMI ANNO": "2023",
+        "MC": 65.23
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.771281666657917,
+          44.72436666888767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037688",
+        "Località": "TASSAROLO",
+        "Via": "VIA XXV APRILE",
+        "Civico": 8,
+        "x": 481877,
+        "y": 4952499,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3274,
+        "CONSUMI ANNO": "2023",
+        "MC": 164.13
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.771149999991275,
+          44.72563833555455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037698",
+        "Località": "TASSAROLO",
+        "Via": "VIA XXV APRILE",
+        "Civico": 30,
+        "x": 481823,
+        "y": 4952762,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3323,
+        "CONSUMI ANNO": "2023",
+        "MC": 57.22
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770461666657898,
+          44.72801000222178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037752",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO IV NOVEMBRE",
+        "Civico": 7,
+        "x": 481865,
+        "y": 4952495,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3274,
+        "CONSUMI ANNO": "2023",
+        "MC": 108.41
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770998333324556,
+          44.7256100022212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037530",
+        "Località": "TASSAROLO",
+        "Via": "VIA DEI MARTIRI",
+        "Civico": 5,
+        "x": 481777,
+        "y": 4952525,
+        "distretto_modello": null,
+        "Codice condotta H2O": 5667,
+        "CONSUMI ANNO": "2023",
+        "MC": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769881666657877,
+          44.725871668887976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037775",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO MERLANI II",
+        "Civico": 1,
+        "x": 481791,
+        "y": 4952499,
+        "distretto_modello": null,
+        "Codice condotta H2O": 5667,
+        "CONSUMI ANNO": "2023",
+        "MC": -21.99
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770054999991205,
+          44.7256366688879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037487",
+        "Località": "TASSAROLO",
+        "Via": "LOCALITA' RONCHI",
+        "Civico": 2,
+        "x": 481321,
+        "y": 4953097,
+        "distretto_modello": null,
+        "Codice condotta H2O": 14868,
+        "CONSUMI ANNO": "2023",
+        "MC": 193.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.764101666657638,
+          44.73101333555578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037509",
+        "Località": "TASSAROLO",
+        "Via": "STRADA FRANCAVILLA",
+        "Civico": 3,
+        "x": 481061,
+        "y": 4952997,
+        "distretto_modello": null,
+        "Codice condotta H2O": 21249,
+        "CONSUMI ANNO": "2023",
+        "MC": 53
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.76082166665753,
+          44.73010833555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100052616",
+        "Località": "TASSAROLO",
+        "Via": "VIA PASTURANA",
+        "Civico": 99999,
+        "x": 480736,
+        "y": 4953722,
+        "distretto_modello": null,
+        "Codice condotta H2O": 14756,
+        "CONSUMI ANNO": "2023",
+        "MC": 193.73
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.75669833332404,
+          44.736620002223816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037801",
+        "Località": "TASSAROLO",
+        "Via": "LOC. BUFFALORA",
+        "Civico": 84,
+        "x": 481782,
+        "y": 4952795,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3316,
+        "CONSUMI ANNO": "2023",
+        "MC": 669.68
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769931666657865,
+          44.72830833555516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037501",
+        "Località": "TASSAROLO",
+        "Via": "STRADA CAVALLARI",
+        "Civico": 1,
+        "x": 480710,
+        "y": 4953089,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3349,
+        "CONSUMI ANNO": "2023",
+        "MC": 13
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.756386666657345,
+          44.730921668889145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037768",
+        "Località": "TASSAROLO",
+        "Via": "VIA ROVERE VERDE",
+        "Civico": 3,
+        "x": 481951,
+        "y": 4952365,
+        "distretto_modello": null,
+        "Codice condotta H2O": 5670,
+        "CONSUMI ANNO": "2023",
+        "MC": 84.62
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.772084999991279,
+          44.72443833555427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037656",
+        "Località": "TASSAROLO",
+        "Via": "VIA SANT'AMBROGIO",
+        "Civico": 19,
+        "x": 481928,
+        "y": 4953082,
+        "distretto_modello": null,
+        "Codice condotta H2O": 20983,
+        "CONSUMI ANNO": "2023",
+        "MC": 133.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.771771666657935,
+          44.73089333555578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100052635",
+        "Località": "TASSAROLO",
+        "Via": "VIA MASSIMILIANO SPINOLA",
+        "Civico": 99999,
+        "x": 482190,
+        "y": 4953004,
+        "distretto_modello": null,
+        "Codice condotta H2O": 20995,
+        "CONSUMI ANNO": "2023",
+        "MC": 21.38
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.77507833332471,
+          44.73019666888904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037623",
+        "Località": "TASSAROLO",
+        "Via": "VIA MASSIMILIANO SPINOLA",
+        "Civico": 3,
+        "x": 481964,
+        "y": 4953189,
+        "distretto_modello": null,
+        "Codice condotta H2O": 20982,
+        "CONSUMI ANNO": "2023",
+        "MC": 137.56
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.772219999991261,
+          44.731856668889385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00200037635",
+        "Località": "TASSAROLO",
+        "Via": "VIA NOVI LIGURE",
+        "Civico": 8,
+        "x": 481903,
+        "y": 4953255,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3282,
+        "CONSUMI ANNO": "2023",
+        "MC": 117.73
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.771443333324571,
+          44.73244500222282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037499",
+        "Località": "TASSAROLO",
+        "Via": "PIAZZA LIBERTA'",
+        "Civico": 10,
+        "x": 481751,
+        "y": 4952600,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3336,
+        "CONSUMI ANNO": "2023",
+        "MC": 37.31
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.76955833332451,
+          44.72654666888811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037500",
+        "Località": "TASSAROLO",
+        "Via": "PIAZZA LIBERTA'",
+        "Civico": 11,
+        "x": 481677,
+        "y": 4952608,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3267,
+        "CONSUMI ANNO": "2023",
+        "MC": 52.92
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.768619999991147,
+          44.72661666888816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037764",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO MADDALENA",
+        "Civico": 4,
+        "x": 481722,
+        "y": 4952533,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3268,
+        "CONSUMI ANNO": "2023",
+        "MC": 29.22
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769186666657877,
+          44.72594333555455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037589",
+        "Località": "TASSAROLO",
+        "Via": "VIA GAVI",
+        "Civico": 3,
+        "x": 481757,
+        "y": 4952568,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3227,
+        "CONSUMI ANNO": "2023",
+        "MC": 69.95
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769623333324535,
+          44.72626500222135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037591",
+        "Località": "TASSAROLO",
+        "Via": "VIA GAVI",
+        "Civico": 5,
+        "x": 481669,
+        "y": 4952589,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3267,
+        "CONSUMI ANNO": "2023",
+        "MC": 73.01
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.768513333324476,
+          44.726446668888066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037602",
+        "Località": "TASSAROLO",
+        "Via": "VIA GAVI",
+        "Civico": 27,
+        "x": 481339,
+        "y": 4952126,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3267,
+        "CONSUMI ANNO": "2023",
+        "MC": -35
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.764361666657672,
+          44.72227166888712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037605",
+        "Località": "TASSAROLO",
+        "Via": "VIA GAVI",
+        "Civico": 9999,
+        "x": 481343,
+        "y": 4952189,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3267,
+        "CONSUMI ANNO": "2023",
+        "MC": 31
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.764416666657663,
+          44.722840002220586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037469",
+        "Località": "TASSAROLO",
+        "Via": "LOCALITA' CAVALLARI",
+        "Civico": 1,
+        "x": 481209,
+        "y": 4952288,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3264,
+        "CONSUMI ANNO": "2023",
+        "MC": 415.71
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.762718333324285,
+          44.7237216688875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037709",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO ANDREA GEMME",
+        "Civico": 9,
+        "x": 481823,
+        "y": 4952511,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3299,
+        "CONSUMI ANNO": "2023",
+        "MC": 37.94
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770466666657901,
+          44.72574666888793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037579",
+        "Località": "TASSAROLO",
+        "Via": "VIA GARIBALDI",
+        "Civico": 30,
+        "x": 481787,
+        "y": 4952663,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3311,
+        "CONSUMI ANNO": "2023",
+        "MC": 51.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7700049999912,
+          44.7271133355549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037583",
+        "Località": "TASSAROLO",
+        "Via": "VIA GARIBALDI",
+        "Civico": 40,
+        "x": 481789,
+        "y": 4952644,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3311,
+        "CONSUMI ANNO": "2023",
+        "MC": 63.12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.77003333332454,
+          44.72694666888821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037700",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO ALLA VIA GARIBALDI",
+        "Civico": 3,
+        "x": 481797,
+        "y": 4952669,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3312,
+        "CONSUMI ANNO": "2023",
+        "MC": 71.04
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770136666657889,
+          44.72717333555486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037781",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO PIAZZO",
+        "Civico": 1,
+        "x": 481781,
+        "y": 4952442,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3298,
+        "CONSUMI ANNO": "2023",
+        "MC": 37
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.76993833332455,
+          44.725128335554395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037553",
+        "Località": "TASSAROLO",
+        "Via": "VIA DEI MARTIRI",
+        "Civico": 40,
+        "x": 481875,
+        "y": 4952368,
+        "distretto_modello": null,
+        "Codice condotta H2O": 5667,
+        "CONSUMI ANNO": "2023",
+        "MC": 32
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.771124999991256,
+          44.724461668887635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037556",
+        "Località": "TASSAROLO",
+        "Via": "VIA DEI MARTIRI",
+        "Civico": 44,
+        "x": 481904,
+        "y": 4952311,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3246,
+        "CONSUMI ANNO": "2023",
+        "MC": 183.32
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.771498333324619,
+          44.723953335554135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037563",
+        "Località": "TASSAROLO",
+        "Via": "VIA DEI MARTIRI",
+        "Civico": 99999,
+        "x": 482074,
+        "y": 4952156,
+        "distretto_modello": null,
+        "Codice condotta H2O": 5661,
+        "CONSUMI ANNO": "2023",
+        "MC": 3.44
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.773648333324697,
+          44.7225633355538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037478",
+        "Località": "TASSAROLO",
+        "Via": "LOCALITA' FILAGNOTTI",
+        "Civico": 1,
+        "x": 482048,
+        "y": 4952149,
+        "distretto_modello": null,
+        "Codice condotta H2O": 5661,
+        "CONSUMI ANNO": "2023",
+        "MC": 6.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.773316666658028,
+          44.722496668887125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037465",
+        "Località": "TASSAROLO",
+        "Via": "LOCALITA' CARUBIO",
+        "Civico": 5,
+        "x": 482156,
+        "y": 4952080,
+        "distretto_modello": null,
+        "Codice condotta H2O": 5661,
+        "CONSUMI ANNO": "2023",
+        "MC": 72.97
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.77468166665805,
+          44.72188000222034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037725",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO DANTE",
+        "Civico": 2,
+        "x": 481944,
+        "y": 4952283,
+        "distretto_modello": null,
+        "Codice condotta H2O": 5663,
+        "CONSUMI ANNO": "2023",
+        "MC": 178.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.771998333324628,
+          44.7237000022208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037803",
+        "Località": "TASSAROLO",
+        "Via": "GIUSEPPE BRUNO",
+        "Civico": 99999,
+        "x": 481871,
+        "y": 4952378,
+        "distretto_modello": null,
+        "Codice condotta H2O": 5667,
+        "CONSUMI ANNO": "2023",
+        "MC": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.771078333324558,
+          44.7245566688877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037687",
+        "Località": "TASSAROLO",
+        "Via": "VIA XXV APRILE",
+        "Civico": 2,
+        "x": 481868,
+        "y": 4952430,
+        "distretto_modello": null,
+        "Codice condotta H2O": 5671,
+        "CONSUMI ANNO": "2023",
+        "MC": 122.42
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.771033333324564,
+          44.725018335554374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037756",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO LEVANTE",
+        "Civico": 4,
+        "x": 481866,
+        "y": 4952441,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3274,
+        "CONSUMI ANNO": "2023",
+        "MC": 112.59
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.771006666657907,
+          44.72512333555441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037758",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO LEVANTE",
+        "Civico": 6,
+        "x": 481914,
+        "y": 4952408,
+        "distretto_modello": null,
+        "Codice condotta H2O": 5671,
+        "CONSUMI ANNO": "2023",
+        "MC": 245.17
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.771616666657959,
+          44.72482833555433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037754",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO LEVANTE",
+        "Civico": 1,
+        "x": 481875,
+        "y": 4952451,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3274,
+        "CONSUMI ANNO": "2023",
+        "MC": 35.27
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.771118333324576,
+          44.72521333555446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037694",
+        "Località": "TASSAROLO",
+        "Via": "VIA XXV APRILE",
+        "Civico": 20,
+        "x": 481858,
+        "y": 4952611,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3275,
+        "CONSUMI ANNO": "2023",
+        "MC": 172.18
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770898333324554,
+          44.72664666888819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037753",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO IV NOVEMBRE",
+        "Civico": 9,
+        "x": 481943,
+        "y": 4952503,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3309,
+        "CONSUMI ANNO": "2023",
+        "MC": 38.48
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.771983333324602,
+          44.72568333555455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037750",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO IV NOVEMBRE",
+        "Civico": 3,
+        "x": 481802,
+        "y": 4952508,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3299,
+        "CONSUMI ANNO": "2023",
+        "MC": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770204999991192,
+          44.725721668887985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037714",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO CORTE DEI SORI",
+        "Civico": 3,
+        "x": 481794,
+        "y": 4952501,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3299,
+        "CONSUMI ANNO": "2023",
+        "MC": 14.14
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770101666657883,
+          44.72565833555449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037508",
+        "Località": "TASSAROLO",
+        "Via": "STRADA FRANCAVILLA",
+        "Civico": 2,
+        "x": 481697,
+        "y": 4952812,
+        "distretto_modello": null,
+        "Codice condotta H2O": 22939,
+        "CONSUMI ANNO": "2023",
+        "MC": 126.33
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.768861666657827,
+          44.72845833555522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00200037490",
+        "Località": "TASSAROLO",
+        "Via": "LOCALITA' SAN DEFENDENTE",
+        "Civico": 99999,
+        "x": 481442,
+        "y": 4953013,
+        "distretto_modello": null,
+        "Codice condotta H2O": 14867,
+        "CONSUMI ANNO": "2023",
+        "MC": 10561.87
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.765638333324366,
+          44.730261668889035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00200037507",
+        "Località": "TASSAROLO",
+        "Via": "STRADA FRANCAVILLA",
+        "Civico": 1,
+        "x": 481353,
+        "y": 4952892,
+        "distretto_modello": null,
+        "Codice condotta H2O": 21172,
+        "CONSUMI ANNO": "2023",
+        "MC": 87.79
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.764521666657641,
+          44.72917166888875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037457",
+        "Località": "TASSAROLO",
+        "Via": "LOCALITA' ALBORINA",
+        "Civico": 1,
+        "x": 480638,
+        "y": 4953243,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3348,
+        "CONSUMI ANNO": "2023",
+        "MC": 1094.42
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.755469999990654,
+          44.73230666888951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037513",
+        "Località": "TASSAROLO",
+        "Via": "STRADA FRANCAVILLA",
+        "Civico": 46,
+        "x": 480323,
+        "y": 4953149,
+        "distretto_modello": null,
+        "Codice condotta H2O": 22534,
+        "CONSUMI ANNO": "2023",
+        "MC": 592
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.751494999990477,
+          44.73145166888929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037679",
+        "Località": "TASSAROLO",
+        "Via": "VIA VECCHIA NOVI LIGURE",
+        "Civico": 18,
+        "x": 482353,
+        "y": 4952811,
+        "distretto_modello": null,
+        "Codice condotta H2O": 21146,
+        "CONSUMI ANNO": "2023",
+        "MC": 58
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.777143333324792,
+          44.72846500222191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037681",
+        "Località": "TASSAROLO",
+        "Via": "VIA VECCHIA NOVI LIGURE",
+        "Civico": 20,
+        "x": 482304,
+        "y": 4952875,
+        "distretto_modello": null,
+        "Codice condotta H2O": 21146,
+        "CONSUMI ANNO": "2023",
+        "MC": 95.32
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.776529999991482,
+          44.7290416688887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037659",
+        "Località": "TASSAROLO",
+        "Via": "VIA SANT'AMBROGIO",
+        "Civico": 22,
+        "x": 482318,
+        "y": 4952912,
+        "distretto_modello": null,
+        "Codice condotta H2O": 21146,
+        "CONSUMI ANNO": "2023",
+        "MC": 117.08
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.776698333324813,
+          44.72936833555536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037664",
+        "Località": "TASSAROLO",
+        "Via": "VIA SANT'AMBROGIO",
+        "Civico": 35,
+        "x": 482226,
+        "y": 4953069,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3290,
+        "CONSUMI ANNO": "2023",
+        "MC": 67
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.77552833332473,
+          44.730786668889095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037655",
+        "Località": "TASSAROLO",
+        "Via": "VIA SANT'AMBROGIO",
+        "Civico": 18,
+        "x": 482072,
+        "y": 4952972,
+        "distretto_modello": null,
+        "Codice condotta H2O": 20987,
+        "CONSUMI ANNO": "2023",
+        "MC": 136.83
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.773589999991339,
+          44.72990166888892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037634",
+        "Località": "TASSAROLO",
+        "Via": "VIA NOVI LIGURE",
+        "Civico": 6,
+        "x": 481691,
+        "y": 4952982,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3270,
+        "CONSUMI ANNO": "2023",
+        "MC": 31.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.768781666657803,
+          44.72998833555555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037468",
+        "Località": "TASSAROLO",
+        "Via": "LOCALITA' CASCINA NUOVA",
+        "Civico": 2,
+        "x": 481643,
+        "y": 4951309,
+        "distretto_modello": null,
+        "Codice condotta H2O": 7443,
+        "CONSUMI ANNO": "2023",
+        "MC": 229
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.768229999991133,
+          44.714920002218676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037795",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO TRAVERSO",
+        "Civico": 1,
+        "x": 481776,
+        "y": 4952564,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3337,
+        "CONSUMI ANNO": "2023",
+        "MC": 37.39
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769871666657876,
+          44.72622666888809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037636",
+        "Località": "TASSAROLO",
+        "Via": "VIA RINALDO BIANCHI",
+        "Civico": 2,
+        "x": 481720,
+        "y": 4952634,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3267,
+        "CONSUMI ANNO": "2023",
+        "MC": 72.96
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769154999991175,
+          44.72685333555483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00600037500",
+        "Località": "TASSAROLO",
+        "Via": "PIAZZA LIBERTA'",
+        "Civico": 11,
+        "x": 481761,
+        "y": 4952604,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3250,
+        "CONSUMI ANNO": "2023",
+        "MC": 18.52
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769678333324526,
+          44.726583335554785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00400037500",
+        "Località": "TASSAROLO",
+        "Via": "PIAZZA LIBERTA'",
+        "Civico": 11,
+        "x": 481756,
+        "y": 4952603,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3250,
+        "CONSUMI ANNO": "2023",
+        "MC": 11.73
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769614999991186,
+          44.72658000222148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037588",
+        "Località": "TASSAROLO",
+        "Via": "VIA GAVI",
+        "Civico": 1,
+        "x": 481796,
+        "y": 4952533,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3339,
+        "CONSUMI ANNO": "2023",
+        "MC": 170.77
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770121666657868,
+          44.72594333555459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037796",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO XX SETTEMBRE",
+        "Civico": 2,
+        "x": 481709,
+        "y": 4952574,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3334,
+        "CONSUMI ANNO": "2023",
+        "MC": 18.73
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769028333324515,
+          44.726316668888124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037483",
+        "Località": "TASSAROLO",
+        "Via": "LOCALITA' ORTOLANA",
+        "Civico": 2,
+        "x": 481047,
+        "y": 4952206,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3265,
+        "CONSUMI ANNO": "2023",
+        "MC": 50
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.760671666657547,
+          44.722985002220575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037505",
+        "Località": "TASSAROLO",
+        "Via": "STRADA CAVALLARI",
+        "Civico": 15,
+        "x": 481046,
+        "y": 4952603,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3263,
+        "CONSUMI ANNO": "2023",
+        "MC": 59.32
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.760649999990836,
+          44.726555002221396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037799",
+        "Località": "TASSAROLO",
+        "Via": "LOC. BOSCHINE",
+        "Civico": 4,
+        "x": 481281,
+        "y": 4952121,
+        "distretto_modello": null,
+        "Codice condotta H2O": 22940,
+        "CONSUMI ANNO": "2023",
+        "MC": 79.48
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.76363166665766,
+          44.72222666888714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037704",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO ANDREA GEMME",
+        "Civico": 2,
+        "x": 481797,
+        "y": 4952550,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3303,
+        "CONSUMI ANNO": "2023",
+        "MC": 43
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770133333324539,
+          44.72610000222136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037580",
+        "Località": "TASSAROLO",
+        "Via": "VIA GARIBALDI",
+        "Civico": 32,
+        "x": 481864,
+        "y": 4952648,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3275,
+        "CONSUMI ANNO": "2023",
+        "MC": 154.44
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770976666657885,
+          44.726981668888214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00200037581",
+        "Località": "TASSAROLO",
+        "Via": "VIA GARIBALDI",
+        "Civico": 34,
+        "x": 481935,
+        "y": 4952601,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3309,
+        "CONSUMI ANNO": "2023",
+        "MC": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.771878333324604,
+          44.72656166888815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037733",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO FORNO",
+        "Civico": 6,
+        "x": 481827,
+        "y": 4952660,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3319,
+        "CONSUMI ANNO": "2023",
+        "MC": 6.38
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.77050666665789,
+          44.72709000222154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037734",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO FORNO",
+        "Civico": 8,
+        "x": 481848,
+        "y": 4952638,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3275,
+        "CONSUMI ANNO": "2023",
+        "MC": 127.96
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770773333324547,
+          44.72689166888818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037584",
+        "Località": "TASSAROLO",
+        "Via": "VIA GARIBALDI",
+        "Civico": 44,
+        "x": 481811,
+        "y": 4952650,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3320,
+        "CONSUMI ANNO": "2023",
+        "MC": 233
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770308333324543,
+          44.727000002221594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037737",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO FRANCO BUFFARELLO",
+        "Civico": 4,
+        "x": 481804,
+        "y": 4952643,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3306,
+        "CONSUMI ANNO": null,
+        "MC": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770218333324548,
+          44.726936668888236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037534",
+        "Località": "TASSAROLO",
+        "Via": "VIA DEI MARTIRI",
+        "Civico": 12,
+        "x": 481796,
+        "y": 4952503,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3299,
+        "CONSUMI ANNO": "2023",
+        "MC": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.77011999999123,
+          44.72567333555453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037539",
+        "Località": "TASSAROLO",
+        "Via": "VIA DEI MARTIRI",
+        "Civico": 24,
+        "x": 481801,
+        "y": 4952491,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3299,
+        "CONSUMI ANNO": "2023",
+        "MC": 6.41
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7701816666579,
+          44.72557166888792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037543",
+        "Località": "TASSAROLO",
+        "Via": "VIA DEI MARTIRI",
+        "Civico": 28,
+        "x": 481804,
+        "y": 4952438,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3298,
+        "CONSUMI ANNO": "2023",
+        "MC": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770228333324544,
+          44.72509166888776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037782",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO PIAZZO",
+        "Civico": 2,
+        "x": 481809,
+        "y": 4952425,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3245,
+        "CONSUMI ANNO": "2023",
+        "MC": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770293333324554,
+          44.724975002221015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037787",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO PIAZZO",
+        "Civico": 10,
+        "x": 481790,
+        "y": 4952435,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3298,
+        "CONSUMI ANNO": "2023",
+        "MC": 49.77
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770053333324526,
+          44.72506166888775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037783",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO PIAZZO",
+        "Civico": 3,
+        "x": 481794,
+        "y": 4952422,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3298,
+        "CONSUMI ANNO": "2023",
+        "MC": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770104999991194,
+          44.72494333555437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037547",
+        "Località": "TASSAROLO",
+        "Via": "VIA DEI MARTIRI",
+        "Civico": 32,
+        "x": 481844,
+        "y": 4952400,
+        "distretto_modello": null,
+        "Codice condotta H2O": 5667,
+        "CONSUMI ANNO": "2023",
+        "MC": 46.27
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770731666657907,
+          44.72475333555434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037562",
+        "Località": "TASSAROLO",
+        "Via": "VIA DEI MARTIRI",
+        "Civico": 50,
+        "x": 481826,
+        "y": 4952130,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3239,
+        "CONSUMI ANNO": "2023",
+        "MC": 120
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770514999991217,
+          44.722321668887126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037461",
+        "Località": "TASSAROLO",
+        "Via": "LOCALITA' CARUBIO",
+        "Civico": 1,
+        "x": 482153,
+        "y": 4952096,
+        "distretto_modello": null,
+        "Codice condotta H2O": 5661,
+        "CONSUMI ANNO": "2023",
+        "MC": 103.42
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.77463999999137,
+          44.72202500222037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037464",
+        "Località": "TASSAROLO",
+        "Via": "LOCALITA' CARUBIO",
+        "Civico": 4,
+        "x": 482359,
+        "y": 4952110,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3344,
+        "CONSUMI ANNO": "2023",
+        "MC": -16.54
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.777241666658155,
+          44.722153335553706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00200037460",
+        "Località": "TASSAROLO",
+        "Via": "LOCALITA' CARRETTA",
+        "Civico": 99999,
+        "x": 482645,
+        "y": 4951702,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3237,
+        "CONSUMI ANNO": "2023",
+        "MC": 43
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.780876666658303,
+          44.71849000221949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037727",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO EUROPA",
+        "Civico": 2,
+        "x": 481987,
+        "y": 4952225,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3239,
+        "CONSUMI ANNO": "2023",
+        "MC": 151.29
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.772539999991322,
+          44.72317833555394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00300037767",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO MANZONI",
+        "Civico": 1,
+        "x": 481927,
+        "y": 4952361,
+        "distretto_modello": null,
+        "Codice condotta H2O": 5670,
+        "CONSUMI ANNO": "2023",
+        "MC": 57.61
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.771783333324608,
+          44.72439833555416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037757",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO LEVANTE",
+        "Civico": 5,
+        "x": 481879,
+        "y": 4952446,
+        "distretto_modello": null,
+        "Codice condotta H2O": 5671,
+        "CONSUMI ANNO": "2023",
+        "MC": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.771171666657938,
+          44.7251683355544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037691",
+        "Località": "TASSAROLO",
+        "Via": "VIA XXV APRILE",
+        "Civico": 16,
+        "x": 481871,
+        "y": 4952563,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3309,
+        "CONSUMI ANNO": "2023",
+        "MC": 226.63
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.77106999999126,
+          44.72621500222134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037697",
+        "Località": "TASSAROLO",
+        "Via": "VIA XXV APRILE",
+        "Civico": 26,
+        "x": 481858,
+        "y": 4952669,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3275,
+        "CONSUMI ANNO": "2023",
+        "MC": 58.87
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770901666657927,
+          44.72717500222158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037685",
+        "Località": "TASSAROLO",
+        "Via": "VIA XXV APRILE",
+        "Civico": 1,
+        "x": 481867,
+        "y": 4952801,
+        "distretto_modello": null,
+        "Codice condotta H2O": 22930,
+        "CONSUMI ANNO": "2023",
+        "MC": 3.25
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.771006666657913,
+          44.72836500222183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037544",
+        "Località": "TASSAROLO",
+        "Via": "VIA DEI MARTIRI",
+        "Civico": 29,
+        "x": 481843,
+        "y": 4952429,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3274,
+        "CONSUMI ANNO": "2023",
+        "MC": 39
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770721666657922,
+          44.72501166888781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037724",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO CORTE DEI SORI",
+        "Civico": 19,
+        "x": 481727,
+        "y": 4952493,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3338,
+        "CONSUMI ANNO": "2023",
+        "MC": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.76925333332453,
+          44.72558666888797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037718",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO CORTE DEI SORI",
+        "Civico": 7,
+        "x": 481781,
+        "y": 4952463,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3244,
+        "CONSUMI ANNO": "2023",
+        "MC": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769929999991191,
+          44.72532000222114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037747",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO GERA",
+        "Civico": 1,
+        "x": 481775,
+        "y": 4952644,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3333,
+        "CONSUMI ANNO": "2023",
+        "MC": 47.84
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769848333324544,
+          44.726946668888196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00200037613",
+        "Località": "TASSAROLO",
+        "Via": "VIA MAZZINI",
+        "Civico": 6,
+        "x": 481725,
+        "y": 4952779,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3228,
+        "CONSUMI ANNO": "2023",
+        "MC": 39.99
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769219999991206,
+          44.728163335555145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00300037622",
+        "Località": "TASSAROLO",
+        "Via": "VIA MAZZINI",
+        "Civico": 28,
+        "x": 481755,
+        "y": 4952766,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3249,
+        "CONSUMI ANNO": "2023",
+        "MC": 144.08
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769598333324502,
+          44.72804500222182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00200037622",
+        "Località": "TASSAROLO",
+        "Via": "VIA MAZZINI",
+        "Civico": 28,
+        "x": 481762,
+        "y": 4952819,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3316,
+        "CONSUMI ANNO": "2023",
+        "MC": 107.48
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7696799999912,
+          44.72852333555522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037490",
+        "Località": "TASSAROLO",
+        "Via": "LOCALITA' SAN DEFENDENTE",
+        "Civico": 9999,
+        "x": 481473,
+        "y": 4952976,
+        "distretto_modello": null,
+        "Codice condotta H2O": 21247,
+        "CONSUMI ANNO": "2023",
+        "MC": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.766024999991034,
+          44.72992666888891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037514",
+        "Località": "TASSAROLO",
+        "Via": "STRADA FRANCAVILLA",
+        "Civico": 99999,
+        "x": 481514,
+        "y": 4952920,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3296,
+        "CONSUMI ANNO": "2023",
+        "MC": 13.51
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.766541666657762,
+          44.729421668888804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037667",
+        "Località": "TASSAROLO",
+        "Via": "VIA VECCHIA NOVI LIGURE",
+        "Civico": 3,
+        "x": 482142,
+        "y": 4952773,
+        "distretto_modello": null,
+        "Codice condotta H2O": 21146,
+        "CONSUMI ANNO": "2023",
+        "MC": 133
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.774483333324694,
+          44.728120002221786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037675",
+        "Località": "TASSAROLO",
+        "Via": "VIA VECCHIA NOVI LIGURE",
+        "Civico": 15,
+        "x": 482204,
+        "y": 4952850,
+        "distretto_modello": null,
+        "Codice condotta H2O": 21146,
+        "CONSUMI ANNO": "2023",
+        "MC": 99.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.775261666658082,
+          44.72880833555531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037676",
+        "Località": "TASSAROLO",
+        "Via": "VIA VECCHIA NOVI LIGURE",
+        "Civico": 16,
+        "x": 482247,
+        "y": 4952859,
+        "distretto_modello": null,
+        "Codice condotta H2O": 21146,
+        "CONSUMI ANNO": "2023",
+        "MC": 705.84
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.775809999991402,
+          44.728896668888666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037680",
+        "Località": "TASSAROLO",
+        "Via": "VIA VECCHIA NOVI LIGURE",
+        "Civico": 19,
+        "x": 482327,
+        "y": 4952904,
+        "distretto_modello": null,
+        "Codice condotta H2O": 21146,
+        "CONSUMI ANNO": "2023",
+        "MC": 49.81
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.776813333324785,
+          44.729298335555384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037637",
+        "Località": "TASSAROLO",
+        "Via": "VIA ROVERE VERDE",
+        "Civico": 2,
+        "x": 482363,
+        "y": 4952909,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3326,
+        "CONSUMI ANNO": "2023",
+        "MC": 128.75
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.777274999991468,
+          44.72934333555541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037663",
+        "Località": "TASSAROLO",
+        "Via": "VIA SANT'AMBROGIO",
+        "Civico": 33,
+        "x": 482118,
+        "y": 4952995,
+        "distretto_modello": null,
+        "Codice condotta H2O": 20987,
+        "CONSUMI ANNO": "2023",
+        "MC": 115.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.774169999991372,
+          44.7301150022223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037662",
+        "Località": "TASSAROLO",
+        "Via": "VIA SANT'AMBROGIO",
+        "Civico": 31,
+        "x": 482088,
+        "y": 4952989,
+        "distretto_modello": null,
+        "Codice condotta H2O": 20987,
+        "CONSUMI ANNO": "2023",
+        "MC": 24.38
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.773796666658,
+          44.730056668889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037632",
+        "Località": "TASSAROLO",
+        "Via": "VIA MASSIMILIANO SPINOLA",
+        "Civico": 16,
+        "x": 482049,
+        "y": 4953070,
+        "distretto_modello": null,
+        "Codice condotta H2O": 20996,
+        "CONSUMI ANNO": "2023",
+        "MC": 183.71
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.773303333324675,
+          44.7307866688891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037549",
+        "Località": "TASSAROLO",
+        "Via": "VIA DEI MARTIRI",
+        "Civico": 34,
+        "x": 481834,
+        "y": 4952487,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3299,
+        "CONSUMI ANNO": "2023",
+        "MC": 182
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770604999991223,
+          44.72553500222122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037537",
+        "Località": "TASSAROLO",
+        "Via": "VIA DEI MARTIRI",
+        "Civico": 19,
+        "x": 481801,
+        "y": 4952481,
+        "distretto_modello": null,
+        "Codice condotta H2O": 5667,
+        "CONSUMI ANNO": "2023",
+        "MC": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770188333324523,
+          44.72548166888789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037606",
+        "Località": "TASSAROLO",
+        "Via": "VIA LUIGI BISIO",
+        "Civico": 4,
+        "x": 481791,
+        "y": 4952622,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3305,
+        "CONSUMI ANNO": "2023",
+        "MC": 160.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770054999991205,
+          44.72674500222152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037608",
+        "Località": "TASSAROLO",
+        "Via": "VIA LUIGI BISIO",
+        "Civico": 8,
+        "x": 481773,
+        "y": 4952654,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3333,
+        "CONSUMI ANNO": "2023",
+        "MC": 0.37
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769826666657883,
+          44.72703500222157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037609",
+        "Località": "TASSAROLO",
+        "Via": "VIA LUIGI BISIO",
+        "Civico": 10,
+        "x": 481761,
+        "y": 4952587,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3352,
+        "CONSUMI ANNO": "2023",
+        "MC": 32.05
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769679999991208,
+          44.726435002221386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037497",
+        "Località": "TASSAROLO",
+        "Via": "PIAZZA LIBERTA'",
+        "Civico": 8,
+        "x": 481779,
+        "y": 4952540,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3304,
+        "CONSUMI ANNO": "2023",
+        "MC": 120.34
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769906666657892,
+          44.726005002221335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00500037500",
+        "Località": "TASSAROLO",
+        "Via": "PIAZZA LIBERTA'",
+        "Civico": 11,
+        "x": 481760,
+        "y": 4952613,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3250,
+        "CONSUMI ANNO": "2023",
+        "MC": 165.69
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.76966666665785,
+          44.7266616688882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037599",
+        "Località": "TASSAROLO",
+        "Via": "VIA GAVI",
+        "Civico": 21,
+        "x": 481643,
+        "y": 4952613,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3267,
+        "CONSUMI ANNO": "2023",
+        "MC": 413.91
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.768189999991167,
+          44.726666668888114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037601",
+        "Località": "TASSAROLO",
+        "Via": "VIA GAVI",
+        "Civico": 25,
+        "x": 481357,
+        "y": 4952380,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3267,
+        "CONSUMI ANNO": "2023",
+        "MC": 41.08
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.764589999990985,
+          44.72456166888768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037577",
+        "Località": "TASSAROLO",
+        "Via": "VIA GARIBALDI",
+        "Civico": 26,
+        "x": 481860,
+        "y": 4952614,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3275,
+        "CONSUMI ANNO": "2023",
+        "MC": 122
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7709266666579,
+          44.72667833555475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037703",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO ALLA VIA GARIBALDI",
+        "Civico": 13,
+        "x": 481814,
+        "y": 4952676,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3312,
+        "CONSUMI ANNO": "2023",
+        "MC": 117.83
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.77034666665787,
+          44.72723833555486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037744",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO FRANCO BUFFARELLO",
+        "Civico": 17,
+        "x": 481818,
+        "y": 4952700,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3314,
+        "CONSUMI ANNO": "2023",
+        "MC": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770398333324545,
+          44.72745166888837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037740",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO FRANCO BUFFARELLO",
+        "Civico": 9,
+        "x": 481813,
+        "y": 4952634,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3301,
+        "CONSUMI ANNO": "2023",
+        "MC": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770334999991201,
+          44.726858335554816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00200037791",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO PONENTE",
+        "Civico": 14,
+        "x": 481782,
+        "y": 4952546,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3304,
+        "CONSUMI ANNO": "2023",
+        "MC": 151.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769951666657901,
+          44.72606333555462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037785",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO PIAZZO",
+        "Civico": 5,
+        "x": 481769,
+        "y": 4952424,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3298,
+        "CONSUMI ANNO": "2023",
+        "MC": 82.43
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7697899999912,
+          44.724963335554364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00200037785",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO PIAZZO",
+        "Civico": 5,
+        "x": 481775,
+        "y": 4952395,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3298,
+        "CONSUMI ANNO": "2023",
+        "MC": 5.93
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769856666657848,
+          44.72470500222097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037551",
+        "Località": "TASSAROLO",
+        "Via": "VIA DEI MARTIRI",
+        "Civico": 36,
+        "x": 481866,
+        "y": 4952368,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3246,
+        "CONSUMI ANNO": "2023",
+        "MC": 120.26
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.771013333324596,
+          44.72446000222099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037745",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO FRANCO BUFFARELLO",
+        "Civico": 5,
+        "x": 481795,
+        "y": 4952705,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3314,
+        "CONSUMI ANNO": "2023",
+        "MC": 66
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.77010166665789,
+          44.72749333555499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037479",
+        "Località": "TASSAROLO",
+        "Via": "LOCALITA' GANGIO",
+        "Civico": 1,
+        "x": 482825,
+        "y": 4951512,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3238,
+        "CONSUMI ANNO": "2023",
+        "MC": -12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.783149999991718,
+          44.716785002219154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037560",
+        "Località": "TASSAROLO",
+        "Via": "VIA DEI MARTIRI",
+        "Civico": 47,
+        "x": 481983,
+        "y": 4952338,
+        "distretto_modello": null,
+        "Codice condotta H2O": 5669,
+        "CONSUMI ANNO": "2023",
+        "MC": 103.16
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.77249333332465,
+          44.724196668887615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037767",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO MANZONI",
+        "Civico": 1,
+        "x": 481900,
+        "y": 4952391,
+        "distretto_modello": null,
+        "Codice condotta H2O": 5667,
+        "CONSUMI ANNO": "2023",
+        "MC": 54.94
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.771434999991275,
+          44.72467166888774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037771",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO MANZONI",
+        "Civico": 9,
+        "x": 481932,
+        "y": 4952369,
+        "distretto_modello": null,
+        "Codice condotta H2O": 5670,
+        "CONSUMI ANNO": "2023",
+        "MC": 93.33
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.771844999991284,
+          44.72447666888761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037770",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO MANZONI",
+        "Civico": 7,
+        "x": 481929,
+        "y": 4952367,
+        "distretto_modello": null,
+        "Codice condotta H2O": 5670,
+        "CONSUMI ANNO": "2023",
+        "MC": 71.28
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.771813333324637,
+          44.72445666888765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037558",
+        "Località": "TASSAROLO",
+        "Via": "VIA DEI MARTIRI",
+        "Civico": 45,
+        "x": 481886,
+        "y": 4952360,
+        "distretto_modello": null,
+        "Codice condotta H2O": 5667,
+        "CONSUMI ANNO": "2023",
+        "MC": 70
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.771271666657926,
+          44.72439333555421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037692",
+        "Località": "TASSAROLO",
+        "Via": "VIA XXV APRILE",
+        "Civico": 18,
+        "x": 481862,
+        "y": 4952624,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3275,
+        "CONSUMI ANNO": "2023",
+        "MC": 19
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770958333324595,
+          44.72676333555482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00200037540",
+        "Località": "TASSAROLO",
+        "Via": "VIA DEI MARTIRI",
+        "Civico": 25,
+        "x": 481818,
+        "y": 4952451,
+        "distretto_modello": null,
+        "Codice condotta H2O": 5667,
+        "CONSUMI ANNO": "2023",
+        "MC": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770399999991238,
+          44.72521166888785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037717",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO CORTE DEI SORI",
+        "Civico": 6,
+        "x": 481771,
+        "y": 4952597,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3305,
+        "CONSUMI ANNO": null,
+        "MC": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769806666657844,
+          44.726523335554724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037528",
+        "Località": "TASSAROLO",
+        "Via": "VIA DEI MARTIRI",
+        "Civico": 3,
+        "x": 481793,
+        "y": 4952528,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3339,
+        "CONSUMI ANNO": "2023",
+        "MC": 19
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770084999991223,
+          44.725901668888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037526",
+        "Località": "TASSAROLO",
+        "Via": "VIA DEI MARTIRI",
+        "Civico": 1,
+        "x": 481769,
+        "y": 4952530,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3226,
+        "CONSUMI ANNO": "2023",
+        "MC": 431.71
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769776666657886,
+          44.725923335554555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037613",
+        "Località": "TASSAROLO",
+        "Via": "VIA MAZZINI",
+        "Civico": 6,
+        "x": 481776,
+        "y": 4952589,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3337,
+        "CONSUMI ANNO": "2023",
+        "MC": 7.01
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769866666657892,
+          44.726453335554694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037616",
+        "Località": "TASSAROLO",
+        "Via": "VIA MAZZINI",
+        "Civico": 14,
+        "x": 481785,
+        "y": 4952646,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3311,
+        "CONSUMI ANNO": "2023",
+        "MC": 39.43
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769983333324546,
+          44.7269600022215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037618",
+        "Località": "TASSAROLO",
+        "Via": "VIA MAZZINI",
+        "Civico": 18,
+        "x": 481768,
+        "y": 4952656,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3333,
+        "CONSUMI ANNO": "2023",
+        "MC": 158.49
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.76976666665785,
+          44.72705500222156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037620",
+        "Località": "TASSAROLO",
+        "Via": "VIA MAZZINI",
+        "Civico": 24,
+        "x": 481775,
+        "y": 4952713,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3249,
+        "CONSUMI ANNO": "2023",
+        "MC": 119.04
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769849999991223,
+          44.72756833555495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037455",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO MERLANI II",
+        "Civico": 4,
+        "x": 481768,
+        "y": 4952846,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3316,
+        "CONSUMI ANNO": "2023",
+        "MC": 53.68
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769759999991212,
+          44.728763335555215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00200037487",
+        "Località": "TASSAROLO",
+        "Via": "LOCALITA' RONCHI",
+        "Civico": 2,
+        "x": 481314,
+        "y": 4953138,
+        "distretto_modello": null,
+        "Codice condotta H2O": 14868,
+        "CONSUMI ANNO": null,
+        "MC": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.76401499999095,
+          44.73137833555588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037502",
+        "Località": "TASSAROLO",
+        "Via": "STRADA CAVALLARI",
+        "Civico": 2,
+        "x": 480710,
+        "y": 4952935,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3261,
+        "CONSUMI ANNO": "2023",
+        "MC": 3.18
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.756393333324029,
+          44.72953666888886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037673",
+        "Località": "TASSAROLO",
+        "Via": "VIA VECCHIA NOVI LIGURE",
+        "Civico": 11,
+        "x": 482175,
+        "y": 4952887,
+        "distretto_modello": null,
+        "Codice condotta H2O": 21146,
+        "CONSUMI ANNO": "2023",
+        "MC": 76.24
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.774893333324698,
+          44.72914333555538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037644",
+        "Località": "TASSAROLO",
+        "Via": "VIA SANT'AMBROGIO",
+        "Civico": 1,
+        "x": 482244,
+        "y": 4952930,
+        "distretto_modello": null,
+        "Codice condotta H2O": 20987,
+        "CONSUMI ANNO": "2023",
+        "MC": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.77576333332477,
+          44.729533335555395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037678",
+        "Località": "TASSAROLO",
+        "Via": "VIA VECCHIA NOVI LIGURE",
+        "Civico": 17,
+        "x": 482301,
+        "y": 4952912,
+        "distretto_modello": null,
+        "Codice condotta H2O": 20984,
+        "CONSUMI ANNO": "2023",
+        "MC": 85.89
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.776486666658094,
+          44.7293700022221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037646",
+        "Località": "TASSAROLO",
+        "Via": "VIA SANT'AMBROGIO",
+        "Civico": 4,
+        "x": 481851,
+        "y": 4953142,
+        "distretto_modello": null,
+        "Codice condotta H2O": 20983,
+        "CONSUMI ANNO": "2023",
+        "MC": 280.74
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.77079333332458,
+          44.73142666888931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037628",
+        "Località": "TASSAROLO",
+        "Via": "VIA MASSIMILIANO SPINOLA",
+        "Civico": 10,
+        "x": 481942,
+        "y": 4953155,
+        "distretto_modello": null,
+        "Codice condotta H2O": 20996,
+        "CONSUMI ANNO": "2023",
+        "MC": 128.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.77194499999127,
+          44.73154833555589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037629",
+        "Località": "TASSAROLO",
+        "Via": "VIA MASSIMILIANO SPINOLA",
+        "Civico": 12,
+        "x": 481980,
+        "y": 4953111,
+        "distretto_modello": null,
+        "Codice condotta H2O": 20996,
+        "CONSUMI ANNO": "2023",
+        "MC": 753
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.772426666657983,
+          44.731151668889204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037624",
+        "Località": "TASSAROLO",
+        "Via": "VIA MASSIMILIANO SPINOLA",
+        "Civico": 5,
+        "x": 481995,
+        "y": 4953275,
+        "distretto_modello": null,
+        "Codice condotta H2O": 20982,
+        "CONSUMI ANNO": "2023",
+        "MC": 233.41
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.772603333324623,
+          44.732630002222855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037477",
+        "Località": "TASSAROLO",
+        "Via": "LOCALITA' COLLETTO",
+        "Civico": 5,
+        "x": 481553,
+        "y": 4953276,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3294,
+        "CONSUMI ANNO": "2023",
+        "MC": 93.05
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.767029999991099,
+          44.73262833555618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037494",
+        "Località": "TASSAROLO",
+        "Via": "PIAZZA LIBERTA'",
+        "Civico": 2,
+        "x": 481760,
+        "y": 4952614,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3250,
+        "CONSUMI ANNO": "2023",
+        "MC": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769668333324534,
+          44.72667666888816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037498",
+        "Località": "TASSAROLO",
+        "Via": "PIAZZA LIBERTA'",
+        "Civico": 9,
+        "x": 481761,
+        "y": 4952591,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3227,
+        "CONSUMI ANNO": "2023",
+        "MC": 37.11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769676666657848,
+          44.72646500222147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00300037500",
+        "Località": "TASSAROLO",
+        "Via": "PIAZZA LIBERTA'",
+        "Civico": 11,
+        "x": 481780,
+        "y": 4952597,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3305,
+        "CONSUMI ANNO": "2023",
+        "MC": 169.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769921666657876,
+          44.72651833555476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100053597",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO MADDALENA",
+        "Civico": 12,
+        "x": 481708,
+        "y": 4952532,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3268,
+        "CONSUMI ANNO": "2023",
+        "MC": 32.44
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769013333324493,
+          44.72593500222124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037766",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO MADDALENA",
+        "Civico": 8,
+        "x": 481692,
+        "y": 4952519,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3338,
+        "CONSUMI ANNO": "2023",
+        "MC": 696.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.768811666657827,
+          44.72582000222127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037592",
+        "Località": "TASSAROLO",
+        "Via": "VIA GAVI",
+        "Civico": 7,
+        "x": 481726,
+        "y": 4952574,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3334,
+        "CONSUMI ANNO": "2023",
+        "MC": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769241666657873,
+          44.72631833555469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037597",
+        "Località": "TASSAROLO",
+        "Via": "VIA GAVI",
+        "Civico": 17,
+        "x": 481691,
+        "y": 4952597,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3267,
+        "CONSUMI ANNO": "2023",
+        "MC": 92.13
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.768793333324474,
+          44.72652333555476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037603",
+        "Località": "TASSAROLO",
+        "Via": "VIA GAVI",
+        "Civico": 29,
+        "x": 481781,
+        "y": 4951571,
+        "distretto_modello": null,
+        "Codice condotta H2O": 7009,
+        "CONSUMI ANNO": "2023",
+        "MC": 570.79
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769966666657897,
+          44.71728500221923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037604",
+        "Località": "TASSAROLO",
+        "Via": "VIA GAVI",
+        "Civico": 33,
+        "x": 481344,
+        "y": 4952055,
+        "distretto_modello": null,
+        "Codice condotta H2O": 22940,
+        "CONSUMI ANNO": "2023",
+        "MC": 71.39
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.764431666657647,
+          44.721628335553596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037482",
+        "Località": "TASSAROLO",
+        "Via": "LOCALITA' ORTOLANA",
+        "Civico": 1,
+        "x": 481141,
+        "y": 4952242,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3265,
+        "CONSUMI ANNO": "2023",
+        "MC": 300.71
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.761856666657575,
+          44.723313335553996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037472",
+        "Località": "TASSAROLO",
+        "Via": "STRADA CAVALLARI",
+        "Civico": 4,
+        "x": 480682,
+        "y": 4952952,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3262,
+        "CONSUMI ANNO": "2023",
+        "MC": 40.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.756041666657321,
+          44.729693335555474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037484",
+        "Località": "TASSAROLO",
+        "Via": "LOCALITA' ORTOLANA",
+        "Civico": 9,
+        "x": 481083,
+        "y": 4952219,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3265,
+        "CONSUMI ANNO": "2023",
+        "MC": 14.39
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.761131666657537,
+          44.72309833555396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037798",
+        "Località": "TASSAROLO",
+        "Via": "LOC. BOSCHINE",
+        "Civico": 9999,
+        "x": 481247,
+        "y": 4952030,
+        "distretto_modello": null,
+        "Codice condotta H2O": 22940,
+        "CONSUMI ANNO": "2023",
+        "MC": 179.79
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.763208333324291,
+          44.721406668886864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037705",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO ANDREA GEMME",
+        "Civico": 3,
+        "x": 481802,
+        "y": 4952536,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3339,
+        "CONSUMI ANNO": "2023",
+        "MC": 47.03
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770198333324563,
+          44.7259750022213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037572",
+        "Località": "TASSAROLO",
+        "Via": "VIA GARIBALDI",
+        "Civico": 16,
+        "x": 481837,
+        "y": 4952544,
+        "distretto_modello": null,
+        "Codice condotta H2O": 22941,
+        "CONSUMI ANNO": "2023",
+        "MC": 115.66
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770643333324587,
+          44.72604666888798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037573",
+        "Località": "TASSAROLO",
+        "Via": "VIA GARIBALDI",
+        "Civico": 18,
+        "x": 481831,
+        "y": 4952538,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3339,
+        "CONSUMI ANNO": "2023",
+        "MC": 2.42
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770568333324569,
+          44.72599666888799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00200037525",
+        "Località": "TASSAROLO",
+        "Via": "VIA CAMPOLASSO",
+        "Civico": 99999,
+        "x": 482033,
+        "y": 4952499,
+        "distretto_modello": null,
+        "Codice condotta H2O": 6142,
+        "CONSUMI ANNO": "2023",
+        "MC": 83
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.77312166665799,
+          44.72565000222119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037524",
+        "Località": "TASSAROLO",
+        "Via": "VIA CAMPOLASSO",
+        "Civico": 21,
+        "x": 482020,
+        "y": 4952636,
+        "distretto_modello": null,
+        "Codice condotta H2O": 6141,
+        "CONSUMI ANNO": "2023",
+        "MC": 102.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.77294666665797,
+          44.726883335554795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037793",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO POZZO",
+        "Civico": 1,
+        "x": 481821,
+        "y": 4952608,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3301,
+        "CONSUMI ANNO": "2023",
+        "MC": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770436666657867,
+          44.726621668888136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037582",
+        "Località": "TASSAROLO",
+        "Via": "VIA GARIBALDI",
+        "Civico": 36,
+        "x": 481780,
+        "y": 4952658,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3311,
+        "CONSUMI ANNO": "2023",
+        "MC": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769909999991205,
+          44.72707333555482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037701",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO ALLA VIA GARIBALDI",
+        "Civico": 4,
+        "x": 481811,
+        "y": 4952680,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3312,
+        "CONSUMI ANNO": "2023",
+        "MC": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770304999991232,
+          44.72727166888835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037585",
+        "Località": "TASSAROLO",
+        "Via": "VIA GARIBALDI",
+        "Civico": 48,
+        "x": 481804,
+        "y": 4952648,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3306,
+        "CONSUMI ANNO": "2023",
+        "MC": 3.12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770218333324536,
+          44.72698666888824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037743",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO FRANCO BUFFARELLO",
+        "Civico": 15,
+        "x": 481853,
+        "y": 4952721,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3323,
+        "CONSUMI ANNO": "2023",
+        "MC": 8.42
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770839999991258,
+          44.72764500222167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037792",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO PONENTE",
+        "Civico": 16,
+        "x": 481741,
+        "y": 4952491,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3268,
+        "CONSUMI ANNO": "2023",
+        "MC": 33.16
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.76943166665786,
+          44.725571668887866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037711",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO CENTRALE",
+        "Civico": 4,
+        "x": 481728,
+        "y": 4952403,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3338,
+        "CONSUMI ANNO": "2023",
+        "MC": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769263333324524,
+          44.72477333555431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00300037785",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO PIAZZO",
+        "Civico": 5,
+        "x": 481777,
+        "y": 4952423,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3298,
+        "CONSUMI ANNO": "2023",
+        "MC": 1.65
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769889999991177,
+          44.72495666888778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00200037547",
+        "Località": "TASSAROLO",
+        "Via": "VIA DEI MARTIRI",
+        "Civico": 32,
+        "x": 481844,
+        "y": 4952400,
+        "distretto_modello": null,
+        "Codice condotta H2O": null,
+        "CONSUMI ANNO": "2023",
+        "MC": 110.88
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770731666657907,
+          44.72475333555434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037460",
+        "Località": "TASSAROLO",
+        "Via": "LOCALITA' CARRETTA",
+        "Civico": 9999,
+        "x": 482782,
+        "y": 4951895,
+        "distretto_modello": null,
+        "Codice condotta H2O": 5660,
+        "CONSUMI ANNO": "2023",
+        "MC": 40
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.782599999991698,
+          44.72022833555321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00300037768",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO MANZONI",
+        "Civico": 3,
+        "x": 481932,
+        "y": 4952380,
+        "distretto_modello": null,
+        "Codice condotta H2O": 5670,
+        "CONSUMI ANNO": "2023",
+        "MC": 381.58
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.771843333324599,
+          44.724573335554304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037519",
+        "Località": "TASSAROLO",
+        "Via": "VIA CAMPOLASSO",
+        "Civico": 7,
+        "x": 481963,
+        "y": 4952624,
+        "distretto_modello": null,
+        "Codice condotta H2O": 6141,
+        "CONSUMI ANNO": "2023",
+        "MC": 100.37
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.772226666657948,
+          44.72676666888815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037693",
+        "Località": "TASSAROLO",
+        "Via": "VIA XXV APRILE",
+        "Civico": 18,
+        "x": 481865,
+        "y": 4952591,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3275,
+        "CONSUMI ANNO": "2023",
+        "MC": 241.92
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.77099499999125,
+          44.726470002221404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037614",
+        "Località": "TASSAROLO",
+        "Via": "VIA MAZZINI",
+        "Civico": 8,
+        "x": 481757,
+        "y": 4952649,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3250,
+        "CONSUMI ANNO": "2023",
+        "MC": 28.74
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769619999991164,
+          44.72698833555482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037777",
+        "Località": "TASSAROLO",
+        "Via": "VICOLO MERLANI II",
+        "Civico": 6,
+        "x": 481894,
+        "y": 4952707,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3275,
+        "CONSUMI ANNO": "2023",
+        "MC": 221.63
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.771359999991244,
+          44.72751333555494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037507",
+        "Località": "TASSAROLO",
+        "Via": "STRADA FRANCAVILLA",
+        "Civico": 1,
+        "x": 481108,
+        "y": 4952980,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3231,
+        "CONSUMI ANNO": "2023",
+        "MC": 436.03
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.761421666657524,
+          44.72995333555551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037672",
+        "Località": "TASSAROLO",
+        "Via": "VIA VECCHIA NOVI LIGURE",
+        "Civico": 10,
+        "x": 481748,
+        "y": 4952844,
+        "distretto_modello": null,
+        "Codice condotta H2O": 21142,
+        "CONSUMI ANNO": "2023",
+        "MC": 44
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769508333324508,
+          44.72874333555524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037670",
+        "Località": "TASSAROLO",
+        "Via": "VIA VECCHIA NOVI LIGURE",
+        "Civico": 7,
+        "x": 482191,
+        "y": 4952847,
+        "distretto_modello": null,
+        "Codice condotta H2O": 21146,
+        "CONSUMI ANNO": "2023",
+        "MC": 216.46
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.775094999991367,
+          44.728781668888686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037677",
+        "Località": "TASSAROLO",
+        "Via": "VIA VECCHIA NOVI LIGURE",
+        "Civico": 16,
+        "x": 482260,
+        "y": 4952850,
+        "distretto_modello": null,
+        "Codice condotta H2O": 21146,
+        "CONSUMI ANNO": "2023",
+        "MC": 242.49
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.775969999991434,
+          44.72881500222197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00200037677",
+        "Località": "TASSAROLO",
+        "Via": "VIA VECCHIA NOVI LIGURE",
+        "Civico": 16,
+        "x": 482320,
+        "y": 4952875,
+        "distretto_modello": null,
+        "Codice condotta H2O": 21146,
+        "CONSUMI ANNO": "2023",
+        "MC": 0.37
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.776726666658142,
+          44.72903500222201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037682",
+        "Località": "TASSAROLO",
+        "Via": "VIA VECCHIA NOVI LIGURE",
+        "Civico": 24,
+        "x": 482306,
+        "y": 4953318,
+        "distretto_modello": null,
+        "Codice condotta H2O": 18044,
+        "CONSUMI ANNO": "2023",
+        "MC": 8.19
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.776531666658103,
+          44.733030002222954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037684",
+        "Località": "TASSAROLO",
+        "Via": "VIA VECCHIA NOVI LIGURE",
+        "Civico": 99999,
+        "x": 482319,
+        "y": 4952942,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3290,
+        "CONSUMI ANNO": "2023",
+        "MC": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.776709999991427,
+          44.72963833555547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037639",
+        "Località": "TASSAROLO",
+        "Via": "VIA ROVERE VERDE",
+        "Civico": 8,
+        "x": 482436,
+        "y": 4952873,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3326,
+        "CONSUMI ANNO": "2023",
+        "MC": 268.64
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.77819333332485,
+          44.729020202222046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037640",
+        "Località": "TASSAROLO",
+        "Via": "VIA ROVERE VERDE",
+        "Civico": 10,
+        "x": 482475,
+        "y": 4952855,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3327,
+        "CONSUMI ANNO": "2023",
+        "MC": 46
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.77868666665819,
+          44.728865002221994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100053618",
+        "Località": "TASSAROLO",
+        "Via": "VIA SANT'AMBROGIO",
+        "Civico": 99999,
+        "x": 482030,
+        "y": 4953014,
+        "distretto_modello": null,
+        "Codice condotta H2O": 20987,
+        "CONSUMI ANNO": "2023",
+        "MC": 178.32
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.773054999991329,
+          44.73028333555561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00200037652",
+        "Località": "TASSAROLO",
+        "Via": "VIA SANT'AMBROGIO",
+        "Civico": 14,
+        "x": 481918,
+        "y": 4953069,
+        "distretto_modello": null,
+        "Codice condotta H2O": 20983,
+        "CONSUMI ANNO": "2023",
+        "MC": 168
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.771638333324614,
+          44.73077333555567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037654",
+        "Località": "TASSAROLO",
+        "Via": "VIA SANT'AMBROGIO",
+        "Civico": 17,
+        "x": 481917,
+        "y": 4953085,
+        "distretto_modello": null,
+        "Codice condotta H2O": 20983,
+        "CONSUMI ANNO": "2023",
+        "MC": 65.97
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.771626666657943,
+          44.73092000222252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037648",
+        "Località": "TASSAROLO",
+        "Via": "VIA SANT'AMBROGIO",
+        "Civico": 6,
+        "x": 481881,
+        "y": 4953108,
+        "distretto_modello": null,
+        "Codice condotta H2O": 20983,
+        "CONSUMI ANNO": "2023",
+        "MC": 158.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.77117666665792,
+          44.731125002222555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037626",
+        "Località": "TASSAROLO",
+        "Via": "VIA MASSIMILIANO SPINOLA",
+        "Civico": 8,
+        "x": 481958,
+        "y": 4953146,
+        "distretto_modello": null,
+        "Codice condotta H2O": 20996,
+        "CONSUMI ANNO": "2023",
+        "MC": 202.31
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.772148333324605,
+          44.73147166888933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037476",
+        "Località": "TASSAROLO",
+        "Via": "LOCALITA' FARA NUOVA",
+        "Civico": 4,
+        "x": 481389,
+        "y": 4953593,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3293,
+        "CONSUMI ANNO": "2023",
+        "MC": 29
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.76494166665768,
+          44.735481668890245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037473",
+        "Località": "TASSAROLO",
+        "Via": "LOCALITA' FARA NUOVA",
+        "Civico": 1,
+        "x": 481640,
+        "y": 4953700,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3295,
+        "CONSUMI ANNO": null,
+        "MC": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.768116599991151,
+          44.73645166889045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POF": "00100037633",
+        "Località": "TASSAROLO",
+        "Via": "VIA NOVI LIGURE",
+        "Civico": 2,
+        "x": 481786,
+        "y": 4953014,
+        "distretto_modello": null,
+        "Codice condotta H2O": 3270,
+        "CONSUMI ANNO": "2023",
+        "MC": 50
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769981666657863,
+          44.73028000222235
+        ]
+      }
+    }
+  ]
+}

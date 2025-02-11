@@ -1,0 +1,46 @@
+{
+  "type": "FeatureCollection",
+  "name": "pozzi",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::32632"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "comune": "Francavilla Bisio",
+        "localita": "Via Guasco",
+        "nome_imp": "pozzo campo sportivo",
+        "id_distretto": "DTS05",
+        "codImpianto": "POZ34"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.734841417150024,
+          44.731094776014594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "comune": "Francavilla Bisio",
+        "localita": "Strada Della Signora",
+        "nome_imp": "pozzo 1 Biuta",
+        "id_distretto": "DTS05",
+        "codImpianto": "POZ35"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.732112177539271,
+          44.727739294125755
+        ]
+      }
+    }
+  ]
+}
