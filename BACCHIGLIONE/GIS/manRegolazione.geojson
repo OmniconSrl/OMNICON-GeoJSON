@@ -1,0 +1,2421 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "ID_00110",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.19358832689919,
+                    45.2304949256003,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica alimentazione Sabbioni",
+                "C_N": "01327"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00097",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.20934707552636,
+                    45.24916317550291,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica Aristide",
+                "C_N": "01250"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00121",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.87677743173954,
+                    45.39750000467703,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica by pass Ponte dei Papi",
+                "C_N": "01358"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00148",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.91895625864114,
+                    45.3460197100596,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica by-pass Boracchia - Maestro",
+                "C_N": "01484"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00109",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.04263840656936,
+                    45.40428430677385,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica carico Area Umida Brentoncino",
+                "C_N": "01317"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00149",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.08272918684097,
+                    45.40422612144766,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica carico area umida di Dolo",
+                "C_N": "01489"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00111",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.18867421777126,
+                    45.21120292589423,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica carico bacino fitodepurazione",
+                "C_N": "01328"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00105",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.76203995049376,
+                    45.3684306275084,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica carico Vasca Poggese",
+                "C_N": "01311"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00004",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.1719941098511,
+                    45.22305650781413,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica Colombina",
+                "C_N": "00056"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00083",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.92444328504241,
+                    45.29401545598074,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica di fondo Mediano",
+                "C_N": "01088"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00098",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.01732812777334,
+                    45.30170642084056,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica Gaeto",
+                "C_N": "01251"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00104",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.9764242211778,
+                    45.41193616521591,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica Incile Noventana Nuovo",
+                "C_N": "01276"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00029",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.0727287862992,
+                    45.30887518968711,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica Melina",
+                "C_N": "00273"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00093",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.02124090513806,
+                    45.34676054262966,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica origine  Liettoli - Rio I ramo Colleg.",
+                "C_N": "01196"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00120",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.86760067388982,
+                    45.38962915600951,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica origine Alicorno",
+                "C_N": "00000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00041",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.97721743591795,
+                    45.31239343009675,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica origine Altipiano Diram.",
+                "C_N": "00437"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00039",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.9629392588559,
+                    45.29766616786321,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica origine Arzerini II",
+                "C_N": "00366"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00066",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.88703929443501,
+                    45.31477221452887,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica origine Beccara",
+                "C_N": "00668"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00067",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.848778499712,
+                    45.32745725537956,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica origine Bolzani",
+                "C_N": "00676"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00012",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.17459101104993,
+                    45.24070769203257,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica origine Bonetti",
+                "C_N": "00095"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00028",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.07216230712472,
+                    45.30846465906621,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica origine Botte Acque Straniere",
+                "C_N": "01337"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00084",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.83873379424071,
+                    45.393239802689,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica origine Brusegana I",
+                "C_N": "01106"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00070",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.83883591661504,
+                    45.3943857989308,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica origine Brusegana II",
+                "C_N": "00755"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00065",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.88166456761989,
+                    45.31588439471214,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica origine Ca' Murà",
+                "C_N": "00666"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00074",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.84625176403319,
+                    45.43992149972685,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica origine Capitello",
+                "C_N": "00816"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00072",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.85639156896653,
+                    45.43870710335354,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica origine Cestarolo",
+                "C_N": "00812"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00033",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.03195431058464,
+                    45.29783489394095,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica origine Circ. di Piove",
+                "C_N": "00341"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00034",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.014407200637,
+                    45.30248146446798,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica origine Coazze",
+                "C_N": "00343"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00006",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.17299744865728,
+                    45.22800302004769,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica origine Comello",
+                "C_N": "00069"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00003",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.19510121481816,
+                    45.21184018062178,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica origine Condotta Rose",
+                "C_N": "00049"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00042",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.85975249434178,
+                    45.28982277895415,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica origine Corriva",
+                "C_N": "00444"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00037",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.93540250683392,
+                    45.29075631062432,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica origine Drago",
+                "C_N": "00353"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00071",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.83246230466636,
+                    45.44510680370688,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica origine Due Palazzi",
+                "C_N": "00783"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00114",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.8069278005424,
+                    45.31009519469779,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica origine f.p. Biancolino III",
+                "C_N": "01334"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00049",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.80910444059528,
+                    45.30915239513683,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica origine f.p. Biancolino IV",
+                "C_N": "00506"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00048",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.81243306684093,
+                    45.30591837750163,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica origine f.p. Biancolino V",
+                "C_N": "00505"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00047",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.81605544705257,
+                    45.30488289876936,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica origine f.p. Biancolino VI",
+                "C_N": "00504"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00046",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.81841849348351,
+                    45.30410221227952,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica origine f.p. Biancolino VII",
+                "C_N": "00499"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00051",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.80426175313549,
+                    45.31330265971528,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica origine f.p.Biancolino I",
+                "C_N": "00509"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00113",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.8059909969587,
+                    45.3109390582097,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica origine f.p.Biancolino II",
+                "C_N": "01333"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00073",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.85229047736743,
+                    45.43899459650132,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica origine Fosso Caserme",
+                "C_N": "00814"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00064",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.86842817564889,
+                    45.31969529335257,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica origine Fossona",
+                "C_N": "00664"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00021",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.16323672054205,
+                    45.2462220975715,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica origine Gallaretto - Cavane",
+                "C_N": "00149"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00024",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.08720216164397,
+                    45.25058338022103,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica origine Galvan",
+                "C_N": "00235"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00008",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.17567962581105,
+                    45.23253655006963,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica origine Inferniolo",
+                "C_N": "00084"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00032",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.03377591419314,
+                    45.36291463791471,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica origine Liettoli",
+                "C_N": "00320"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00068",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.85575571833207,
+                    45.3714003730357,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica origine Mandriola",
+                "C_N": "00728"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00020",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.16725779250857,
+                    45.23823953283708,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica origine Moraretto",
+                "C_N": "00141"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00058",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.94357120889969,
+                    45.35958671609365,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica origine Orsaretto",
+                "C_N": "00544"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00057",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.94287910438859,
+                    45.3591900537613,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica origine Orsaretto  Diram.",
+                "C_N": "00543"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00040",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.99153733349464,
+                    45.30857276995653,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica origine Palù",
+                "C_N": "00395"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00016",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.17276518210397,
+                    45.24069599303314,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica origine Pescine",
+                "C_N": "00107"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00002",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.20065241566827,
+                    45.21344023471751,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica origine Pianta",
+                "C_N": "00045"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00060",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.97638489055375,
+                    45.38054310773001,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica origine Pioga",
+                "C_N": "00555"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00069",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.88571394853006,
+                    45.36184046386623,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica origine Rocchetti Diram.",
+                "C_N": "00735"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00017",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.19745128177934,
+                    45.24973696687601,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica origine Roggia Boschettona Nord",
+                "C_N": "00122"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00000",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.19217370516017,
+                    45.21967394203951,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica origine Roggia Cinquantacinque",
+                "C_N": "00041"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00013",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.17260619456041,
+                    45.24281395887878,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica origine Roggia Groppon",
+                "C_N": "00099"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00007",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.17954842922366,
+                    45.22939403705528,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica origine Roggia Inferniolo",
+                "C_N": "00072"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00009",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.16723461180845,
+                    45.23821064383204,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica origine Roggia Montalbano",
+                "C_N": "00090"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00014",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.16883437609827,
+                    45.24087677218912,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica origine Roggia Pescine - Alto I tronco",
+                "C_N": "00101"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00059",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.9446300156801,
+                    45.36089281338894,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica origine Sagredo",
+                "C_N": "00545"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00056",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.9170605726481,
+                    45.3402809070624,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica origine San Giacomo Sud",
+                "C_N": "00529"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00050",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.80558625638396,
+                    45.31134852843547,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica origine Sanguin",
+                "C_N": "00508"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00080",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.13418061384798,
+                    45.2546308395849,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica origine Scirocchetto - Scarpa",
+                "C_N": "00990"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00081",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.91552906335354,
+                    45.38029034466677,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica origine Scolmatore Roncaglia",
+                "C_N": "01009"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00079",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.81814367403862,
+                    45.29115675723589,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica origine Scolo Breo",
+                "C_N": "00964"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00044",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.82360866447665,
+                    45.29713887801833,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica origine Spolverato",
+                "C_N": "00462"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00053",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.94923170471925,
+                    45.31984927656772,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica origine Stangon",
+                "C_N": "00516"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00022",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.13986849867283,
+                    45.259642799031,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica origine Tabacchin",
+                "C_N": "00160"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00061",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.99874255283406,
+                    45.3902820610402,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica origine Villamora",
+                "C_N": "00569"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00052",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.95620544200517,
+                    45.3179560486865,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica origine Volparo",
+                "C_N": "00513"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00018",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.15628278155753,
+                    45.23302882742014,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica origine Zena I tronco",
+                "C_N": "00137"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00045",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.81829579617904,
+                    45.30418236075418,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica origine Zonzin",
+                "C_N": "00498"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00055",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.92014500543755,
+                    45.3396223478199,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica scarico Albignasego",
+                "C_N": "00524"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00108",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.04235495366071,
+                    45.40362670243767,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica scarico Area Umida Brentoncino",
+                "C_N": "01318"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00150",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.08562493668107,
+                    45.40470101755358,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica scarico area umida di Dolo",
+                "C_N": "01491"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00078",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.08318611361206,
+                    45.25154478703553,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica scarico Assicurazioni Generali",
+                "C_N": "00948"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00025",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.08711042311146,
+                    45.25060292567552,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica scarico Baretta",
+                "C_N": "00236"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00010",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.19235615085531,
+                    45.2438351301419,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica scarico Bonetti",
+                "C_N": "00091"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00011",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.1911839023654,
+                    45.24352605005677,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica scarico Ca' Rossa",
+                "C_N": "00094"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00019",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.1508984545369,
+                    45.24281947264129,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica scarico Cavane",
+                "C_N": "00138"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00036",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.03717216546604,
+                    45.29769556098103,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica scarico Circ. di Piove",
+                "C_N": "00349"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00026",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.08081393988402,
+                    45.25211521533252,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica scarico Fossa del Pan",
+                "C_N": "00243"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00085",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.8339215614442,
+                    45.45847387497447,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica scarico in Brentella",
+                "C_N": "01108"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00075",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.85158563742204,
+                    45.4553518511016,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica scarico Irriguo di limena",
+                "C_N": "00825"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00063",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.02341303654845,
+                    45.40829318356523,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica scarico Malgaro Diram.",
+                "C_N": "00624"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00062",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.93805438829269,
+                    45.41758782219507,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica scarico Maresciallo I Diram.",
+                "C_N": "00602"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00107",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.09680574507426,
+                    45.4030655161726,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica scarico naturale Marinelle",
+                "C_N": "01316"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00035",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.97764869351437,
+                    45.27656920785062,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica scarico Palù",
+                "C_N": "00347"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00023",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.11894135601179,
+                    45.24025695509668,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica scarico Pavariane",
+                "C_N": "00184"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00106",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.82974191801069,
+                    45.4447444255511,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica scarico Ponterotto",
+                "C_N": "01312"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00112",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.19225414452825,
+                    45.22295745061088,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica scarico Roggia Barene - Pascolon",
+                "C_N": "01330"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00095",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.20283143015749,
+                    45.19892787685584,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica scarico Roggia Barene - Sangoletta",
+                "C_N": "01309"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00001",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.19947455647596,
+                    45.20457732789339,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica scarico Roggia Cinquantacinque",
+                "C_N": "00042"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00116",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.207767535631,
+                    45.20596406863625,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica scarico Roggia Cinquantacinque - Sedici",
+                "C_N": "01344"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00005",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.20849172889346,
+                    45.24560556704909,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica scarico Roggia Manzere - Romani",
+                "C_N": "00065"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00115",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.19268452185022,
+                    45.24990385785315,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica scarico Roggia Pescine - Gallaro",
+                "C_N": "01342"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00054",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.92971108642453,
+                    45.32773264560927,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica scarico San Giacomo Sud",
+                "C_N": "00521"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00128",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.76960447973308,
+                    45.38865707252543,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica scarico Selvazzano",
+                "C_N": "01383"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00038",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.93993520230063,
+                    45.29079147337701,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica scarico Stangon",
+                "C_N": "00355"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00096",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.763265302436,
+                    45.36621209420397,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica scarico Vasca Poggese",
+                "C_N": "01234"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00129",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.78593892608762,
+                    45.37875095956176,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica scarico Via del Gallo",
+                "C_N": "01385"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00077",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.0490046366569,
+                    45.3012283451708,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiavica Veronese",
+                "C_N": "00945"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00092",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.09946029605262,
+                    45.39489833092961,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Impianto Calcroci",
+                "C_N": "01149"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00094",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.16143799470467,
+                    45.22913484772562,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Impianto carico Nuovissimo abbandonato",
+                "C_N": "01307"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00117",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.20353965431718,
+                    45.19806704870415,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Impianto scarico Nuovissimo Abbandonato",
+                "C_N": "01349"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00146",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.12049532154475,
+                    45.33153420334855,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Manufatto monte microtuneling area umida di Lova",
+                "C_N": "01436"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00076",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.71290750673632,
+                    45.40806050132822,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Manufatto regolazione L.E.B. - Spinosetta Colleg.",
+                "C_N": "00887"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00087",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.707644381378,
+                    45.40828935871589,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Manufatto ripartizione Canale L.E.B. - Fossalunga Colleg.",
+                "C_N": "01140"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00130",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.70264946859269,
+                    45.3961043208839,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Manufatto scarico Canale L.E.B. - Fossalunga Colleg.",
+                "C_N": "01395"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00090",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.75642326624277,
+                    45.39464173650373,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Manufatto scarico Fosso Irriguo Bolzan Colleg.",
+                "C_N": "01146"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00088",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.74861227161755,
+                    45.39215457922072,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Manufatto scarico Fosso Irriguo Poggese Colleg.",
+                "C_N": "01142"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00089",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.74217450698057,
+                    45.39334689068892,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Manufatto scarico in fosso privato",
+                "C_N": "01144"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00131",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.72375300182253,
+                    45.39998653236083,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Manufatto scarico in fosso privato",
+                "C_N": "01401"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00091",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.73007839183006,
+                    45.39846952711153,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Manufatto scarico in Rialtello del Piano",
+                "C_N": "01147"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00133",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.9754516091917,
+                    45.38112189667027,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Paratoia Botte Cornio di Villatora",
+                "C_N": "01411"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00137",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.99826709923229,
+                    45.39197111729981,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Paratoia Botte Piovego",
+                "C_N": "01416"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00132",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.10013629454187,
+                    45.25421570617866,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Paratoia collegamento Altipiano-Cavaizza di Codevigo Sud",
+                "C_N": "01408"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00141",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.07740659323608,
+                    45.31483063161804,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Paratoia origine Brentella Vecchia - Fossamonda Colleg.",
+                "C_N": "01424"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00031",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.0858263409894,
+                    45.34646335402214,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Paratoia origine Brentella Vecchia Nord",
+                "C_N": "00311"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00143",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.11648180971206,
+                    45.33276005161774,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Paratoia P4 carico area umida di Lova in Cornio di Campagna Lupia a monte dell'Impianto di Lova",
+                "C_N": "01431"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00144",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.12542225568168,
+                    45.33034166756355,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Paratoia P5 scarico area umida di Lova in Cornio di Campagna Lupia a valle dell'Impianto di Lova",
+                "C_N": "01433"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00134",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.97536479263539,
+                    45.38107357352364,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Paratoia scarico Cornio di Villatora in Idrovia 1",
+                "C_N": "01412"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00135",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.97553490524489,
+                    45.38115963939384,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Paratoia scarico Cornio di Villatora in Idrovia 2",
+                "C_N": "01413"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00136",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.97560427540774,
+                    45.38119355480255,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Paratoia scarico Cornio di Villatora in Idrovia 3",
+                "C_N": "01414"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00138",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.99818494476875,
+                    45.39191968958735,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Paratoia scarico Piovego in Idrovia 1",
+                "C_N": "01417"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00139",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.99833812066344,
+                    45.39200378465752,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Paratoia scarico Piovego in Idrovia 2",
+                "C_N": "01418"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00140",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.99833188029988,
+                    45.39222131264118,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Paratoia scarico Piovego in Idrovia 3",
+                "C_N": "01419"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00142",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.88024949476223,
+                    45.44344527769271,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Paratoia Sfioratore Morandi",
+                "C_N": "01427"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00015",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.16762541435972,
+                    45.23502983661586,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Porte a vento Brenta Vecchia",
+                "C_N": "00105"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00086",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.70748961352033,
+                    45.40906173074065,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Pozzetto piezometrico L.E.B.",
+                "C_N": "01138"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00127",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.71982135650717,
+                    45.39848836546308,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Punto di consegna 1",
+                "C_N": "01371"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00125",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.71953030165399,
+                    45.39984159856169,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Punto di consegna 2",
+                "C_N": "01373"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00123",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.72113193706484,
+                    45.40087310725887,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Punto di consegna 3",
+                "C_N": "01374"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00122",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.72227329160356,
+                    45.40126465088871,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Punto di consegna 4",
+                "C_N": "01376"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00126",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.72097594232017,
+                    45.3982324953976,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Punto di consegna 5",
+                "C_N": "01372"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00124",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.72268496669346,
+                    45.39946165779682,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Punto di consegna 6",
+                "C_N": "01375"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00145",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.12422655671757,
+                    45.32971968762816,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Saracinesca P4B",
+                "C_N": "01434"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00027",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.05388539970696,
+                    45.25548895317387,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sifone Fossa del Pan",
+                "C_N": "00246"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00102",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.08371983787596,
+                    45.2895076322386,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sifone Friso",
+                "C_N": "01263"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00103",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.07372936317411,
+                    45.27555492809632,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sifone Gatto",
+                "C_N": "01264"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00101",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.07730310158257,
+                    45.302385109036,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sifone Marinello",
+                "C_N": "01262"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00099",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.9615603786452,
+                    45.28915681957231,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sifone Picello",
+                "C_N": "01258"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00043",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.83502967303181,
+                    45.29408604724987,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sifone Pontemanco",
+                "C_N": "00454"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00118",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.20258173411884,
+                    45.19871660340303,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sifone Sangoletta",
+                "C_N": "01351"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00147",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.12860732579976,
+                    45.2375336405529,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sifone Trovò",
+                "C_N": "01442"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00100",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.11142364765698,
+                    45.24524851494436,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sifone Volta Pennelli",
+                "C_N": "01260"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00119",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.9321255586521,
+                    45.27628378028555,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sostegno Bastarda",
+                "C_N": "01356"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00030",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.13141379463543,
+                    45.32505585740405,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sostegno irriguo Lova",
+                "C_N": "00304"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ID_00082",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.12226763924914,
+                    45.32852822804384,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sostegno P6 scarico microtuneling",
+                "C_N": "01036"
+            }
+        }
+    ]
+}
