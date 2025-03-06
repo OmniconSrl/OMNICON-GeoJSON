@@ -16,9 +16,10 @@
         "lunghezza": 336.25,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Via Dei Martiri",
         "tip_rete": "ADDUZIONE",
+        "n_distretto": "05",
         "id_distretto": "DTS05"
       },
       "geometry": {
@@ -87,9 +88,10 @@
         "lunghezza": 56.49,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Piazza della Libertà",
         "tip_rete": "ADDUZIONE",
+        "n_distretto": "05",
         "id_distretto": "DTS05"
       },
       "geometry": {
@@ -122,9 +124,10 @@
         "lunghezza": 94.98,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Strada Francavilla",
         "tip_rete": "ADDUZIONE",
+        "n_distretto": "05",
         "id_distretto": "DTS05"
       },
       "geometry": {
@@ -169,9 +172,10 @@
         "lunghezza": 536.82,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Strada Francavilla",
         "tip_rete": "ADDUZIONE",
+        "n_distretto": "05",
         "id_distretto": "DTS05"
       },
       "geometry": {
@@ -292,9 +296,10 @@
         "lunghezza": 301.61,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Strada Francavilla",
         "tip_rete": "ADDUZIONE",
+        "n_distretto": "05",
         "id_distretto": "DTS05"
       },
       "geometry": {
@@ -347,9 +352,10 @@
         "lunghezza": 108.32,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Strada delle Vigne",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "03",
         "id_distretto": "DTS03"
       },
       "geometry": {
@@ -398,9 +404,10 @@
         "lunghezza": 280.33,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Strada delle Vigne",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "03",
         "id_distretto": "DTS03"
       },
       "geometry": {
@@ -469,9 +476,10 @@
         "lunghezza": 215.36,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Strada Vicinale della Carretta",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "03",
         "id_distretto": "DTS03"
       },
       "geometry": {
@@ -536,9 +544,10 @@
         "lunghezza": 478.24,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Località San Pietro",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "03",
         "id_distretto": "DTS03"
       },
       "geometry": {
@@ -635,9 +644,10 @@
         "lunghezza": 137.04,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Strada delle Vigne",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "03",
         "id_distretto": "DTS03"
       },
       "geometry": {
@@ -678,9 +688,10 @@
         "lunghezza": 134.28,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Strada delle Vigne",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "03",
         "id_distretto": "DTS03"
       },
       "geometry": {
@@ -717,9 +728,10 @@
         "lunghezza": 84.79,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Strada delle Vigne",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "03",
         "id_distretto": "DTS03"
       },
       "geometry": {
@@ -756,9 +768,10 @@
         "lunghezza": 2.58,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Strada delle Vigne",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "03",
         "id_distretto": "DTS03"
       },
       "geometry": {
@@ -783,9 +796,10 @@
         "lunghezza": 3.69,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Località Filagnotti",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "03",
         "id_distretto": "DTS03"
       },
       "geometry": {
@@ -810,9 +824,10 @@
         "lunghezza": 48.25,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Via Dei Martiri",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "03",
         "id_distretto": "DTS03"
       },
       "geometry": {
@@ -841,9 +856,10 @@
         "lunghezza": 53.36,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Via Dei Martiri",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "03",
         "id_distretto": "DTS03"
       },
       "geometry": {
@@ -876,9 +892,10 @@
         "lunghezza": 177.95,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Via Dei Martiri",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "03",
         "id_distretto": "DTS03"
       },
       "geometry": {
@@ -915,9 +932,10 @@
         "lunghezza": 30,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Strada Francavilla",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "03",
         "id_distretto": "DTS03"
       },
       "geometry": {
@@ -946,9 +964,10 @@
         "lunghezza": 100,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Strada Francavilla",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "03",
         "id_distretto": "DTS03"
       },
       "geometry": {
@@ -985,9 +1004,10 @@
         "lunghezza": 96.04,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "VIa Giuseppe Mazzini",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "03",
         "id_distretto": "DTS03"
       },
       "geometry": {
@@ -1028,9 +1048,10 @@
         "lunghezza": 54.24,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Via Dei Martiri",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "03",
         "id_distretto": "DTS03"
       },
       "geometry": {
@@ -1063,9 +1084,10 @@
         "lunghezza": 21.4,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Strada Francavilla",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "03",
         "id_distretto": "DTS03"
       },
       "geometry": {
@@ -1094,9 +1116,10 @@
         "lunghezza": 1.21,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Strada Francavilla",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "03",
         "id_distretto": "DTS03"
       },
       "geometry": {
@@ -1125,9 +1148,10 @@
         "lunghezza": 178.67,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Strada Vicinale dei Preissi",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "02",
         "id_distretto": "DTS02"
       },
       "geometry": {
@@ -1172,9 +1196,10 @@
         "lunghezza": 47.98,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Strada Comunale Cavallari",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "02",
         "id_distretto": "DTS02"
       },
       "geometry": {
@@ -1203,9 +1228,10 @@
         "lunghezza": 128.69,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Strada Comunale Cavallari",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "02",
         "id_distretto": "DTS02"
       },
       "geometry": {
@@ -1254,9 +1280,10 @@
         "lunghezza": 32.18,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Strada Comunale Cavallari",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "02",
         "id_distretto": "DTS02"
       },
       "geometry": {
@@ -1293,9 +1320,10 @@
         "lunghezza": 18.95,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Strada Comunale Cavallari",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "02",
         "id_distretto": "DTS02"
       },
       "geometry": {
@@ -1324,9 +1352,10 @@
         "lunghezza": 660.26,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Strada Comunale Cavallari",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "02",
         "id_distretto": "DTS02"
       },
       "geometry": {
@@ -1439,9 +1468,10 @@
         "lunghezza": 183.76,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Strada Comunale Cavallari",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "02",
         "id_distretto": "DTS02"
       },
       "geometry": {
@@ -1486,9 +1516,10 @@
         "lunghezza": 254.92,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Località Ortolana",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "02",
         "id_distretto": "DTS02"
       },
       "geometry": {
@@ -1541,9 +1572,10 @@
         "lunghezza": 23.76,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Via Dei Martiri",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "04",
         "id_distretto": "DTS04"
       },
       "geometry": {
@@ -1604,9 +1636,10 @@
         "lunghezza": 818.89,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Via Gavi",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "04",
         "id_distretto": "DTS04"
       },
       "geometry": {
@@ -1807,9 +1840,10 @@
         "lunghezza": 59.61,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Vicolo Maddalena",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "04",
         "id_distretto": "DTS04"
       },
       "geometry": {
@@ -1834,9 +1868,10 @@
         "lunghezza": 386.22,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Via Vecchia Novi Ligure",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "01",
         "id_distretto": "DTS01"
       },
       "geometry": {
@@ -1929,9 +1964,10 @@
         "lunghezza": 4.68,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": null,
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "01",
         "id_distretto": "DTS01"
       },
       "geometry": {
@@ -1960,9 +1996,10 @@
         "lunghezza": 4.11,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Vicolo Levante",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "03",
         "id_distretto": "DTS03"
       },
       "geometry": {
@@ -1987,9 +2024,10 @@
         "lunghezza": 148.58,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Via Xxv Aprile",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "03",
         "id_distretto": "DTS03"
       },
       "geometry": {
@@ -2026,9 +2064,10 @@
         "lunghezza": 152.4,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Via XXV Aprile",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "03",
         "id_distretto": "DTS03"
       },
       "geometry": {
@@ -2077,9 +2116,10 @@
         "lunghezza": 3.73,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Via Crosa",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "01",
         "id_distretto": "DTS01"
       },
       "geometry": {
@@ -2108,9 +2148,10 @@
         "lunghezza": 7.3,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Strada Francavilla",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "03",
         "id_distretto": "DTS03"
       },
       "geometry": {
@@ -2135,9 +2176,10 @@
         "lunghezza": 18.79,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Via Sant'Ambrogio",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "01",
         "id_distretto": "DTS01"
       },
       "geometry": {
@@ -2178,9 +2220,10 @@
         "lunghezza": 18.59,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Via Sant'Ambrogio",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "01",
         "id_distretto": "DTS01"
       },
       "geometry": {
@@ -2205,9 +2248,10 @@
         "lunghezza": 2.22,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Via Rovere Verde",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "01",
         "id_distretto": "DTS01"
       },
       "geometry": {
@@ -2232,9 +2276,10 @@
         "lunghezza": 446.12,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Via Vecchia Novi Ligure",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "01",
         "id_distretto": "DTS01"
       },
       "geometry": {
@@ -2303,9 +2348,10 @@
         "lunghezza": 386.3,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Strada Vicinale del Colletto",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "01",
         "id_distretto": "DTS01"
       },
       "geometry": {
@@ -2370,9 +2416,10 @@
         "lunghezza": 394.79,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": null,
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "01",
         "id_distretto": "DTS01"
       },
       "geometry": {
@@ -2445,9 +2492,10 @@
         "lunghezza": 342.59,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Località Fara Nuova",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "01",
         "id_distretto": "DTS01"
       },
       "geometry": {
@@ -2508,9 +2556,10 @@
         "lunghezza": 88.77,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Strada Francavilla",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "02",
         "id_distretto": "DTS02"
       },
       "geometry": {
@@ -2551,9 +2600,10 @@
         "lunghezza": 1.22,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Via Pasturana",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "05",
         "id_distretto": "DTS05"
       },
       "geometry": {
@@ -2578,9 +2628,10 @@
         "lunghezza": 36.7,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Vicolo Piazzo",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "03",
         "id_distretto": "DTS03"
       },
       "geometry": {
@@ -2629,9 +2680,10 @@
         "lunghezza": 43.5,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Vicolo Corte Dei Sori",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "03",
         "id_distretto": "DTS03"
       },
       "geometry": {
@@ -2656,9 +2708,10 @@
         "lunghezza": 4.75,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Vicolo Corte dei Sori",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "03",
         "id_distretto": "DTS03"
       },
       "geometry": {
@@ -2683,9 +2736,10 @@
         "lunghezza": 78.97,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Via Giuseppe Garibaldi",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "04",
         "id_distretto": "DTS04"
       },
       "geometry": {
@@ -2730,9 +2784,10 @@
         "lunghezza": 5.21,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Via Giuseppe Garibaldi",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "04",
         "id_distretto": "DTS04"
       },
       "geometry": {
@@ -2757,9 +2812,10 @@
         "lunghezza": 21.42,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Via Campobasso",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "04",
         "id_distretto": "DTS04"
       },
       "geometry": {
@@ -2784,9 +2840,10 @@
         "lunghezza": 23.16,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Via Campobasso",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "04",
         "id_distretto": "DTS04"
       },
       "geometry": {
@@ -2811,9 +2868,10 @@
         "lunghezza": 63.52,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Via Luigi Bisio",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "04",
         "id_distretto": "DTS04"
       },
       "geometry": {
@@ -2894,9 +2952,10 @@
         "lunghezza": 16.44,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Vicolo Forno",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "04",
         "id_distretto": "DTS04"
       },
       "geometry": {
@@ -2929,9 +2988,10 @@
         "lunghezza": 36.58,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Via San Nicolao",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "04",
         "id_distretto": "DTS04"
       },
       "geometry": {
@@ -2960,9 +3020,10 @@
         "lunghezza": 2.55,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Vicolo Andrea Gemme",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "04",
         "id_distretto": "DTS04"
       },
       "geometry": {
@@ -2987,9 +3048,10 @@
         "lunghezza": 143.23,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Via Campolasso",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "03",
         "id_distretto": "DTS03"
       },
       "geometry": {
@@ -3050,9 +3112,10 @@
         "lunghezza": 10.72,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Via Campolasso",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "03",
         "id_distretto": "DTS03"
       },
       "geometry": {
@@ -3085,9 +3148,10 @@
         "lunghezza": 31.18,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Via Garibaldi",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "04",
         "id_distretto": "DTS04"
       },
       "geometry": {
@@ -3128,9 +3192,10 @@
         "lunghezza": 25.26,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Vicolo alla Via Garibaldi",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "04",
         "id_distretto": "DTS04"
       },
       "geometry": {
@@ -3163,9 +3228,10 @@
         "lunghezza": 22.6,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Via Garibaldi",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "04",
         "id_distretto": "DTS04"
       },
       "geometry": {
@@ -3198,9 +3264,10 @@
         "lunghezza": 72.53,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Vicolo Franco Buffarello",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "03",
         "id_distretto": "DTS03"
       },
       "geometry": {
@@ -3241,9 +3308,10 @@
         "lunghezza": 20.73,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Vicolo Franco Buffarello",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "03",
         "id_distretto": "DTS03"
       },
       "geometry": {
@@ -3272,9 +3340,10 @@
         "lunghezza": 41.74,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Vicolo Merlani II",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "03",
         "id_distretto": "DTS03"
       },
       "geometry": {
@@ -3303,9 +3372,10 @@
         "lunghezza": 9.81,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Vicolo Merlani II",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "03",
         "id_distretto": "DTS03"
       },
       "geometry": {
@@ -3326,44 +3396,14 @@
       "type": "Feature",
       "properties": {
         "materiale": "PE",
-        "dn": "DE63",
-        "lunghezza": 35.49,
-        "anno_posa": 1980,
-        "comune": "Tassarolo",
-        "localita": null,
-        "via": "Vicolo Merlani I",
-        "tip_rete": "DISTRIBUZIONE",
-        "id_distretto": null
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.769550645981873,
-            44.72829729136351
-          ],
-          [
-            8.769521260834027,
-            44.728456747117036
-          ],
-          [
-            8.769604432293448,
-            44.72860395394198
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "materiale": "PE",
         "dn": "DE50",
         "lunghezza": 25.89,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Vicolo Forno",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "04",
         "id_distretto": "DTS04"
       },
       "geometry": {
@@ -3392,9 +3432,10 @@
         "lunghezza": 19.84,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Vicolo Forno",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "04",
         "id_distretto": "DTS04"
       },
       "geometry": {
@@ -3431,9 +3472,10 @@
         "lunghezza": 17.58,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Vicolo Forno",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "04",
         "id_distretto": "DTS04"
       },
       "geometry": {
@@ -3462,9 +3504,10 @@
         "lunghezza": 2.49,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Via Sant'Ambrogio",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "01",
         "id_distretto": "DTS01"
       },
       "geometry": {
@@ -3489,9 +3532,10 @@
         "lunghezza": 75.46,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Via XXV Aprile",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "03",
         "id_distretto": "DTS03"
       },
       "geometry": {
@@ -3524,9 +3568,10 @@
         "lunghezza": 147.21,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Via Rovere Verde",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "01",
         "id_distretto": "DTS01"
       },
       "geometry": {
@@ -3559,9 +3604,10 @@
         "lunghezza": 265.5,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Strada Vicinale Castel di Serra",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "01",
         "id_distretto": "DTS01"
       },
       "geometry": {
@@ -3618,9 +3664,10 @@
         "lunghezza": 29.69,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Strada Francavilla",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "02",
         "id_distretto": "DTS02"
       },
       "geometry": {
@@ -3649,9 +3696,10 @@
         "lunghezza": 128.86,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "VIa Giuseppe Mazzini",
         "tip_rete": "ADDUZIONE",
+        "n_distretto": "05",
         "id_distretto": "DTS05"
       },
       "geometry": {
@@ -3688,9 +3736,10 @@
         "lunghezza": 96.56,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "VIa Giuseppe Mazzini",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "03",
         "id_distretto": "DTS03"
       },
       "geometry": {
@@ -3727,9 +3776,10 @@
         "lunghezza": 50.41,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Via Gavi",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "04",
         "id_distretto": "DTS04"
       },
       "geometry": {
@@ -3774,9 +3824,10 @@
         "lunghezza": 28.4,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Via Rinaldo Bianchi",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "04",
         "id_distretto": "DTS04"
       },
       "geometry": {
@@ -3801,9 +3852,10 @@
         "lunghezza": 57.19,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Piazza della Libertà",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "03",
         "id_distretto": "DTS03"
       },
       "geometry": {
@@ -3840,9 +3892,10 @@
         "lunghezza": 145.88,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Vicolo Maddalena",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "04",
         "id_distretto": "DTS04"
       },
       "geometry": {
@@ -3887,9 +3940,10 @@
         "lunghezza": 26.94,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Vicolo Andrea Gemme",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "04",
         "id_distretto": "DTS04"
       },
       "geometry": {
@@ -3922,9 +3976,10 @@
         "lunghezza": 653.26,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Strada delle Vigne",
         "tip_rete": "ADDUZIONE",
+        "n_distretto": "05",
         "id_distretto": "DTS05"
       },
       "geometry": {
@@ -4041,9 +4096,10 @@
         "lunghezza": 1.59,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Via Dei Martiri",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "03",
         "id_distretto": "DTS03"
       },
       "geometry": {
@@ -4068,9 +4124,10 @@
         "lunghezza": 18.38,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Vicolo Levante",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "03",
         "id_distretto": "DTS03"
       },
       "geometry": {
@@ -4095,9 +4152,10 @@
         "lunghezza": 456.94,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Località Filagnotti",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "03",
         "id_distretto": "DTS03"
       },
       "geometry": {
@@ -4174,9 +4232,10 @@
         "lunghezza": 90.7,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Strada delle Vigne",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "03",
         "id_distretto": "DTS03"
       },
       "geometry": {
@@ -4205,9 +4264,10 @@
         "lunghezza": 7.1,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Via Pasturana",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "05",
         "id_distretto": "DTS05"
       },
       "geometry": {
@@ -4232,9 +4292,10 @@
         "lunghezza": 2.12,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Strada Vicinale del Colletto",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "05",
         "id_distretto": "DTS05"
       },
       "geometry": {
@@ -4267,9 +4328,10 @@
         "lunghezza": 788.22,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Località Alborina",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "02",
         "id_distretto": "DTS02"
       },
       "geometry": {
@@ -4338,9 +4400,10 @@
         "lunghezza": 222.13,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": null,
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "02",
         "id_distretto": "DTS02"
       },
       "geometry": {
@@ -4425,9 +4488,10 @@
         "lunghezza": 42.96,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Via Dei Martiri",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "03",
         "id_distretto": "DTS03"
       },
       "geometry": {
@@ -4456,9 +4520,10 @@
         "lunghezza": 56.13,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Piazza della Libertà",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "03",
         "id_distretto": "DTS03"
       },
       "geometry": {
@@ -4491,9 +4556,10 @@
         "lunghezza": 28.53,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Strada Comunale Cavallari",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "02",
         "id_distretto": "DTS02"
       },
       "geometry": {
@@ -4518,9 +4584,10 @@
         "lunghezza": 90.64,
         "anno_posa": 1980,
         "comune": "Francavilla Bisio",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Via Guasco",
         "tip_rete": "ADDUZIONE",
+        "n_distretto": "05",
         "id_distretto": "DTS05"
       },
       "geometry": {
@@ -4581,9 +4648,10 @@
         "lunghezza": 37.37,
         "anno_posa": 1980,
         "comune": "Francavilla Bisio",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Via GiosuÃš Carducci",
         "tip_rete": "ADDUZIONE",
+        "n_distretto": "05",
         "id_distretto": "DTS05"
       },
       "geometry": {
@@ -4644,9 +4712,10 @@
         "lunghezza": 264.03,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Strada Vicinale della Carretta",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "03",
         "id_distretto": "DTS03"
       },
       "geometry": {
@@ -4711,9 +4780,10 @@
         "lunghezza": 190.3,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Strada delle Vigne",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "03",
         "id_distretto": "DTS03"
       },
       "geometry": {
@@ -4754,9 +4824,10 @@
         "lunghezza": 29.33,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Strada delle Vigne",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "03",
         "id_distretto": "DTS03"
       },
       "geometry": {
@@ -4781,9 +4852,10 @@
         "lunghezza": 41.61,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Via Dei Martiri",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "03",
         "id_distretto": "DTS03"
       },
       "geometry": {
@@ -4808,9 +4880,10 @@
         "lunghezza": 4.78,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Vicolo Europa",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "03",
         "id_distretto": "DTS03"
       },
       "geometry": {
@@ -4839,9 +4912,10 @@
         "lunghezza": 45.71,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Vicolo Europa",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "03",
         "id_distretto": "DTS03"
       },
       "geometry": {
@@ -4866,9 +4940,10 @@
         "lunghezza": 2.6,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Vicolo Dante Alighieri",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "03",
         "id_distretto": "DTS03"
       },
       "geometry": {
@@ -4893,9 +4968,10 @@
         "lunghezza": 249.96,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Via Dei Martiri",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "03",
         "id_distretto": "DTS03"
       },
       "geometry": {
@@ -4992,9 +5068,10 @@
         "lunghezza": 2.96,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Vicolo Alessandro Manzoni",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "03",
         "id_distretto": "DTS03"
       },
       "geometry": {
@@ -5019,9 +5096,10 @@
         "lunghezza": 51.96,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Vicolo Dante Alighieri",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "03",
         "id_distretto": "DTS03"
       },
       "geometry": {
@@ -5050,9 +5128,10 @@
         "lunghezza": 72.24,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Vicolo Alessandro Manzoni",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "03",
         "id_distretto": "DTS03"
       },
       "geometry": {
@@ -5077,9 +5156,10 @@
         "lunghezza": 49.64,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Vicolo Levante",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "03",
         "id_distretto": "DTS03"
       },
       "geometry": {
@@ -5104,9 +5184,10 @@
         "lunghezza": 48.15,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Via Campolasso",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "03",
         "id_distretto": "DTS03"
       },
       "geometry": {
@@ -5139,9 +5220,10 @@
         "lunghezza": 105.02,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Via Campolasso",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "03",
         "id_distretto": "DTS03"
       },
       "geometry": {
@@ -5174,9 +5256,10 @@
         "lunghezza": 2.84,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Via XXV Aprile",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "03",
         "id_distretto": "DTS03"
       },
       "geometry": {
@@ -5197,40 +5280,14 @@
       "type": "Feature",
       "properties": {
         "materiale": "PE",
-        "dn": "DN63",
-        "lunghezza": 3.01,
-        "anno_posa": 1980,
-        "comune": "Tassarolo",
-        "localita": null,
-        "via": "Via Campolasso",
-        "tip_rete": "DISTRIBUZIONE",
-        "id_distretto": null
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.770903691568883,
-            44.7262238271804
-          ],
-          [
-            8.770941676191539,
-            44.72622478101785
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "materiale": "PE",
         "dn": "DN75",
         "lunghezza": 2.83,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Via Campolasso",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "03",
         "id_distretto": "DTS03"
       },
       "geometry": {
@@ -5251,231 +5308,14 @@
       "type": "Feature",
       "properties": {
         "materiale": "PE",
-        "dn": "DN110",
-        "lunghezza": 4.58,
-        "anno_posa": 2016,
-        "comune": "Tassarolo",
-        "localita": "Localita' Osteria",
-        "via": "Strada Comunale Per Pasturana",
-        "tip_rete": "DISTRIBUZIONE",
-        "id_distretto": null
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.75579301390289,
-            44.73760029620648
-          ],
-          [
-            8.755809933890221,
-            44.73758783328147
-          ],
-          [
-            8.755804906908883,
-            44.73758406804533
-          ],
-          [
-            8.75582382985135,
-            44.73757112649661
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "materiale": "PE",
-        "dn": "DN110",
-        "lunghezza": 160.94,
-        "anno_posa": 2016,
-        "comune": "Tassarolo",
-        "localita": "Localita' Osteria",
-        "via": "Strada Comunale Per Pasturana",
-        "tip_rete": "DISTRIBUZIONE",
-        "id_distretto": null
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.755809933890221,
-            44.73758783328147
-          ],
-          [
-            8.755869702665311,
-            44.73754687936714
-          ],
-          [
-            8.756131450522561,
-            44.73734772470595
-          ],
-          [
-            8.756585951355362,
-            44.737021953578065
-          ],
-          [
-            8.756993290997604,
-            44.73675775613231
-          ],
-          [
-            8.757269412932379,
-            44.736580525559646
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "materiale": "PE",
-        "dn": "DN180",
-        "lunghezza": 213.02,
-        "anno_posa": 2009,
-        "comune": "Tassarolo",
-        "localita": "CAPOLUOGO",
-        "via": null,
-        "tip_rete": "DISTRIBUZIONE",
-        "id_distretto": null
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.75579301390289,
-            44.73760029620648
-          ],
-          [
-            8.755502726740884,
-            44.73779058773429
-          ],
-          [
-            8.754275240540434,
-            44.73861375032766
-          ],
-          [
-            8.753873657534166,
-            44.7388287833742
-          ],
-          [
-            8.753783140675305,
-            44.738871377108104
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "materiale": "PE",
-        "dn": "DN110",
-        "lunghezza": 6.23,
-        "anno_posa": 2016,
-        "comune": "Tassarolo",
-        "localita": "Localita' Osteria",
-        "via": "Strada Comunale Per Pasturana",
-        "tip_rete": "DISTRIBUZIONE",
-        "id_distretto": null
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.75582382985135,
-            44.73757112649661
-          ],
-          [
-            8.755816230254357,
-            44.73756506703944
-          ],
-          [
-            8.755856911834956,
-            44.737537539301485
-          ],
-          [
-            8.755863945102469,
-            44.737543691332306
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "materiale": "PE",
-        "dn": "DN110",
-        "lunghezza": 4.4,
-        "anno_posa": 2016,
-        "comune": "Tassarolo",
-        "localita": "Localita' Osteria",
-        "via": "Strada Comunale Per Pasturana",
-        "tip_rete": "DISTRIBUZIONE",
-        "id_distretto": null
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.75582382985135,
-            44.73757112649661
-          ],
-          [
-            8.755863945102469,
-            44.737543691332306
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "materiale": "PE",
-        "dn": "DN110",
-        "lunghezza": 3.19,
-        "anno_posa": 2016,
-        "comune": "Tassarolo",
-        "localita": "Localita' Osteria",
-        "via": "Strada Comunale Per Pasturana",
-        "tip_rete": "DISTRIBUZIONE",
-        "id_distretto": null
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.755863945102469,
-            44.737543691332306
-          ],
-          [
-            8.755868860353658,
-            44.73754384426898
-          ],
-          [
-            8.755872426911875,
-            44.73754625980038
-          ],
-          [
-            8.755872891972256,
-            44.73754975080036
-          ],
-          [
-            8.755890983287987,
-            44.737562635724125
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "materiale": "PE",
         "dn": "DN90",
         "lunghezza": 1.46,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Strada Francavilla",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "02",
         "id_distretto": "DTS02"
       },
       "geometry": {
@@ -5507,6 +5347,7 @@
         "localita": "Localita' Osteria",
         "via": "Strada Comunale Per Pasturana",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "02",
         "id_distretto": "DTS02"
       },
       "geometry": {
@@ -5586,6 +5427,7 @@
         "localita": "CAPOLUOGO",
         "via": "Via Pasturana",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "02",
         "id_distretto": "DTS02"
       },
       "geometry": {
@@ -5605,33 +5447,6 @@
     {
       "type": "Feature",
       "properties": {
-        "materiale": "PE",
-        "dn": "DN180",
-        "lunghezza": 23.22,
-        "anno_posa": 1980,
-        "comune": "Tassarolo",
-        "localita": "Localita' Osteria",
-        "via": "Strada Comunale Per Pasturana",
-        "tip_rete": "DISTRIBUZIONE",
-        "id_distretto": null
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.755890983287987,
-            44.737562635724125
-          ],
-          [
-            8.756098456683736,
-            44.737710400972325
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "materiale": "?",
         "dn": "?",
         "lunghezza": 1.66,
@@ -5640,6 +5455,7 @@
         "localita": "Localita' Osteria",
         "via": null,
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "05",
         "id_distretto": "DTS05"
       },
       "geometry": {
@@ -5667,6 +5483,7 @@
         "localita": "CAPOLUOGO",
         "via": "Via Pasturana",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "05",
         "id_distretto": "DTS05"
       },
       "geometry": {
@@ -5691,9 +5508,10 @@
         "lunghezza": 80.32,
         "anno_posa": 2019,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Via Vecchia Novi Ligure",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "01",
         "id_distretto": "DTS01"
       },
       "geometry": {
@@ -5730,9 +5548,10 @@
         "lunghezza": 17.72,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Via Vecchia Novi Ligure",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "01",
         "id_distretto": "DTS01"
       },
       "geometry": {
@@ -5760,6 +5579,7 @@
         "localita": "CAPOLUOGO",
         "via": "Strada delle Vigne",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "03",
         "id_distretto": "DTS03"
       },
       "geometry": {
@@ -5787,6 +5607,7 @@
         "localita": "CAPOLUOGO",
         "via": "Via Fara Vecchia",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "01",
         "id_distretto": "DTS01"
       },
       "geometry": {
@@ -5842,6 +5663,7 @@
         "localita": "CAPOLUOGO",
         "via": "Via Sant'Ambrogio",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "01",
         "id_distretto": "DTS01"
       },
       "geometry": {
@@ -5946,9 +5768,10 @@
         "lunghezza": 39.23,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Via Sant'Ambrogio",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "01",
         "id_distretto": "DTS01"
       },
       "geometry": {
@@ -5981,9 +5804,10 @@
         "lunghezza": 40.28,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Via Sant'Ambrogio",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "01",
         "id_distretto": "DTS01"
       },
       "geometry": {
@@ -6011,6 +5835,7 @@
         "localita": "CAPOLUOGO",
         "via": "Via Sant'Ambrogio",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "01",
         "id_distretto": "DTS01"
       },
       "geometry": {
@@ -6118,6 +5943,7 @@
         "localita": "CAPOLUOGO",
         "via": "Via Sant'Ambrogio",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "01",
         "id_distretto": "DTS01"
       },
       "geometry": {
@@ -6150,9 +5976,10 @@
         "lunghezza": 158.33,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Via Massimiliano Spinola",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "01",
         "id_distretto": "DTS01"
       },
       "geometry": {
@@ -6197,9 +6024,10 @@
         "lunghezza": 265.62,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Via Massimiliano Spinola",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "01",
         "id_distretto": "DTS01"
       },
       "geometry": {
@@ -6240,9 +6068,10 @@
         "lunghezza": 9.43,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Via Vecchia Novi Ligure",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "01",
         "id_distretto": "DTS01"
       },
       "geometry": {
@@ -6270,6 +6099,7 @@
         "localita": "CAPOLUOGO",
         "via": "Via Vecchia Novi",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "01",
         "id_distretto": "DTS01"
       },
       "geometry": {
@@ -6313,6 +6143,7 @@
         "localita": "CAPOLUOGO",
         "via": "Via Vecchia Novi",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "03",
         "id_distretto": "DTS03"
       },
       "geometry": {
@@ -6372,6 +6203,7 @@
         "localita": "CAPOLUOGO",
         "via": "Via Vecchia Novi",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "01",
         "id_distretto": "DTS01"
       },
       "geometry": {
@@ -6407,6 +6239,7 @@
         "localita": "CAPOLUOGO",
         "via": "Via Vecchia Novi",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "01",
         "id_distretto": "DTS01"
       },
       "geometry": {
@@ -6447,9 +6280,10 @@
         "lunghezza": 471.21,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Via Vecchia Novi Ligure",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "01",
         "id_distretto": "DTS01"
       },
       "geometry": {
@@ -6554,9 +6388,10 @@
         "lunghezza": 226.72,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Strada Francavilla",
         "tip_rete": "ADDUZIONE",
+        "n_distretto": "05",
         "id_distretto": "DTS05"
       },
       "geometry": {
@@ -6616,6 +6451,7 @@
         "localita": "CAPOLUOGO",
         "via": "Strada Francavilla",
         "tip_rete": "ADDUZIONE",
+        "n_distretto": "05",
         "id_distretto": "DTS05"
       },
       "geometry": {
@@ -6719,6 +6555,7 @@
         "localita": "CAPOLUOGO",
         "via": "Strada Francavilla",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "02",
         "id_distretto": "DTS02"
       },
       "geometry": {
@@ -6830,6 +6667,7 @@
         "localita": "Localita' Osteria",
         "via": "Strada Comunale Per Pasturana",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "05",
         "id_distretto": "DTS05"
       },
       "geometry": {
@@ -6865,6 +6703,7 @@
         "localita": "Localita' Osteria",
         "via": "Strada Comunale Per Pasturana",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "05",
         "id_distretto": "DTS05"
       },
       "geometry": {
@@ -6896,6 +6735,7 @@
         "localita": "Localita' Osteria",
         "via": "Strada Comunale Per Pasturana",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "05",
         "id_distretto": "DTS05"
       },
       "geometry": {
@@ -6927,6 +6767,7 @@
         "localita": "Localita' Osteria",
         "via": "Strada Comunale Per Pasturana",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "05",
         "id_distretto": "DTS05"
       },
       "geometry": {
@@ -7154,6 +6995,7 @@
         "localita": "Localita' Osteria",
         "via": "Strada Comunale Per Pasturana",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "05",
         "id_distretto": "DTS05"
       },
       "geometry": {
@@ -7178,9 +7020,10 @@
         "lunghezza": 108.8,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Strada Vicinale dei Preissi",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "02",
         "id_distretto": "DTS02"
       },
       "geometry": {
@@ -7228,6 +7071,7 @@
         "localita": "CAPOLUOGO",
         "via": "Via Pasturana",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "05",
         "id_distretto": "DTS05"
       },
       "geometry": {
@@ -7307,6 +7151,7 @@
         "localita": "Tassarolo",
         "via": null,
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "05",
         "id_distretto": "DTS05"
       },
       "geometry": {
@@ -7359,9 +7204,10 @@
         "lunghezza": 9.97,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Strada Francavilla",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "05",
         "id_distretto": "DTS05"
       },
       "geometry": {
@@ -7390,9 +7236,10 @@
         "lunghezza": 1.3,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Strada Francavilla",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "02",
         "id_distretto": "DTS02"
       },
       "geometry": {
@@ -7417,9 +7264,10 @@
         "lunghezza": 10.22,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Via Pasturana",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "05",
         "id_distretto": "DTS05"
       },
       "geometry": {
@@ -7447,6 +7295,7 @@
         "localita": "CAPOLUOGO",
         "via": "Strada Francavilla",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "02",
         "id_distretto": "DTS02"
       },
       "geometry": {
@@ -7483,9 +7332,10 @@
         "lunghezza": 1.01,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": null,
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "05",
         "id_distretto": "DTS05"
       },
       "geometry": {
@@ -7510,9 +7360,10 @@
         "lunghezza": 8.93,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": null,
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "02",
         "id_distretto": "DTS02"
       },
       "geometry": {
@@ -7537,9 +7388,10 @@
         "lunghezza": 413.8,
         "anno_posa": 1980,
         "comune": "Francavilla Bisio",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Strada della Signora",
         "tip_rete": "ADDUZIONE",
+        "n_distretto": "05",
         "id_distretto": "DTS05"
       },
       "geometry": {
@@ -7592,9 +7444,10 @@
         "lunghezza": 186.53,
         "anno_posa": 1980,
         "comune": "Francavilla Bisio",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Via Dante Alighieri",
         "tip_rete": "ADDUZIONE",
+        "n_distretto": "05",
         "id_distretto": "DTS05"
       },
       "geometry": {
@@ -7639,9 +7492,10 @@
         "lunghezza": 40.37,
         "anno_posa": 1980,
         "comune": "Francavilla Bisio",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Via Dante Alighieri",
         "tip_rete": "ADDUZIONE",
+        "n_distretto": "05",
         "id_distretto": "DTS05"
       },
       "geometry": {
@@ -7702,9 +7556,10 @@
         "lunghezza": 116.36,
         "anno_posa": 1980,
         "comune": "Francavilla Bisio",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Strada Comunale della Marietta",
         "tip_rete": "ADDUZIONE",
+        "n_distretto": "05",
         "id_distretto": "DTS05"
       },
       "geometry": {
@@ -7777,9 +7632,10 @@
         "lunghezza": 280.25,
         "anno_posa": 1980,
         "comune": "Francavilla Bisio",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Strada Vicinale della Buffalora",
         "tip_rete": "ADDUZIONE",
+        "n_distretto": "05",
         "id_distretto": "DTS05"
       },
       "geometry": {
@@ -7840,9 +7696,10 @@
         "lunghezza": 832.19,
         "anno_posa": 1980,
         "comune": "Francavilla Bisio",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Via Tassarolo",
         "tip_rete": "ADDUZIONE",
+        "n_distretto": "05",
         "id_distretto": "DTS05"
       },
       "geometry": {
@@ -7987,13 +7844,58 @@
       "type": "Feature",
       "properties": {
         "materiale": "PE",
+        "dn": "DN110",
+        "lunghezza": 83.43,
+        "anno_posa": 1980,
+        "comune": "Francavilla Bisio",
+        "localita": "CAPOLUOGO",
+        "via": "Via Tassarolo",
+        "tip_rete": "ADDUZIONE",
+        "n_distretto": "05",
+        "id_distretto": "DTS05"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.751300893341263,
+            44.73145718760641
+          ],
+          [
+            8.751412461772988,
+            44.73147277704711
+          ],
+          [
+            8.75161585017196,
+            44.731537414606976
+          ],
+          [
+            8.751770418074353,
+            44.73157123109475
+          ],
+          [
+            8.752042889548429,
+            44.731513224161496
+          ],
+          [
+            8.752311058655255,
+            44.7315421326782
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "materiale": "PE",
         "dn": "DE63",
         "lunghezza": 62.79,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Via Crosa",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "03",
         "id_distretto": "DTS03"
       },
       "geometry": {
@@ -8045,6 +7947,7 @@
         "localita": "CAPOLUOGO",
         "via": "Via Vecchia Novi",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "01",
         "id_distretto": "DTS01"
       },
       "geometry": {
@@ -8073,9 +7976,10 @@
         "lunghezza": 26.3,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Strada Francavilla",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "02",
         "id_distretto": "DTS02"
       },
       "geometry": {
@@ -8104,9 +8008,10 @@
         "lunghezza": 34.66,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Strada Comunale Cavallari",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "04",
         "id_distretto": "DTS04"
       },
       "geometry": {
@@ -8135,9 +8040,10 @@
         "lunghezza": 34.55,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Via Campolasso",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "04",
         "id_distretto": "DTS04"
       },
       "geometry": {
@@ -8178,9 +8084,10 @@
         "lunghezza": 6.12,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": "Via Garibaldi",
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "03",
         "id_distretto": "DTS03"
       },
       "geometry": {
@@ -8209,9 +8116,10 @@
         "lunghezza": 0.98,
         "anno_posa": 1980,
         "comune": "Tassarolo",
-        "localita": null,
+        "localita": "CAPOLUOGO",
         "via": null,
         "tip_rete": "DISTRIBUZIONE",
+        "n_distretto": "05",
         "id_distretto": "DTS05"
       },
       "geometry": {
