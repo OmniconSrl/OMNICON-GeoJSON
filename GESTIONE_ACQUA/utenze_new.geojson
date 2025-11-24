@@ -1,0 +1,1470 @@
+{
+  "type": "FeatureCollection",
+  "name": "utenze",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::32632"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 62254,
+        "pof": "00100018109",
+        "lati": 44.76097,
+        "long": 8.83998,
+        "altezza": null,
+        "localita": "NOVI LIGURE",
+        "via": "STRADA ANTICA DI CASSANO",
+        "civico": 155,
+        "indirizzo": null,
+        "x": 487336,
+        "y": 4956410,
+        "comune": null,
+        "controllo": null,
+        "distretto_": "DNL08.2",
+        "MC": 72
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.839979999993886,
+          44.760970002229605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 65470,
+        "pof": "00100034185",
+        "lati": 44.75637,
+        "long": 8.84582,
+        "altezza": null,
+        "localita": "SERRAVALLE SCRIVIA",
+        "via": "VIA PIEVE",
+        "civico": 22,
+        "indirizzo": null,
+        "x": 487797,
+        "y": 4955899,
+        "comune": null,
+        "controllo": null,
+        "distretto_": "DNL08.2",
+        "MC": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.845819999994099,
+          44.756375002228495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 65471,
+        "pof": "00100033182",
+        "lati": 44.74663,
+        "long": null,
+        "altezza": null,
+        "localita": "SERRAVALLE SCRIVIA",
+        "via": "VIA CASSANO",
+        "civico": 101,
+        "indirizzo": null,
+        "x": 487919,
+        "y": 4954817,
+        "comune": null,
+        "controllo": null,
+        "distretto_": "DNL08.2",
+        "MC": 124
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.84738999999416,
+          44.74663833555951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 65472,
+        "pof": "00100053755",
+        "lati": 44.74412,
+        "long": 8.84656833,
+        "altezza": null,
+        "localita": "SERRAVALLE SCRIVIA",
+        "via": "VIA CASSANO",
+        "civico": 93,
+        "indirizzo": null,
+        "x": 487854,
+        "y": 4954538,
+        "comune": null,
+        "controllo": null,
+        "distretto_": "DNL08.2",
+        "MC": 33
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.846568333327468,
+          44.744125002225594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 65473,
+        "pof": "00100033180",
+        "lati": 44.74556,
+        "long": null,
+        "altezza": null,
+        "localita": "SERRAVALLE SCRIVIA",
+        "via": "VIA CASSANO",
+        "civico": 97,
+        "indirizzo": null,
+        "x": 487884,
+        "y": 4954698,
+        "comune": null,
+        "controllo": null,
+        "distretto_": "DNL08.2",
+        "MC": 203
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.846951666660814,
+          44.745563335559254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 65479,
+        "pof": "00100034182",
+        "lati": 44.755,
+        "long": null,
+        "altezza": null,
+        "localita": "SERRAVALLE SCRIVIA",
+        "via": "VIA PIEVE",
+        "civico": 2,
+        "indirizzo": null,
+        "x": 488164,
+        "y": 4955746,
+        "comune": null,
+        "controllo": null,
+        "distretto_": "DNL08.2",
+        "MC": 86
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.850459999994246,
+          44.7550033355615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 69435,
+        "pof": "00100018481",
+        "lati": 44.76193,
+        "long": 8.84277833,
+        "altezza": null,
+        "localita": "NOVI LIGURE",
+        "via": "STRADA DI CASSANO",
+        "civico": 153,
+        "indirizzo": null,
+        "x": 487557,
+        "y": 4956517,
+        "comune": null,
+        "controllo": null,
+        "distretto_": "DNL08.2",
+        "MC": 282
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.842778333327283,
+          44.761935002229855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 69437,
+        "pof": "00100018493",
+        "lati": 44.75625,
+        "long": 8.84075167,
+        "altezza": null,
+        "localita": "NOVI LIGURE",
+        "via": "STRADA DI CASSANO",
+        "civico": 179,
+        "indirizzo": null,
+        "x": 487396,
+        "y": 4955886,
+        "comune": null,
+        "controllo": null,
+        "distretto_": "DNL08.2",
+        "MC": 68
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.840751666660536,
+          44.75625000222852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 72854,
+        "pof": "00100033890",
+        "lati": 44.75296,
+        "long": 8.84175667,
+        "altezza": null,
+        "localita": "SERRAVALLE SCRIVIA",
+        "via": "VIA NAPOLEONICA",
+        "civico": 99999,
+        "indirizzo": null,
+        "x": 487475,
+        "y": 4955521,
+        "comune": null,
+        "controllo": null,
+        "distretto_": "DNL08.2",
+        "MC": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.841756666660608,
+          44.75296500222769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 76861,
+        "pof": "00100018485",
+        "lati": 44.75983,
+        "long": 8.839625,
+        "altezza": null,
+        "localita": "NOVI LIGURE",
+        "via": "STRADA DI CASSANO",
+        "civico": 158,
+        "indirizzo": null,
+        "x": 487307,
+        "y": 4956284,
+        "comune": null,
+        "controllo": null,
+        "distretto_": "DNL08.2",
+        "MC": 72
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.839624999993852,
+          44.75983000222937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 76862,
+        "pof": "00100018490",
+        "lati": 44.75787,
+        "long": 8.84079167,
+        "altezza": null,
+        "localita": "NOVI LIGURE",
+        "via": "STRADA DI CASSANO",
+        "civico": 173,
+        "indirizzo": null,
+        "x": 487399,
+        "y": 4956066,
+        "comune": null,
+        "controllo": null,
+        "distretto_": "DNL08.2",
+        "MC": 88
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.840791666660532,
+          44.757870002228906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 79347,
+        "pof": "00400033200",
+        "lati": 44.74786,
+        "long": 8.845454,
+        "altezza": null,
+        "localita": "SERRAVALLE SCRIVIA",
+        "via": "VIA CASSANO",
+        "civico": 99999,
+        "indirizzo": null,
+        "x": 487766,
+        "y": 4954953,
+        "comune": null,
+        "controllo": null,
+        "distretto_": "DNL08.2",
+        "MC": 135
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.845453999994064,
+          44.74786000222649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 80272,
+        "pof": "00100034920",
+        "lati": 44.74729,
+        "long": null,
+        "altezza": null,
+        "localita": "SERRAVALLE SCRIVIA",
+        "via": "VIA DELL'ARTIGIANATO",
+        "civico": 9999,
+        "indirizzo": null,
+        "x": 487821,
+        "y": 4954890,
+        "comune": null,
+        "controllo": null,
+        "distretto_": "DNL08.2",
+        "MC": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.846153333327413,
+          44.747296668893036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 80274,
+        "pof": "00200033178",
+        "lati": 44.7456,
+        "long": null,
+        "altezza": null,
+        "localita": "SERRAVALLE SCRIVIA",
+        "via": "VIA CASSANO",
+        "civico": 95,
+        "indirizzo": null,
+        "x": 487889,
+        "y": 4954702,
+        "comune": null,
+        "controllo": null,
+        "distretto_": "DNL08.2",
+        "MC": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.847011666660805,
+          44.7456016688927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 80275,
+        "pof": "00100033178",
+        "lati": 44.74578,
+        "long": null,
+        "altezza": null,
+        "localita": "SERRAVALLE SCRIVIA",
+        "via": "VIA CASSANO",
+        "civico": 95,
+        "indirizzo": null,
+        "x": 487866,
+        "y": 4954723,
+        "comune": null,
+        "controllo": null,
+        "distretto_": "DNL08.2",
+        "MC": 330
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.84672166666081,
+          44.745786668892734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 84332,
+        "pof": "04400046132",
+        "lati": 44.76199,
+        "long": 8.84272833,
+        "altezza": null,
+        "localita": "NOVI LIGURE",
+        "via": "STRADA DI CASSANO",
+        "civico": 151,
+        "indirizzo": null,
+        "x": 487553,
+        "y": 4956523,
+        "comune": null,
+        "controllo": null,
+        "distretto_": "DNL08.2",
+        "MC": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.842728333327278,
+          44.761990002229865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 84333,
+        "pof": "00100018480",
+        "lati": 44.76204,
+        "long": 8.83968833,
+        "altezza": null,
+        "localita": "NOVI LIGURE",
+        "via": "STRADA DI CASSANO",
+        "civico": 152,
+        "indirizzo": null,
+        "x": 487313,
+        "y": 4956529,
+        "comune": null,
+        "controllo": null,
+        "distretto_": "DNL08.2",
+        "MC": 186
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.83968833332716,
+          44.7620400022299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 84334,
+        "pof": "00100018484",
+        "lati": 44.76059,
+        "long": null,
+        "altezza": null,
+        "localita": "NOVI LIGURE",
+        "via": "STRADA DI CASSANO",
+        "civico": 157,
+        "indirizzo": null,
+        "x": 487310,
+        "y": 4956369,
+        "comune": null,
+        "controllo": null,
+        "distretto_": "DNL08.2",
+        "MC": 54
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.839658333327195,
+          44.76059833556283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 84335,
+        "pof": "00100018483",
+        "lati": 44.76084,
+        "long": null,
+        "altezza": null,
+        "localita": "NOVI LIGURE",
+        "via": "STRADA DI CASSANO",
+        "civico": 156,
+        "indirizzo": null,
+        "x": 487260,
+        "y": 4956397,
+        "comune": null,
+        "controllo": null,
+        "distretto_": "DNL08.2",
+        "MC": 151
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.839023333327123,
+          44.76084666889631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 84336,
+        "pof": "00100018488",
+        "lati": 44.75858,
+        "long": null,
+        "altezza": null,
+        "localita": "NOVI LIGURE",
+        "via": "STRADA DI CASSANO",
+        "civico": 170,
+        "indirizzo": null,
+        "x": 487485,
+        "y": 4956145,
+        "comune": null,
+        "controllo": null,
+        "distretto_": "DNL08.2",
+        "MC": 157
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.841868333327268,
+          44.758588335562315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 84337,
+        "pof": "00100018492",
+        "lati": 44.7578,
+        "long": null,
+        "altezza": null,
+        "localita": "NOVI LIGURE",
+        "via": "STRADA DI CASSANO",
+        "civico": 175,
+        "indirizzo": null,
+        "x": 487418,
+        "y": 4956059,
+        "comune": null,
+        "controllo": null,
+        "distretto_": "DNL08.2",
+        "MC": 65
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.841028333327225,
+          44.75780833556218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 84338,
+        "pof": "00100018491",
+        "lati": 44.75784,
+        "long": null,
+        "altezza": null,
+        "localita": "NOVI LIGURE",
+        "via": "STRADA DI CASSANO",
+        "civico": 174,
+        "indirizzo": null,
+        "x": 487419,
+        "y": 4956063,
+        "comune": null,
+        "controllo": null,
+        "distretto_": "DNL08.2",
+        "MC": 129
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.841038333327216,
+          44.75784166889559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 87641,
+        "pof": "00200033889",
+        "lati": 44.74594,
+        "long": null,
+        "altezza": null,
+        "localita": "SERRAVALLE SCRIVIA",
+        "via": "VIA NAPOLEONICA",
+        "civico": 16,
+        "indirizzo": null,
+        "x": 487700,
+        "y": 4954740,
+        "comune": null,
+        "controllo": null,
+        "distretto_": "DNL08.2",
+        "MC": 130
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.84462666666073,
+          44.74594333555937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 87642,
+        "pof": "00100033200",
+        "lati": 44.7502,
+        "long": null,
+        "altezza": null,
+        "localita": "SERRAVALLE SCRIVIA",
+        "via": "VIA CASSANO",
+        "civico": 111,
+        "indirizzo": null,
+        "x": 487539,
+        "y": 4955214,
+        "comune": null,
+        "controllo": null,
+        "distretto_": "DNL08.2",
+        "MC": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.842581666660614,
+          44.75020833556038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 87643,
+        "pof": "00100034919",
+        "lati": 44.74767,
+        "long": null,
+        "altezza": null,
+        "localita": "SERRAVALLE SCRIVIA",
+        "via": "VIA DELL'ARTIGIANATO",
+        "civico": 1,
+        "indirizzo": null,
+        "x": 487821,
+        "y": 4954932,
+        "comune": null,
+        "controllo": null,
+        "distretto_": "DNL08.2",
+        "MC": 285
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.846143333327413,
+          44.747671668893155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 87644,
+        "pof": "00100053757",
+        "lati": 44.74781,
+        "long": null,
+        "altezza": null,
+        "localita": "SERRAVALLE SCRIVIA",
+        "via": "VIA DELL'ARTIGIANATO",
+        "civico": 19,
+        "indirizzo": null,
+        "x": 487733,
+        "y": 4954948,
+        "comune": null,
+        "controllo": null,
+        "distretto_": "DNL08.2",
+        "MC": 58
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.845036666660734,
+          44.74781166889322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 87647,
+        "pof": "00700033200",
+        "lati": 44.74412,
+        "long": 8.84656833,
+        "altezza": null,
+        "localita": "SERRAVALLE SCRIVIA",
+        "via": "VIA CASSANO",
+        "civico": 93,
+        "indirizzo": null,
+        "x": 487854,
+        "y": 4954538,
+        "comune": null,
+        "controllo": null,
+        "distretto_": "DNL08.2",
+        "MC": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.846568333327468,
+          44.744125002225594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 91627,
+        "pof": "00200018470",
+        "lati": 44.7647,
+        "long": 8.839355,
+        "altezza": null,
+        "localita": "NOVI LIGURE",
+        "via": "STRADA DI CASSANO",
+        "civico": 145,
+        "indirizzo": null,
+        "x": 487287,
+        "y": 4956825,
+        "comune": null,
+        "controllo": null,
+        "distretto_": "DNL08.2",
+        "MC": 71
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.839354999993843,
+          44.76470500223049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 91628,
+        "pof": "00100018472",
+        "lati": 447626,
+        "long": 0.84197,
+        "altezza": null,
+        "localita": "NOVI LIGURE",
+        "via": "STRADA DI CASSANO",
+        "civico": 148,
+        "indirizzo": null,
+        "x": 487493,
+        "y": 4956591,
+        "comune": null,
+        "controllo": null,
+        "distretto_": "DNL08.2",
+        "MC": 431
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.841969999993939,
+          44.76260000222997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 91629,
+        "pof": "00100018477",
+        "lati": 44.76219,
+        "long": 8.84221,
+        "altezza": null,
+        "localita": "NOVI LIGURE",
+        "via": "STRADA DI CASSANO",
+        "civico": 150,
+        "indirizzo": null,
+        "x": 487512,
+        "y": 4956545,
+        "comune": null,
+        "controllo": null,
+        "distretto_": "DNL08.2",
+        "MC": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.842209999993925,
+          44.76219000222991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 91631,
+        "pof": "00100018475",
+        "lati": 44.76394,
+        "long": null,
+        "altezza": null,
+        "localita": "NOVI LIGURE",
+        "via": "STRADA DI CASSANO",
+        "civico": 148,
+        "indirizzo": null,
+        "x": 487261,
+        "y": 4956740,
+        "comune": null,
+        "controllo": null,
+        "distretto_": "DNL08.2",
+        "MC": 158
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.839024999993809,
+          44.763941668897075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 91632,
+        "pof": "00100018482",
+        "lati": 44.76091,
+        "long": 8.83983,
+        "altezza": null,
+        "localita": "NOVI LIGURE",
+        "via": "STRADA DI CASSANO",
+        "civico": 155,
+        "indirizzo": null,
+        "x": 487324,
+        "y": 4956404,
+        "comune": null,
+        "controllo": null,
+        "distretto_": "DNL08.2",
+        "MC": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.839829999993835,
+          44.76091000222967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 91633,
+        "pof": "00200018486",
+        "lati": 44.76139,
+        "long": null,
+        "altezza": null,
+        "localita": "NOVI LIGURE",
+        "via": "STRADA DI CASSANO",
+        "civico": 159,
+        "indirizzo": null,
+        "x": 487625,
+        "y": 4956457,
+        "comune": null,
+        "controllo": null,
+        "distretto_": "DNL08.2",
+        "MC": 328
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.843638333327293,
+          44.7613966688964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 91635,
+        "pof": "00100018489",
+        "lati": 44.75775,
+        "long": 8.84005667,
+        "altezza": null,
+        "localita": "NOVI LIGURE",
+        "via": "STRADA DI CASSANO",
+        "civico": 172,
+        "indirizzo": null,
+        "x": 487341,
+        "y": 4956053,
+        "comune": null,
+        "controllo": null,
+        "distretto_": "DNL08.2",
+        "MC": 69
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.840056666660528,
+          44.75775500222889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 91636,
+        "pof": "00600018495",
+        "lati": 44.75501,
+        "long": null,
+        "altezza": null,
+        "localita": "NOVI LIGURE",
+        "via": "STRADA DI CASSANO",
+        "civico": 99999,
+        "indirizzo": null,
+        "x": 487409,
+        "y": 4955749,
+        "comune": null,
+        "controllo": null,
+        "distretto_": "DNL08.2",
+        "MC": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.840918333327243,
+          44.75501833556151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 91637,
+        "pof": "00700018495",
+        "lati": 44.76026,
+        "long": null,
+        "altezza": null,
+        "localita": "NOVI LIGURE",
+        "via": "STRADA DI CASSANO",
+        "civico": 99999,
+        "indirizzo": null,
+        "x": 487253,
+        "y": 4956332,
+        "comune": null,
+        "controllo": null,
+        "distretto_": "DNL08.2",
+        "MC": 5532
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.838941666660485,
+          44.76026333556272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 94934,
+        "pof": "00100033887",
+        "lati": 44.74381,
+        "long": null,
+        "altezza": null,
+        "localita": "SERRAVALLE SCRIVIA",
+        "via": "VIA NAPOLEONICA",
+        "civico": 6,
+        "indirizzo": null,
+        "x": 487735,
+        "y": 4954504,
+        "comune": null,
+        "controllo": null,
+        "distretto_": "DNL08.2",
+        "MC": 295
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.845074999994052,
+          44.743813335558805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 94935,
+        "pof": "00300033889",
+        "lati": 44.74586,
+        "long": null,
+        "altezza": null,
+        "localita": "SERRAVALLE SCRIVIA",
+        "via": "VIA NAPOLEONICA",
+        "civico": 16,
+        "indirizzo": null,
+        "x": 487700,
+        "y": 4954732,
+        "comune": null,
+        "controllo": null,
+        "distretto_": "DNL08.2",
+        "MC": 324
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.844618333327361,
+          44.74586666889272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 94938,
+        "pof": "00900033200",
+        "lati": 44.75601,
+        "long": null,
+        "altezza": null,
+        "localita": "SERRAVALLE SCRIVIA",
+        "via": "VIA CASSANO",
+        "civico": 99999,
+        "indirizzo": null,
+        "x": 487923,
+        "y": 4955858,
+        "comune": null,
+        "controllo": null,
+        "distretto_": "DNL08.2",
+        "MC": 99
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.847409999994126,
+          44.75601166889517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 94941,
+        "pof": "00200033177",
+        "lati": 44.74278,
+        "long": 8.84627167,
+        "altezza": null,
+        "localita": "SERRAVALLE SCRIVIA",
+        "via": "VIA CASSANO",
+        "civico": 93,
+        "indirizzo": null,
+        "x": 487830,
+        "y": 4954389,
+        "comune": null,
+        "controllo": null,
+        "distretto_": "DNL08.2",
+        "MC": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.846271666660803,
+          44.74278000222526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 99061,
+        "pof": "00100018478",
+        "lati": 44.76205,
+        "long": null,
+        "altezza": null,
+        "localita": "NOVI LIGURE",
+        "via": "STRADA DI CASSANO",
+        "civico": 150,
+        "indirizzo": null,
+        "x": 487549,
+        "y": 4956530,
+        "comune": null,
+        "controllo": null,
+        "distretto_": "DNL08.2",
+        "MC": 47
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.842673333327292,
+          44.762053335563124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 102329,
+        "pof": "00200033196",
+        "lati": 447455.00000000006,
+        "long": 0.84724833,
+        "altezza": null,
+        "localita": "SERRAVALLE SCRIVIA",
+        "via": "VIA CASSANO",
+        "civico": 136,
+        "indirizzo": null,
+        "x": 487908,
+        "y": 4954691,
+        "comune": null,
+        "controllo": null,
+        "distretto_": "DNL08.2",
+        "MC": 88
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.84724833332748,
+          44.74550000222595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 102330,
+        "pof": "00100033177",
+        "lati": 44.74273,
+        "long": 8.84631,
+        "altezza": null,
+        "localita": "SERRAVALLE SCRIVIA",
+        "via": "VIA CASSANO",
+        "civico": 93,
+        "indirizzo": null,
+        "x": 487833,
+        "y": 4954384,
+        "comune": null,
+        "controllo": null,
+        "distretto_": "DNL08.2",
+        "MC": 51
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.846309999994126,
+          44.74273500222529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 106105,
+        "pof": "00100033888",
+        "lati": 44.74441,
+        "long": null,
+        "altezza": null,
+        "localita": "SERRAVALLE SCRIVIA",
+        "via": "VIA NAPOLEONICA",
+        "civico": 10,
+        "indirizzo": null,
+        "x": 487721,
+        "y": 4954570,
+        "comune": null,
+        "controllo": null,
+        "distretto_": "DNL08.2",
+        "MC": 249
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.844891666660743,
+          44.74441333555896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 106242,
+        "pof": "00100018479",
+        "lati": 44.76176,
+        "long": null,
+        "altezza": null,
+        "localita": "NOVI LIGURE",
+        "via": "STRADA DI CASSANO",
+        "civico": 151,
+        "indirizzo": null,
+        "x": 487575,
+        "y": 4956498,
+        "comune": null,
+        "controllo": null,
+        "distretto_": "DNL08.2",
+        "MC": 765
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.842999999993973,
+          44.76176666889652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 106243,
+        "pof": "00200018489",
+        "lati": 44.75778,
+        "long": null,
+        "altezza": null,
+        "localita": "NOVI LIGURE",
+        "via": "STRADA DI CASSANO",
+        "civico": 172,
+        "indirizzo": null,
+        "x": 487345,
+        "y": 4956056,
+        "comune": null,
+        "controllo": null,
+        "distretto_": "DNL08.2",
+        "MC": 105
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.840103333327223,
+          44.757781668895575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 106244,
+        "pof": "00100018494",
+        "lati": 44.75609,
+        "long": null,
+        "altezza": null,
+        "localita": "NOVI LIGURE",
+        "via": "STRADA DI CASSANO",
+        "civico": 181,
+        "indirizzo": null,
+        "x": 487403,
+        "y": 4955869,
+        "comune": null,
+        "controllo": null,
+        "distretto_": "DNL08.2",
+        "MC": 264
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.840841666660594,
+          44.75609980222854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 109574,
+        "pof": "00100033889",
+        "lati": 44.74612,
+        "long": null,
+        "altezza": null,
+        "localita": "SERRAVALLE SCRIVIA",
+        "via": "VIA NAPOLEONICA",
+        "civico": 16,
+        "indirizzo": null,
+        "x": 487680,
+        "y": 4954761,
+        "comune": null,
+        "controllo": null,
+        "distretto_": "DNL08.2",
+        "MC": 154
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.84436833332739,
+          44.74612666889281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 109575,
+        "pof": "00100033195",
+        "lati": 44.74349,
+        "long": null,
+        "altezza": null,
+        "localita": "SERRAVALLE SCRIVIA",
+        "via": "VIA CASSANO",
+        "civico": 126,
+        "indirizzo": null,
+        "x": 487858,
+        "y": 4954468,
+        "comune": null,
+        "controllo": null,
+        "distretto_": "DNL08.2",
+        "MC": 55
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.846631666660812,
+          44.743493335558725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 109578,
+        "pof": "00300033562",
+        "lati": 44.75501,
+        "long": null,
+        "altezza": null,
+        "localita": "SERRAVALLE SCRIVIA",
+        "via": "VIA GAMBARATO",
+        "civico": 99999,
+        "indirizzo": null,
+        "x": 488151,
+        "y": 4955747,
+        "comune": null,
+        "controllo": null,
+        "distretto_": "DNL08.2",
+        "MC": 99
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.85029333332759,
+          44.75501666889489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 113291,
+        "pof": "00200034920",
+        "lati": 44.74795,
+        "long": 8.84692167,
+        "altezza": null,
+        "localita": "SERRAVALLE SCRIVIA",
+        "via": "VIA DELL'ARTIGIANATO",
+        "civico": 99999,
+        "indirizzo": null,
+        "x": 487882,
+        "y": 4954963,
+        "comune": null,
+        "controllo": null,
+        "distretto_": "DNL08.2",
+        "MC": 122
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.846921666660803,
+          44.747950002226546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 113410,
+        "pof": "00100018476",
+        "lati": 44.76316,
+        "long": null,
+        "altezza": null,
+        "localita": "NOVI LIGURE",
+        "via": "STRADA DI CASSANO",
+        "civico": 148,
+        "indirizzo": null,
+        "x": 487252,
+        "y": 4956654,
+        "comune": null,
+        "controllo": null,
+        "distretto_": "DNL08.2",
+        "MC": 107
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.838918333327127,
+          44.76316666889685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 116782,
+        "pof": "00100033181",
+        "lati": 44.74643,
+        "long": 8.84664333,
+        "altezza": null,
+        "localita": "SERRAVALLE SCRIVIA",
+        "via": "VIA CASSANO",
+        "civico": 99,
+        "indirizzo": null,
+        "x": 487860,
+        "y": 4954794,
+        "comune": null,
+        "controllo": null,
+        "distretto_": "DNL08.2",
+        "MC": 1298
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.846643333327435,
+          44.74643000222617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 116785,
+        "pof": "00100034183",
+        "lati": 44.75505,
+        "long": 8.85035,
+        "altezza": null,
+        "localita": "SERRAVALLE SCRIVIA",
+        "via": "VIA PIEVE",
+        "civico": 4,
+        "indirizzo": null,
+        "x": 488155,
+        "y": 4955752,
+        "comune": null,
+        "controllo": null,
+        "distretto_": "DNL08.2",
+        "MC": 66
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.850349999994272,
+          44.755055002228175
+        ]
+      }
+    }
+  ]
+}
