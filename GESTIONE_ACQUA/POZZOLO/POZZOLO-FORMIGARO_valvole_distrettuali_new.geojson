@@ -1,0 +1,366 @@
+{
+  "type": "FeatureCollection",
+  "name": "valvole_distrettuali",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::32632"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "rot": 295,
+        "layer": "RA_02valvola",
+        "marca": null,
+        "materiale": "GG",
+        "dn": "DN100",
+        "pn": "16",
+        "tipo_valv": "SPT",
+        "corpo": "PIATTO",
+        "anno_posa": 1980,
+        "stato": "CHIUSA",
+        "tipologia": "Valvola a 2 vie",
+        "x": 482951.63,
+        "y": 4959780.89,
+        "rotazione": 295.43,
+        "id": 1584,
+        "codice": "VD",
+        "comune": "Pozzolo Formigaro",
+        "distretto": [
+          "D1",
+          "D2"
+        ],
+        "cod_valv": "PF_CH02",
+        "distretto_modello": null,
+        "valv_distr": true,
+        "manovra": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.784468138336733,
+          44.79129668265016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "rot": 85,
+        "layer": "RA_02valvola",
+        "marca": null,
+        "materiale": "OT",
+        "dn": "DN80",
+        "pn": "16",
+        "tipo_valv": "VSPT",
+        "corpo": null,
+        "anno_posa": 1980,
+        "stato": "CHIUSA",
+        "tipologia": "Valvola a 2 vie",
+        "x": 482641.01,
+        "y": 4959951.84,
+        "rotazione": 355.84,
+        "id": 1624,
+        "codice": null,
+        "comune": "Pozzolo Formigaro",
+        "distretto": [],
+        "cod_valv": "PF_CH04.1",
+        "distretto_modello": null,
+        "valv_distr": true,
+        "manovra": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.780552550383177,
+          44.79274338674751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "rot": 109,
+        "layer": "RA_02valvola",
+        "marca": null,
+        "materiale": "GG",
+        "dn": "DN80",
+        "pn": "16",
+        "tipo_valv": "SPT",
+        "corpo": "PIATTO",
+        "anno_posa": 1980,
+        "stato": "CHIUSA",
+        "tipologia": "Valvola a 2 vie",
+        "x": 482669.09,
+        "y": 4959805.57,
+        "rotazione": 109.47,
+        "id": 1524,
+        "codice": "Va",
+        "comune": "Pozzolo Formigaro",
+        "distretto": [
+          "D1",
+          "D2"
+        ],
+        "cod_valv": "PF_CH10",
+        "distretto_modello": null,
+        "valv_distr": true,
+        "manovra": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.78090069711911,
+          44.79143794643715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "rot": 311,
+        "layer": "RA_02valvola",
+        "marca": null,
+        "materiale": "GG",
+        "dn": "DN150",
+        "pn": "16",
+        "tipo_valv": "SPT",
+        "corpo": "PIATTO",
+        "anno_posa": 1980,
+        "stato": "CHIUSA",
+        "tipologia": "Valvola a 2 vie",
+        "x": 482608.33,
+        "y": 4960464.5,
+        "rotazione": 310.6,
+        "id": 1567,
+        "codice": null,
+        "comune": "Pozzolo Formigaro",
+        "distretto": [],
+        "cod_valv": "PF_CH06NEW",
+        "distretto_modello": null,
+        "valv_distr": true,
+        "manovra": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.780129115483856,
+          44.797388751652996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "rot": 79,
+        "layer": "RA_02valvola",
+        "marca": null,
+        "materiale": "GG",
+        "dn": "DN150",
+        "pn": "16",
+        "tipo_valv": "VSPT",
+        "corpo": "PIATTO",
+        "anno_posa": 1980,
+        "stato": "CHIUSA",
+        "tipologia": "Valvola a 2 vie",
+        "x": 482892.14,
+        "y": 4959633.21,
+        "rotazione": 79.13,
+        "id": 1526,
+        "codice": "VB",
+        "comune": "Pozzolo Formigaro",
+        "distretto": [
+          "D1",
+          "D2"
+        ],
+        "cod_valv": "PF_CH01",
+        "distretto_modello": null,
+        "valv_distr": true,
+        "manovra": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.783726236380463,
+          44.78989170938834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "rot": 346,
+        "layer": "RA_02valvola",
+        "marca": null,
+        "materiale": "GS",
+        "dn": "DN65",
+        "pn": "16",
+        "tipo_valv": "SPT",
+        "corpo": "PIATTO",
+        "anno_posa": 1980,
+        "stato": "CHIUSA",
+        "tipologia": "Valvola a 2 vie",
+        "x": 485595.96,
+        "y": 4961606.69,
+        "rotazione": 346.12,
+        "id": 1652,
+        "codice": null,
+        "comune": "Pozzolo Formigaro",
+        "distretto": [],
+        "cod_valv": "PF_CH07",
+        "distretto_modello": null,
+        "valv_distr": true,
+        "manovra": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.81785123175063,
+          44.80771696675054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "rot": 346,
+        "layer": "RA_02valvola",
+        "marca": null,
+        "materiale": "GG",
+        "dn": "DN150",
+        "pn": "16",
+        "tipo_valv": "SPT",
+        "corpo": "PIATTO",
+        "anno_posa": 1980,
+        "stato": "CHIUSA",
+        "tipologia": "Valvola a 2 vie",
+        "x": 482908.57,
+        "y": 4960719.51,
+        "rotazione": 346.38,
+        "id": 1691,
+        "codice": "VG",
+        "comune": "Pozzolo Formigaro",
+        "distretto": [
+          "D3",
+          "D5"
+        ],
+        "cod_valv": "PF_CH08",
+        "distretto_modello": null,
+        "valv_distr": true,
+        "manovra": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.783897490873763,
+          44.79967116212522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "rot": 47,
+        "layer": "RA_02valvola",
+        "marca": null,
+        "materiale": "GS",
+        "dn": "DN50",
+        "pn": "16",
+        "tipo_valv": "VTEG",
+        "corpo": null,
+        "anno_posa": 1980,
+        "stato": "CHIUSA",
+        "tipologia": "Valvola a 2 vie",
+        "x": 482976.18,
+        "y": 4959798.29,
+        "rotazione": 47.1,
+        "id": 1685,
+        "codice": "",
+        "comune": "Pozzolo Formigaro",
+        "distretto": [
+          "D1"
+        ],
+        "cod_valv": "PF_CH09NEW",
+        "distretto_modello": null,
+        "valv_distr": true,
+        "manovra": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.78478319043641,
+          44.79137982179351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "rot": 85,
+        "layer": "RA_02valvola",
+        "marca": null,
+        "materiale": "OT",
+        "dn": "DN80",
+        "pn": "16",
+        "tipo_valv": "VSPT",
+        "corpo": null,
+        "anno_posa": 1980,
+        "stato": "CHIUSA",
+        "tipologia": "Valvola a 2 vie",
+        "x": 482641.16,
+        "y": 4959953.83,
+        "rotazione": 355.84,
+        "id": 1623,
+        "codice": null,
+        "comune": "Pozzolo Formigaro",
+        "distretto": [],
+        "cod_valv": "PF_CH04",
+        "distretto_modello": null,
+        "valv_distr": true,
+        "manovra": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.780568927834498,
+          44.79274227365061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "rot": 55,
+        "layer": "RA_02valvola",
+        "marca": null,
+        "materiale": "GG",
+        "dn": "DN150",
+        "pn": "16",
+        "tipo_valv": "SPT",
+        "corpo": "PIATTO",
+        "anno_posa": 1980,
+        "stato": "CHIUSA",
+        "tipologia": "Valvola a 2 vie",
+        "x": 482534.27,
+        "y": 4960776.4,
+        "rotazione": 55.38,
+        "id": 1670,
+        "codice": null,
+        "comune": "Pozzolo Formigaro",
+        "distretto": [],
+        "cod_valv": "PF_CH05",
+        "distretto_modello": null,
+        "valv_distr": true,
+        "manovra": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.779176042666435,
+          44.80018807339254
+        ]
+      }
+    }
+  ]
+}

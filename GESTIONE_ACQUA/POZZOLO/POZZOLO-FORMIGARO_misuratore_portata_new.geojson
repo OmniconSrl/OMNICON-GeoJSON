@@ -1,0 +1,104 @@
+{
+  "type": "FeatureCollection",
+  "name": "misuratore_portata",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::32632"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "PORTATA",
+        "prex_eser": null,
+        "x": 483339,
+        "y": 4960228,
+        "codice": "PZ04",
+        "comune": "Pozzolo Formigaro",
+        "localita": "CAPOLUOGO",
+        "via": "S.P. Pozzolo Villalvernia",
+        "doc": null,
+        "id": 30,
+        "rot": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.789356217775213,
+          44.795258697146345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "PORTATA",
+        "prex_eser": null,
+        "x": 486837,
+        "y": 4961216,
+        "codice": "PZ05",
+        "comune": "Pozzolo Formigaro",
+        "localita": "Bettole di Pozzolo",
+        "via": "Strada Imperatore",
+        "doc": null,
+        "id": 42,
+        "rot": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.833551483660957,
+          44.80422011011902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "PORTATA",
+        "prex_eser": null,
+        "x": 483339,
+        "y": 4960228,
+        "codice": "PZ01",
+        "comune": "Pozzolo Formigaro",
+        "localita": "CAPOLUOGO",
+        "via": "S.P. Pozzolo Villalvernia",
+        "doc": null,
+        "id": 43,
+        "rot": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.787919319019007,
+          44.79258796716305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "PORTATA",
+        "prex_eser": null,
+        "x": null,
+        "y": null,
+        "codice": "PZ02 FUORI ESERCIZIO",
+        "comune": "Pozzolo Formigaro",
+        "localita": "CAPOLUOGO",
+        "via": "Via Fossato Vignale",
+        "doc": null,
+        "id": 44,
+        "rot": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7809567196991,
+          44.791383713691
+        ]
+      }
+    }
+  ]
+}
