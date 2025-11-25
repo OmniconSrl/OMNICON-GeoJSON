@@ -1,0 +1,386 @@
+{
+  "type": "FeatureCollection",
+  "name": "rid_prex",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::32632"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "rot": 311,
+        "layer": "RA_03ridprex",
+        "comune": "Novi Ligure",
+        "marca": null,
+        "modello": null,
+        "materiale": null,
+        "dn": null,
+        "pn": null,
+        "prex_monte": null,
+        "alt_rel": null,
+        "prex_valle": null,
+        "data_ui": null,
+        "ui_operatore": null,
+        "tipo_giunz": null,
+        "anno_posa": 1980,
+        "x": 479936.01,
+        "y": 4959143.82,
+        "rotazione": 221.84,
+        "id": 7,
+        "quota": 164.5800018310547,
+        "pnrr": null,
+        "distretto_modello": "DNL02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.746408267769276,
+          44.78540450767754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "rot": 97.0124512307512,
+        "layer": "RA_03ridprex",
+        "comune": "Novi Ligure",
+        "marca": null,
+        "modello": null,
+        "materiale": null,
+        "dn": null,
+        "pn": null,
+        "prex_monte": null,
+        "alt_rel": null,
+        "prex_valle": null,
+        "data_ui": null,
+        "ui_operatore": null,
+        "tipo_giunz": null,
+        "anno_posa": 1980,
+        "x": 487233.11,
+        "y": 4956971.16,
+        "rotazione": 97.01,
+        "id": 120,
+        "quota": 190.8699951171875,
+        "pnrr": null,
+        "distretto_modello": "DNL03"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.838665418073333,
+          44.76602618716677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "rot": 13.1505036490584,
+        "layer": "RA_03ridprex",
+        "comune": "Novi Ligure",
+        "marca": null,
+        "modello": null,
+        "materiale": null,
+        "dn": null,
+        "pn": null,
+        "prex_monte": null,
+        "alt_rel": null,
+        "prex_valle": null,
+        "data_ui": null,
+        "ui_operatore": null,
+        "tipo_giunz": null,
+        "anno_posa": 1980,
+        "x": 485699.84,
+        "y": 4956745.71,
+        "rotazione": 13.15,
+        "id": 126,
+        "quota": 188.5399932861328,
+        "pnrr": null,
+        "distretto_modello": "DNL08.1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.819301437437494,
+          44.763959454785876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "rot": 140,
+        "layer": "RA_03ridprex",
+        "comune": "Novi Ligure",
+        "marca": null,
+        "modello": null,
+        "materiale": null,
+        "dn": null,
+        "pn": null,
+        "prex_monte": null,
+        "alt_rel": null,
+        "prex_valle": null,
+        "data_ui": null,
+        "ui_operatore": null,
+        "tipo_giunz": null,
+        "anno_posa": null,
+        "x": null,
+        "y": null,
+        "rotazione": null,
+        "id": 161,
+        "quota": null,
+        "pnrr": false,
+        "distretto_modello": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.819428705842144,
+          44.75067364529158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "rot": 90,
+        "layer": "RA_03ridprex",
+        "comune": "Novi Ligure",
+        "marca": null,
+        "modello": null,
+        "materiale": null,
+        "dn": null,
+        "pn": null,
+        "prex_monte": null,
+        "alt_rel": null,
+        "prex_valle": null,
+        "data_ui": null,
+        "ui_operatore": null,
+        "tipo_giunz": null,
+        "anno_posa": null,
+        "x": null,
+        "y": null,
+        "rotazione": null,
+        "id": 227,
+        "quota": null,
+        "pnrr": false,
+        "distretto_modello": "DNL01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.789167218897264,
+          44.782051031078836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "rot": 100,
+        "layer": null,
+        "comune": "Novi Ligure",
+        "marca": null,
+        "modello": null,
+        "materiale": null,
+        "dn": null,
+        "pn": null,
+        "prex_monte": null,
+        "alt_rel": null,
+        "prex_valle": null,
+        "data_ui": null,
+        "ui_operatore": null,
+        "tipo_giunz": null,
+        "anno_posa": null,
+        "x": null,
+        "y": null,
+        "rotazione": null,
+        "id": 229,
+        "quota": null,
+        "pnrr": false,
+        "distretto_modello": "DNL08.2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.838685435912389,
+          44.76586915069983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "rot": 200,
+        "layer": null,
+        "comune": "Novi Ligure",
+        "marca": null,
+        "modello": null,
+        "materiale": null,
+        "dn": null,
+        "pn": null,
+        "prex_monte": null,
+        "alt_rel": null,
+        "prex_valle": null,
+        "data_ui": null,
+        "ui_operatore": null,
+        "tipo_giunz": null,
+        "anno_posa": null,
+        "x": null,
+        "y": null,
+        "rotazione": null,
+        "id": 241,
+        "quota": null,
+        "pnrr": false,
+        "distretto_modello": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.838701427486612,
+          44.76593149430523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "rot": 70,
+        "layer": null,
+        "comune": "Novi Ligure",
+        "marca": null,
+        "modello": null,
+        "materiale": null,
+        "dn": null,
+        "pn": null,
+        "prex_monte": null,
+        "alt_rel": null,
+        "prex_valle": null,
+        "data_ui": null,
+        "ui_operatore": null,
+        "tipo_giunz": null,
+        "anno_posa": null,
+        "x": null,
+        "y": null,
+        "rotazione": null,
+        "id": 242,
+        "quota": null,
+        "pnrr": false,
+        "distretto_modello": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.829670304580366,
+          44.76666743170802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "rot": 90,
+        "layer": null,
+        "comune": "Novi Ligure",
+        "marca": null,
+        "modello": null,
+        "materiale": null,
+        "dn": null,
+        "pn": null,
+        "prex_monte": null,
+        "alt_rel": null,
+        "prex_valle": null,
+        "data_ui": null,
+        "ui_operatore": null,
+        "tipo_giunz": null,
+        "anno_posa": null,
+        "x": null,
+        "y": null,
+        "rotazione": null,
+        "id": 243,
+        "quota": null,
+        "pnrr": false,
+        "distretto_modello": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.775368769780306,
+          44.77961716613031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "rot": 215,
+        "layer": null,
+        "comune": "Novi Ligure",
+        "marca": null,
+        "modello": null,
+        "materiale": null,
+        "dn": null,
+        "pn": null,
+        "prex_monte": null,
+        "alt_rel": null,
+        "prex_valle": null,
+        "data_ui": null,
+        "ui_operatore": null,
+        "tipo_giunz": null,
+        "anno_posa": null,
+        "x": null,
+        "y": null,
+        "rotazione": null,
+        "id": 244,
+        "quota": null,
+        "pnrr": false,
+        "distretto_modello": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.819604900971626,
+          44.7670419573949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "rot": 125,
+        "layer": null,
+        "comune": "Novi Ligure",
+        "marca": null,
+        "modello": null,
+        "materiale": null,
+        "dn": null,
+        "pn": null,
+        "prex_monte": null,
+        "alt_rel": null,
+        "prex_valle": null,
+        "data_ui": null,
+        "ui_operatore": null,
+        "tipo_giunz": null,
+        "anno_posa": null,
+        "x": null,
+        "y": null,
+        "rotazione": null,
+        "id": 245,
+        "quota": null,
+        "pnrr": false,
+        "distretto_modello": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.819905659891514,
+          44.76671909678317
+        ]
+      }
+    }
+  ]
+}
