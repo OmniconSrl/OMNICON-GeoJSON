@@ -11,300 +11,12 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 281,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": "GS",
-        "dn": "DN80",
-        "pn": "16",
-        "tipo_valv": "SPT",
-        "corpo": "PIATTO",
-        "anno_posa": 1980,
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "x": 482910.05,
-        "y": 4956070.51,
-        "rotazione": 280.74,
-        "id": 128,
-        "codice": null,
-        "comune": "Novi Ligure",
-        "distretto": [],
-        "cod_valv": "CH13",
-        "distretto_modello": "DNL06",
-        "valv_distr": true,
-        "manovra": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.784117778158478,
-          44.75782853580951
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "rot": 105,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": "GS",
-        "dn": "DN50",
-        "pn": "16",
-        "tipo_valv": "TEG",
-        "corpo": null,
-        "anno_posa": 1980,
-        "stato": "CHIUSA",
-        "tipologia": "Valvola a 2 vie",
-        "x": 485616.46,
-        "y": 4957063.04,
-        "rotazione": 104.56,
-        "id": 745,
-        "codice": "VA02",
-        "comune": "Novi Ligure",
-        "distretto": [],
-        "cod_valv": "VA02",
-        "distretto_modello": "DNL08.1",
-        "valv_distr": true,
-        "manovra": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.818238922480644,
-          44.76681447882191
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "rot": 323,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": "GS",
-        "dn": "DN100",
-        "pn": "16",
-        "tipo_valv": "SPT",
-        "corpo": "PIATTO",
-        "anno_posa": 1980,
-        "stato": "CHIUSA",
-        "tipologia": "Valvola a 2 vie",
-        "x": 482081.11,
-        "y": 4956053.82,
-        "rotazione": 322.54,
-        "id": 51,
-        "codice": null,
-        "comune": "Novi Ligure",
-        "distretto": null,
-        "cod_valv": "CH12",
-        "distretto_modello": "DNL06",
-        "valv_distr": true,
-        "manovra": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.773607671081544,
-          44.75764569711825
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "rot": 325,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": 1980,
-        "stato": "CHIUSA",
-        "tipologia": "Valvola a 2 vie",
-        "x": 481773.19,
-        "y": 4956813.47,
-        "rotazione": 325.18,
-        "id": 19,
-        "codice": null,
-        "comune": "Novi Ligure",
-        "distretto": null,
-        "cod_valv": "CH15",
-        "distretto_modello": "DNL02",
-        "valv_distr": true,
-        "manovra": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.769681831780233,
-          44.764480120920055
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "rot": 72,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": "GS",
-        "dn": "DN80",
-        "pn": "16",
-        "tipo_valv": "SPT",
-        "corpo": "PIATTO",
-        "anno_posa": 1980,
-        "stato": "CHIUSA",
-        "tipologia": "Valvola a 2 vie",
-        "x": 481864.09,
-        "y": 4956743.92,
-        "rotazione": 72.44,
-        "id": 20,
-        "codice": null,
-        "comune": "Novi Ligure",
-        "distretto": null,
-        "cod_valv": "CH16",
-        "distretto_modello": "DNL07",
-        "valv_distr": true,
-        "manovra": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.770847528842364,
-          44.763882834522974
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "rot": 70,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": "GS",
-        "dn": "DN80",
-        "pn": "16",
-        "tipo_valv": "SPT",
-        "corpo": "PIATTO",
-        "anno_posa": 1980,
-        "stato": "CHIUSA",
-        "tipologia": "Valvola a 2 vie",
-        "x": 481938.12,
-        "y": 4956695.91,
-        "rotazione": 69.83,
-        "id": 23,
-        "codice": null,
-        "comune": "Novi Ligure",
-        "distretto": null,
-        "cod_valv": "CH17",
-        "distretto_modello": "DNL07",
-        "valv_distr": true,
-        "manovra": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.771784896983824,
-          44.76345509107236
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "rot": 246,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": "AC",
-        "dn": "DN50",
-        "pn": "16",
-        "tipo_valv": "VSPT",
-        "corpo": null,
-        "anno_posa": 1980,
-        "stato": "CHIUSA",
-        "tipologia": "Valvola a 2 vie",
-        "x": 482150.55,
-        "y": 4956592.96,
-        "rotazione": 245.9,
-        "id": 29,
-        "codice": null,
-        "comune": "Novi Ligure",
-        "distretto": null,
-        "cod_valv": "CH18",
-        "distretto_modello": "DNL07",
-        "valv_distr": true,
-        "manovra": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.774465493792658,
-          44.762517104666955
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "rot": 72,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": "GS",
-        "dn": "DN100",
-        "pn": "16",
-        "tipo_valv": "SPT",
-        "corpo": "PIATTO",
-        "anno_posa": 1980,
-        "stato": "CHIUSA",
-        "tipologia": "Valvola a 2 vie",
-        "x": 482111.94,
-        "y": 4956135.68,
-        "rotazione": 71.83,
-        "id": 48,
-        "codice": null,
-        "comune": "Novi Ligure",
-        "distretto": null,
-        "cod_valv": "CH11",
-        "distretto_modello": "DNL07",
-        "valv_distr": true,
-        "manovra": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.773986133665963,
-          44.7583870943489
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "rot": 354,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": "GS",
-        "dn": "DN150",
-        "pn": "25",
-        "tipo_valv": "SPT",
-        "corpo": "PIATTO",
-        "anno_posa": 1980,
-        "stato": "CHIUSA",
-        "tipologia": "Valvola a 2 vie",
-        "x": 480693.86,
-        "y": 4957614.59,
-        "rotazione": 353.83,
         "id": 4,
         "codice": null,
         "comune": "Novi Ligure",
-        "distretto": [],
-        "cod_valv": "CH02",
-        "distretto_modello": "DNL09",
-        "valv_distr": true,
-        "manovra": null
+        "distretto": "DNL09"
       },
       "geometry": {
         "type": "Point",
@@ -317,334 +29,138 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 71,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": "GH",
-        "dn": "DN50",
-        "pn": "16",
-        "tipo_valv": "SPT",
-        "corpo": "PIATTO",
-        "anno_posa": 1980,
+        "stato": "CHIUSA",
+        "tipologia": "Valvola a 2 vie",
+        "id": 19,
+        "codice": null,
+        "comune": "Novi Ligure",
+        "distretto": "DNL02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769681831780233,
+          44.764480120920055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stato": "CHIUSA",
+        "tipologia": "Valvola a 2 vie",
+        "id": 20,
+        "codice": null,
+        "comune": "Novi Ligure",
+        "distretto": "DNL07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770847528842364,
+          44.763882834522974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stato": "CHIUSA",
+        "tipologia": "Valvola a 2 vie",
+        "id": 23,
+        "codice": null,
+        "comune": "Novi Ligure",
+        "distretto": "DNL07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.771784896983824,
+          44.76345509107236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stato": "CHIUSA",
+        "tipologia": "Valvola a 2 vie",
+        "id": 29,
+        "codice": null,
+        "comune": "Novi Ligure",
+        "distretto": "DNL07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.774465493792658,
+          44.762517104666955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stato": "CHIUSA",
+        "tipologia": "Valvola a 2 vie",
+        "id": 48,
+        "codice": null,
+        "comune": "Novi Ligure",
+        "distretto": "DNL07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.773986133665963,
+          44.7583870943489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stato": "CHIUSA",
+        "tipologia": "Valvola a 2 vie",
+        "id": 51,
+        "codice": null,
+        "comune": "Novi Ligure",
+        "distretto": "DNL06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.773607671081544,
+          44.75764569711825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stato": "CHIUSA",
+        "tipologia": "Valvola a 2 vie",
+        "id": 128,
+        "codice": null,
+        "comune": "Novi Ligure",
+        "distretto": "DNL06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.784117778158478,
+          44.75782853580951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": 483217.19,
-        "y": 4957156.74,
-        "rotazione": 70.56,
-        "id": 6120,
-        "codice": null,
-        "comune": "Novi Ligure",
-        "distretto": null,
-        "cod_valv": null,
-        "distretto_modello": "DNL01.2",
-        "valv_distr": true,
-        "manovra": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.78794317263584,
-          44.76760358664112
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "rot": 91,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": "GS",
-        "dn": "DN100",
-        "pn": "16",
-        "tipo_valv": "SPT",
-        "corpo": "PIATTO",
-        "anno_posa": 1980,
-        "stato": "APERTA",
-        "tipologia": "Valvola a 2 vie",
-        "x": 484649.8,
-        "y": 4956527.48,
-        "rotazione": 90.79,
-        "id": 7060,
-        "codice": null,
-        "comune": "Novi Ligure",
-        "distretto": null,
-        "cod_valv": null,
-        "distretto_modello": "DNL01.3",
-        "valv_distr": true,
-        "manovra": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.806039643214755,
-          44.76197308334095
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "rot": 80,
-        "layer": null,
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": null,
-        "stato": "CHIUSA",
-        "tipologia": "Valvola a 2 vie",
-        "x": null,
-        "y": null,
-        "rotazione": null,
-        "id": 9316,
-        "codice": null,
-        "comune": "Novi Ligure",
-        "distretto": [],
-        "cod_valv": "VA15NEW",
-        "distretto_modello": null,
-        "valv_distr": true,
-        "manovra": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.789316711057312,
-          44.77096819393993
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "rot": 315,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": "GH",
-        "dn": "DN200",
-        "pn": "16",
-        "tipo_valv": "SPT",
-        "corpo": "PIATTO",
-        "anno_posa": 1980,
-        "stato": "CHIUSA",
-        "tipologia": "Valvola a 2 vie",
-        "x": 483311.81,
-        "y": 4956682.26,
-        "rotazione": 315.18,
-        "id": 943,
-        "codice": null,
-        "comune": "Novi Ligure",
-        "distretto": [],
-        "cod_valv": "VA27BIS",
-        "distretto_modello": "DNL01",
-        "valv_distr": true,
-        "manovra": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.78909523798819,
-          44.76332190289513
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "rot": 45,
-        "layer": null,
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": 2020,
-        "stato": "CHIUSA",
-        "tipologia": "Valvola a 2 vie",
-        "x": null,
-        "y": null,
-        "rotazione": null,
-        "id": 7574,
-        "codice": null,
-        "comune": "Novi Ligure",
-        "distretto": [],
-        "cod_valv": "CH07",
-        "distretto_modello": "DNL03",
-        "valv_distr": true,
-        "manovra": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.809833152763932,
-          44.77716353986301
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "rot": 136,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": "GS",
-        "dn": "DN100",
-        "pn": "16",
-        "tipo_valv": "SPT",
-        "corpo": "PIATTO",
-        "anno_posa": 1980,
-        "stato": "CHIUSA",
-        "tipologia": "Valvola a 2 vie",
-        "x": 483617.11,
-        "y": 4956432.93,
-        "rotazione": 448,
-        "id": 8156,
-        "codice": null,
-        "comune": "Novi Ligure",
-        "distretto": null,
-        "cod_valv": "VA12",
-        "distretto_modello": "DNL01",
-        "valv_distr": true,
-        "manovra": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.792934668953212,
-          44.761141693587696
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "rot": 47,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": "GS",
-        "dn": "DN400",
-        "pn": "10",
-        "tipo_valv": "SPT",
-        "corpo": "PIATTO",
-        "anno_posa": 2005,
-        "stato": "CHIUSA",
-        "tipologia": "Valvola a 2 vie",
-        "x": 482113.02,
-        "y": 4957466.73,
-        "rotazione": 46.85,
-        "id": 1050,
-        "codice": null,
-        "comune": "Novi Ligure",
-        "distretto": [],
-        "cod_valv": "VA16BIS",
-        "distretto_modello": "DNL02",
-        "valv_distr": true,
-        "manovra": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.77395299350619,
-          44.77036948788796
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "rot": 35,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": "GS",
-        "dn": "DN400",
-        "pn": "16",
-        "tipo_valv": "SPT",
-        "corpo": "PIATTO",
-        "anno_posa": 1980,
-        "stato": "CHIUSA",
-        "tipologia": "Valvola a 2 vie",
-        "x": 482741.07,
-        "y": 4956976.79,
-        "rotazione": 484,
-        "id": 8675,
-        "codice": null,
-        "comune": "Novi Ligure",
-        "distretto": [],
-        "cod_valv": "VA16",
-        "distretto_modello": "DNL02",
-        "valv_distr": true,
-        "manovra": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.781872283146933,
-          44.765934514926315
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "rot": 257,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": "GH",
-        "dn": "DN80",
-        "pn": "16",
-        "tipo_valv": "SPT",
-        "corpo": "PIATTO",
-        "anno_posa": 1980,
-        "stato": "APERTA",
-        "tipologia": "Valvola a 2 vie",
-        "x": 483834.62,
-        "y": 4956986.25,
-        "rotazione": 256.88,
-        "id": 237,
-        "codice": null,
-        "comune": "Novi Ligure",
-        "distretto": null,
-        "cod_valv": null,
-        "distretto_modello": "DNL01.2",
-        "valv_distr": true,
-        "manovra": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.795724815613923,
-          44.766085119085446
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "rot": 165,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": "GS",
-        "dn": "DN150",
-        "pn": "16",
-        "tipo_valv": "SPT",
-        "corpo": "PIATTO",
-        "anno_posa": 1980,
-        "stato": "APERTA",
-        "tipologia": "Valvola a 2 vie",
-        "x": 483978.59,
-        "y": 4956943.62,
-        "rotazione": 165.26,
         "id": 231,
         "codice": null,
         "comune": "Novi Ligure",
-        "distretto": [],
-        "cod_valv": null,
-        "distretto_modello": "DNL01.2",
-        "valv_distr": true,
-        "manovra": null
+        "distretto": "DNL01.2"
       },
       "geometry": {
         "type": "Point",
@@ -657,28 +173,12 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 256,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": "GS",
-        "dn": "DN150",
-        "pn": "16",
-        "tipo_valv": "SPT",
-        "corpo": "PIATTO",
-        "anno_posa": 1980,
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "x": 483725.36,
-        "y": 4957016.75,
-        "rotazione": 255.68,
         "id": 234,
         "codice": null,
         "comune": "Novi Ligure",
-        "distretto": [],
-        "cod_valv": "VA14",
-        "distretto_modello": "DNL01.2",
-        "valv_distr": true,
-        "manovra": null
+        "distretto": "DNL01.2"
       },
       "geometry": {
         "type": "Point",
@@ -691,28 +191,30 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 77,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": "GS",
-        "dn": "DN150",
-        "pn": "16",
-        "tipo_valv": "SPT",
-        "corpo": "PIATTO",
-        "anno_posa": 1980,
+        "stato": "APERTA",
+        "tipologia": "Valvola a 2 vie",
+        "id": 237,
+        "codice": null,
+        "comune": "Novi Ligure",
+        "distretto": "DNL01.2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.795724815613923,
+          44.766085119085446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "x": 483852.62,
-        "y": 4957071.64,
-        "rotazione": 76.88,
         "id": 238,
         "codice": null,
         "comune": "Novi Ligure",
-        "distretto": [],
-        "cod_valv": "VA13NEW",
-        "distretto_modello": "DNL01.2",
-        "valv_distr": true,
-        "manovra": null
+        "distretto": "DNL01.2"
       },
       "geometry": {
         "type": "Point",
@@ -725,28 +227,12 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 78,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": "GS",
-        "dn": "DN150",
-        "pn": "16",
-        "tipo_valv": "SPT",
-        "corpo": "PIATTO",
-        "anno_posa": 1980,
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "x": 483999.57,
-        "y": 4957063.06,
-        "rotazione": 78.12,
         "id": 250,
         "codice": null,
         "comune": "Novi Ligure",
-        "distretto": [],
-        "cod_valv": "VA01NEW",
-        "distretto_modello": "DNL01.2",
-        "valv_distr": true,
-        "manovra": null
+        "distretto": "DNL01.2"
       },
       "geometry": {
         "type": "Point",
@@ -759,28 +245,12 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 168,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": "GS",
-        "dn": "DN100",
-        "pn": "16",
-        "tipo_valv": "SPT",
-        "corpo": "PIATTO",
-        "anno_posa": 1980,
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "x": 483301.31,
-        "y": 4957412.56,
-        "rotazione": 167.51,
         "id": 279,
         "codice": null,
         "comune": "Novi Ligure",
-        "distretto": [],
-        "cod_valv": "VA18",
-        "distretto_modello": "DNL01.2",
-        "valv_distr": true,
-        "manovra": null
+        "distretto": "DNL01.2"
       },
       "geometry": {
         "type": "Point",
@@ -793,28 +263,12 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 74,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": "GS",
-        "dn": "DN150",
-        "pn": "16",
-        "tipo_valv": "SPT",
-        "corpo": "PIATTO",
-        "anno_posa": 1980,
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "x": 483555.19,
-        "y": 4957687.77,
-        "rotazione": 73.67,
         "id": 285,
         "codice": null,
         "comune": "Novi Ligure",
-        "distretto": [],
-        "cod_valv": "VA19",
-        "distretto_modello": "DNL01",
-        "valv_distr": true,
-        "manovra": null
+        "distretto": "DNL01"
       },
       "geometry": {
         "type": "Point",
@@ -827,28 +281,12 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 344,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": "GS",
-        "dn": "DN100",
-        "pn": "16",
-        "tipo_valv": "SPT",
-        "corpo": "PIATTO",
-        "anno_posa": 1980,
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "x": 483322.52,
-        "y": 4957487.04,
-        "rotazione": 344.26,
         "id": 290,
         "codice": null,
         "comune": "Novi Ligure",
-        "distretto": [],
-        "cod_valv": "VA22",
-        "distretto_modello": "DNL01.2",
-        "valv_distr": true,
-        "manovra": null
+        "distretto": "DNL01.2"
       },
       "geometry": {
         "type": "Point",
@@ -861,28 +299,12 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 164,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": "GH",
-        "dn": "DN50",
-        "pn": "16",
-        "tipo_valv": "SPT",
-        "corpo": "PIATTO",
-        "anno_posa": 1980,
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "x": 483251.93,
-        "y": 4957267.53,
-        "rotazione": 164.4,
         "id": 295,
         "codice": null,
         "comune": "Novi Ligure",
-        "distretto": [],
-        "cod_valv": "VA17BIS",
-        "distretto_modello": "DNL01.2",
-        "valv_distr": true,
-        "manovra": null
+        "distretto": "DNL01.2"
       },
       "geometry": {
         "type": "Point",
@@ -895,28 +317,12 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 346,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": "GS",
-        "dn": "DN150",
-        "pn": "16",
-        "tipo_valv": "SPT",
-        "corpo": "PIATTO",
-        "anno_posa": 1980,
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "x": 483052,
-        "y": 4956550.84,
-        "rotazione": 346.04,
         "id": 316,
         "codice": null,
         "comune": "Novi Ligure",
-        "distretto": [],
-        "cod_valv": "VA27",
-        "distretto_modello": "DNL02",
-        "valv_distr": true,
-        "manovra": null
+        "distretto": "DNL02"
       },
       "geometry": {
         "type": "Point",
@@ -929,28 +335,12 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 79,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": "GS",
-        "dn": "DN150",
-        "pn": "16",
-        "tipo_valv": "SPT",
-        "corpo": "PIATTO",
-        "anno_posa": 1980,
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "x": 483710.48,
-        "y": 4957648.89,
-        "rotazione": 79.18,
         "id": 414,
         "codice": null,
         "comune": "Novi Ligure",
-        "distretto": [],
-        "cod_valv": "VA20",
-        "distretto_modello": "DNL01",
-        "valv_distr": true,
-        "manovra": null
+        "distretto": "DNL01"
       },
       "geometry": {
         "type": "Point",
@@ -963,28 +353,12 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 3,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": 1980,
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "x": 481445.99,
-        "y": 4957377.84,
-        "rotazione": 2.54,
         "id": 458,
         "codice": null,
         "comune": "Novi Ligure",
-        "distretto": [],
-        "cod_valv": "CH06",
-        "distretto_modello": "DNL09",
-        "valv_distr": true,
-        "manovra": null
+        "distretto": "DNL09"
       },
       "geometry": {
         "type": "Point",
@@ -997,62 +371,12 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 92,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": "GG",
-        "dn": "DN50",
-        "pn": "16",
-        "tipo_valv": "VTEG",
-        "corpo": null,
-        "anno_posa": 1980,
-        "stato": "APERTA",
-        "tipologia": "Valvola a 2 vie",
-        "x": 484454.21,
-        "y": 4956986.84,
-        "rotazione": 92.17,
-        "id": 554,
-        "codice": null,
-        "comune": "Novi Ligure",
-        "distretto": null,
-        "cod_valv": null,
-        "distretto_modello": "DNL01",
-        "valv_distr": true,
-        "manovra": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.803554318281925,
-          44.766104180422346
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "rot": 272,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": "GS",
-        "dn": "DN50",
-        "pn": "16",
-        "tipo_valv": "SPT",
-        "corpo": "PIATTO",
-        "anno_posa": 1980,
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "x": 484461.23,
-        "y": 4956799.16,
-        "rotazione": 272.17,
         "id": 553,
         "codice": null,
         "comune": "Novi Ligure",
-        "distretto": [],
-        "cod_valv": "VA03NEW",
-        "distretto_modello": "DNL01.3",
-        "valv_distr": true,
-        "manovra": null
+        "distretto": "DNL01.3"
       },
       "geometry": {
         "type": "Point",
@@ -1065,28 +389,30 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 307,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": "GH",
-        "dn": "DN50",
-        "pn": "16",
-        "tipo_valv": "SPT",
-        "corpo": "PIATTO",
-        "anno_posa": 1980,
+        "stato": "APERTA",
+        "tipologia": "Valvola a 2 vie",
+        "id": 554,
+        "codice": null,
+        "comune": "Novi Ligure",
+        "distretto": "DNL01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.803554318281925,
+          44.766104180422346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "x": 484052.06,
-        "y": 4956738.12,
-        "rotazione": 307.34,
         "id": 559,
         "codice": null,
         "comune": "Novi Ligure",
-        "distretto": null,
-        "cod_valv": "VA06",
-        "distretto_modello": "DNL01",
-        "valv_distr": true,
-        "manovra": null
+        "distretto": "DNL01"
       },
       "geometry": {
         "type": "Point",
@@ -1099,28 +425,12 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 307,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": "GH",
-        "dn": "DN100",
-        "pn": "16",
-        "tipo_valv": "SPT",
-        "corpo": "PIATTO",
-        "anno_posa": 1980,
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "x": 484050.61,
-        "y": 4956736.97,
-        "rotazione": 306.77,
         "id": 560,
         "codice": null,
         "comune": "Novi Ligure",
-        "distretto": null,
-        "cod_valv": "VA07",
-        "distretto_modello": "DNL01",
-        "valv_distr": true,
-        "manovra": null
+        "distretto": "DNL01"
       },
       "geometry": {
         "type": "Point",
@@ -1133,28 +443,30 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 320,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": "GS",
-        "dn": "DN150",
-        "pn": "16",
-        "tipo_valv": "SPT",
-        "corpo": "PIATTO",
-        "anno_posa": 1980,
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "x": 483648.52,
-        "y": 4956163.59,
-        "rotazione": 320.46,
+        "id": 745,
+        "codice": "VA02",
+        "comune": "Novi Ligure",
+        "distretto": "DNL08.1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.818238922480644,
+          44.76681447882191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stato": "CHIUSA",
+        "tipologia": "Valvola a 2 vie",
         "id": 906,
         "codice": null,
         "comune": "Novi Ligure",
-        "distretto": null,
-        "cod_valv": "CH10",
-        "distretto_modello": "DNL02",
-        "valv_distr": true,
-        "manovra": null
+        "distretto": "DNL02"
       },
       "geometry": {
         "type": "Point",
@@ -1167,28 +479,30 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 346,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": "GS",
-        "dn": "DN150",
-        "pn": "16",
-        "tipo_valv": "SPT",
-        "corpo": "PIATTO",
-        "anno_posa": 1980,
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "x": 483272.86,
-        "y": 4957313.81,
-        "rotazione": 345.93,
+        "id": 943,
+        "codice": null,
+        "comune": "Novi Ligure",
+        "distretto": "DNL01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.78909523798819,
+          44.76332190289513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stato": "CHIUSA",
+        "tipologia": "Valvola a 2 vie",
         "id": 955,
         "codice": null,
         "comune": "Novi Ligure",
-        "distretto": [],
-        "cod_valv": "VA17",
-        "distretto_modello": "DNL01.2",
-        "valv_distr": true,
-        "manovra": null
+        "distretto": "DNL01.2"
       },
       "geometry": {
         "type": "Point",
@@ -1201,96 +515,12 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 34,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": "OT",
-        "dn": "DN80",
-        "pn": "16",
-        "tipo_valv": "SPT",
-        "corpo": "PIATTO",
-        "anno_posa": 1980,
-        "stato": "APERTA",
-        "tipologia": "Valvola a 2 vie",
-        "x": 484248.07,
-        "y": 4957268.55,
-        "rotazione": 34.24,
-        "id": 1027,
-        "codice": null,
-        "comune": "Novi Ligure",
-        "distretto": null,
-        "cod_valv": null,
-        "distretto_modello": "DNL01",
-        "valv_distr": true,
-        "manovra": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.80094067570794,
-          44.768635716554456
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "rot": 300,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": "GH",
-        "dn": "DN80",
-        "pn": "16",
-        "tipo_valv": "SPT",
-        "corpo": "PIATTO",
-        "anno_posa": 1980,
-        "stato": "APERTA",
-        "tipologia": "Valvola a 2 vie",
-        "x": 484311.47,
-        "y": 4956970.23,
-        "rotazione": 299.61,
-        "id": 1025,
-        "codice": null,
-        "comune": "Novi Ligure",
-        "distretto": null,
-        "cod_valv": null,
-        "distretto_modello": "DNL01.2",
-        "valv_distr": true,
-        "manovra": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.801804182150397,
-          44.765903716690154
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "rot": 300,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": "GH",
-        "dn": "DN50",
-        "pn": "16",
-        "tipo_valv": "SPT",
-        "corpo": "PIATTO",
-        "anno_posa": 1980,
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "x": 484309.31,
-        "y": 4956968.98,
-        "rotazione": 300.15,
         "id": 1024,
         "codice": null,
         "comune": "Novi Ligure",
-        "distretto": [],
-        "cod_valv": "VA24",
-        "distretto_modello": "DNL01.2",
-        "valv_distr": true,
-        "manovra": null
+        "distretto": "DNL01.2"
       },
       "geometry": {
         "type": "Point",
@@ -1303,28 +533,66 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 270,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": "GS",
-        "dn": "DN100",
-        "pn": "10",
-        "tipo_valv": "VSPT",
-        "corpo": "PIATTO",
-        "anno_posa": 2005,
+        "stato": "APERTA",
+        "tipologia": "Valvola a 2 vie",
+        "id": 1025,
+        "codice": null,
+        "comune": "Novi Ligure",
+        "distretto": "DNL01.2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.801804182150397,
+          44.765903716690154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stato": "APERTA",
+        "tipologia": "Valvola a 2 vie",
+        "id": 1027,
+        "codice": null,
+        "comune": "Novi Ligure",
+        "distretto": "DNL01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.80094067570794,
+          44.768635716554456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "x": 480659.01,
-        "y": 4957326.65,
-        "rotazione": 269.66,
+        "id": 1050,
+        "codice": null,
+        "comune": "Novi Ligure",
+        "distretto": "DNL02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.77395299350619,
+          44.77036948788796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stato": "CHIUSA",
+        "tipologia": "Valvola a 2 vie",
         "id": 1065,
         "codice": null,
         "comune": "Novi Ligure",
-        "distretto": [],
-        "cod_valv": "CH04",
-        "distretto_modello": "DNL09",
-        "valv_distr": true,
-        "manovra": null
+        "distretto": "DNL09"
       },
       "geometry": {
         "type": "Point",
@@ -1337,62 +605,12 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 271,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": "GS",
-        "dn": "DN100",
-        "pn": "10",
-        "tipo_valv": "VSPT",
-        "corpo": "PIATTO",
-        "anno_posa": 2005,
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "x": 481276.18,
-        "y": 4957181.33,
-        "rotazione": 270.92,
-        "id": 1063,
-        "codice": null,
-        "comune": "Novi Ligure",
-        "distretto": [],
-        "cod_valv": "CH05BIS",
-        "distretto_modello": "DNL02",
-        "valv_distr": true,
-        "manovra": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.763387956605962,
-          44.76777886945578
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "rot": 316,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": "GS",
-        "dn": "DN65",
-        "pn": null,
-        "tipo_valv": "SPT",
-        "corpo": "PIATTO",
-        "anno_posa": 2005,
-        "stato": "CHIUSA",
-        "tipologia": "Valvola a 2 vie",
-        "x": 483788.83,
-        "y": 4956588.62,
-        "rotazione": 315.93,
         "id": 1417,
         "codice": null,
         "comune": "Novi Ligure",
-        "distretto": null,
-        "cod_valv": "VA10NEW",
-        "distretto_modello": "DNL01.3",
-        "valv_distr": true,
-        "manovra": null
+        "distretto": "DNL01.3"
       },
       "geometry": {
         "type": "Point",
@@ -1405,28 +623,12 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 92,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": 2009,
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "x": 481276.47,
-        "y": 4957235.76,
-        "rotazione": 91.53,
         "id": 5741,
         "codice": null,
         "comune": "Novi Ligure",
-        "distretto": [],
-        "cod_valv": "CH05",
-        "distretto_modello": "DNL09",
-        "valv_distr": true,
-        "manovra": null
+        "distretto": "DNL09"
       },
       "geometry": {
         "type": "Point",
@@ -1439,28 +641,66 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 127,
-        "layer": null,
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": null,
+        "stato": "APERTA",
+        "tipologia": "Valvola a 2 vie",
+        "id": 6120,
+        "codice": null,
+        "comune": "Novi Ligure",
+        "distretto": "DNL01.2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.78794317263584,
+          44.76760358664112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stato": "APERTA",
+        "tipologia": "Valvola a 2 vie",
+        "id": 7060,
+        "codice": null,
+        "comune": "Novi Ligure",
+        "distretto": "DNL01.3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.806039643214755,
+          44.76197308334095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "x": null,
-        "y": null,
-        "rotazione": null,
+        "id": 7574,
+        "codice": null,
+        "comune": "Novi Ligure",
+        "distretto": "DNL03"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.809833152763932,
+          44.77716353986301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stato": "CHIUSA",
+        "tipologia": "Valvola a 2 vie",
         "id": 7966,
         "codice": null,
         "comune": "Novi Ligure",
-        "distretto": [],
-        "cod_valv": "CH14",
-        "distretto_modello": "DNL04",
-        "valv_distr": true,
-        "manovra": null
+        "distretto": "DNL04"
       },
       "geometry": {
         "type": "Point",
@@ -1473,28 +713,12 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 130,
-        "layer": null,
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": null,
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "x": null,
-        "y": null,
-        "rotazione": null,
         "id": 7990,
         "codice": null,
         "comune": "Novi Ligure",
-        "distretto": [],
-        "cod_valv": "VA04",
-        "distretto_modello": "DNL01",
-        "valv_distr": true,
-        "manovra": null
+        "distretto": "DNL01"
       },
       "geometry": {
         "type": "Point",
@@ -1507,28 +731,48 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 311,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": "GS",
-        "dn": "DN63",
-        "pn": null,
-        "tipo_valv": "VTEG",
-        "corpo": null,
-        "anno_posa": 2005,
+        "stato": "CHIUSA",
+        "tipologia": "Valvola a 2 vie",
+        "id": 8152,
+        "codice": null,
+        "comune": "Novi Ligure",
+        "distretto": "DNL01.3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.794235256407685,
+          44.76213298921197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stato": "CHIUSA",
+        "tipologia": "Valvola a 2 vie",
+        "id": 8156,
+        "codice": null,
+        "comune": "Novi Ligure",
+        "distretto": "DNL01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.792934668953212,
+          44.761141693587696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": 483780.53,
-        "y": 4956596.22,
-        "rotazione": 449,
         "id": 8157,
         "codice": null,
         "comune": "Novi Ligure",
-        "distretto": null,
-        "cod_valv": null,
-        "distretto_modello": "DNL01",
-        "valv_distr": true,
-        "manovra": null
+        "distretto": "DNL01"
       },
       "geometry": {
         "type": "Point",
@@ -1541,34 +785,36 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 316,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": "GS",
-        "dn": "DN80",
-        "pn": "16",
-        "tipo_valv": "SPT",
-        "corpo": "PIATTO",
-        "anno_posa": 1980,
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "x": 483716.92,
-        "y": 4956547.7,
-        "rotazione": 444,
-        "id": 8152,
+        "id": 8675,
         "codice": null,
         "comune": "Novi Ligure",
-        "distretto": null,
-        "cod_valv": "VA11",
-        "distretto_modello": "DNL01.3",
-        "valv_distr": true,
-        "manovra": null
+        "distretto": "DNL02"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.794235256407685,
-          44.76213298921197
+          8.781872283146933,
+          44.765934514926315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stato": "CHIUSA",
+        "tipologia": "Valvola a 2 vie",
+        "id": 9316,
+        "codice": null,
+        "comune": "Novi Ligure",
+        "distretto": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.789316711057312,
+          44.77096819393993
         ]
       }
     }
