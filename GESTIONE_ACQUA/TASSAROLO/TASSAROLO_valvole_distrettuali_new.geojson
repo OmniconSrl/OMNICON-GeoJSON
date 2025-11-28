@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection",
+  "name": "valvole_distrettuali",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::32632"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stato": "CHIUSA",
+        "tipologia": "Valvola a 2 vie",
+        "id": 1193,
+        "codice": null,
+        "comune": "Tassarolo",
+        "distretto": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.76979350648229,
+          44.72601123447774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stato": "CHIUSA",
+        "tipologia": "Valvola a 2 vie",
+        "id": 8676,
+        "codice": null,
+        "comune": "Tassarolo",
+        "distretto": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.756087624442388,
+          44.73173630897449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stato": "CHIUSA",
+        "tipologia": "Valvola a 2 vie",
+        "id": 9315,
+        "codice": null,
+        "comune": "Tassarolo",
+        "distretto": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769754854295334,
+          44.72656584232147
+        ]
+      }
+    }
+  ]
+}
