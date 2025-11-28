@@ -11,31 +11,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 340,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": 1980,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": 481882.28,
-        "y": 4953256.61,
-        "rotazione": 339.94,
         "id": 1178,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": [
-          "D2",
-          "D4"
-        ],
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -48,28 +28,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 138,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": 1980,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": 481850.23,
-        "y": 4953196.32,
-        "rotazione": 49.36,
         "id": 1179,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": null,
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -82,28 +45,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 70,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": 1980,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": 481898.79,
-        "y": 4953083.65,
-        "rotazione": 329.17,
         "id": 1180,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": null,
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -116,28 +62,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 345,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": 1980,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": 482206.68,
-        "y": 4952974.46,
-        "rotazione": 344.95,
         "id": 1181,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": null,
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -150,31 +79,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 342,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": 1980,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": 482326.7,
-        "y": 4952923.04,
-        "rotazione": 342.23,
         "id": 1182,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": [
-          "D4",
-          "D5"
-        ],
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -187,28 +96,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 352,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": 1980,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": 481873.77,
-        "y": 4952826.48,
-        "rotazione": 352.16,
         "id": 1183,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": null,
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -221,31 +113,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 319,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": 1980,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": 481746.89,
-        "y": 4952883.16,
-        "rotazione": 319.47,
         "id": 1184,
-        "codice": "V5",
         "comune": "Tassarolo",
-        "distretto": [
-          "D4",
-          "D8"
-        ],
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -258,31 +130,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 345,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": 1980,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": 482331.21,
-        "y": 4952921.7,
-        "rotazione": 344.86,
         "id": 1185,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": [
-          "D5",
-          "D6"
-        ],
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -295,31 +147,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 347,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": 1980,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": 481764.04,
-        "y": 4952885.36,
-        "rotazione": 346.52,
         "id": 1186,
-        "codice": "V6",
         "comune": "Tassarolo",
-        "distretto": [
-          "D4",
-          "D6"
-        ],
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -332,28 +164,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 150,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": 1980,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": 481726.84,
-        "y": 4952811.29,
-        "rotazione": 59.83,
         "id": 1187,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": null,
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -366,28 +181,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 239,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": 1980,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": 481727.33,
-        "y": 4952806.92,
-        "rotazione": 238.64,
         "id": 1188,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": null,
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -400,31 +198,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 332,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": 1980,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": 481677.92,
-        "y": 4952828.81,
-        "rotazione": 332.47,
         "id": 1190,
-        "codice": "V4",
         "comune": "Tassarolo",
-        "distretto": [
-          "D7",
-          "D8"
-        ],
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -437,28 +215,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 90,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": 1980,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": 481769.81,
-        "y": 4952691.37,
-        "rotazione": 13.25,
         "id": 1191,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": null,
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -471,28 +232,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 110,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": 1980,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": 481789.04,
-        "y": 4952697.58,
-        "rotazione": 21.23,
         "id": 1192,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": null,
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -505,62 +249,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 22,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": 1980,
-        "stato": "CHIUSA",
-        "tipologia": "Valvola a 2 vie",
-        "x": 481773.35,
-        "y": 4952541.66,
-        "rotazione": 22.41,
-        "id": 1193,
-        "codice": null,
-        "comune": "Tassarolo",
-        "distretto": [],
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.76979350648229,
-          44.72601123447774
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "rot": 48,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": 1980,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": 481811.47,
-        "y": 4952643.69,
-        "rotazione": 48.07,
         "id": 1194,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": null,
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -573,28 +266,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 289,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": 1980,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": 481797.29,
-        "y": 4952639.73,
-        "rotazione": 289.03,
         "id": 1195,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": null,
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -607,28 +283,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 0,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": 1980,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": 481793.45,
-        "y": 4952670.16,
-        "rotazione": 344.43,
         "id": 1196,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": null,
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -641,28 +300,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 350,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": 1980,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": 481816.55,
-        "y": 4952568.54,
-        "rotazione": 74.51,
         "id": 1197,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": null,
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -675,28 +317,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 280,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": 1980,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": 481856.74,
-        "y": 4952717.43,
-        "rotazione": 279.87,
         "id": 1198,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": null,
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -709,28 +334,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 269,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": null,
-        "dn": "DN63",
-        "pn": null,
-        "tipo_valv": "VSPT",
-        "corpo": null,
-        "anno_posa": 1980,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": 481862.86,
-        "y": 4952566.03,
-        "rotazione": 268.84,
         "id": 1199,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": null,
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -743,31 +351,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 316,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": 1980,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": 481759.88,
-        "y": 4952549.48,
-        "rotazione": 316.49,
         "id": 1200,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": [
-          "D3",
-          "D8"
-        ],
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -780,28 +368,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 43,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": 1980,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": 481715.42,
-        "y": 4952508.6,
-        "rotazione": 42.77,
         "id": 1201,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": null,
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -814,28 +385,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 291,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": 1980,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": 481795.71,
-        "y": 4952548.06,
-        "rotazione": 291.34,
         "id": 1202,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": null,
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -848,28 +402,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 23,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": 1980,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": 481793.04,
-        "y": 4952491.71,
-        "rotazione": 22.53,
         "id": 1203,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": null,
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -882,31 +419,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 37,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": 1980,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": 481840.59,
-        "y": 4952404.47,
-        "rotazione": 36.69,
         "id": 1204,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": [
-          "D6",
-          "D8"
-        ],
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -919,28 +436,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 25,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": 1980,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": 482053.18,
-        "y": 4952170.64,
-        "rotazione": 25.31,
         "id": 1205,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": null,
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -953,28 +453,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 35,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": 1980,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": 482295.03,
-        "y": 4951960.11,
-        "rotazione": 35.17,
         "id": 1206,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": null,
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -987,28 +470,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 353,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": 1980,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": 481514.28,
-        "y": 4952899.5,
-        "rotazione": 352.83,
         "id": 1207,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": null,
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -1021,28 +487,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 356,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": 1980,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": 481489.98,
-        "y": 4952995.86,
-        "rotazione": 356.14,
         "id": 1208,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": null,
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -1055,28 +504,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 288,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": 1980,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": 481488.29,
-        "y": 4952996.98,
-        "rotazione": 288.31,
         "id": 1209,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": null,
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -1089,28 +521,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 253,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": 1980,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": 481489.15,
-        "y": 4952997.65,
-        "rotazione": 253.38,
         "id": 1210,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": null,
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -1123,31 +538,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 0,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": 1980,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": 481136.05,
-        "y": 4952942.9,
-        "rotazione": 0.04,
         "id": 1212,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": [
-          "D3",
-          "D7"
-        ],
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -1160,30 +555,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 327,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": 1980,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": 480881.86,
-        "y": 4952843.63,
-        "rotazione": 327.3,
         "id": 1214,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": [
-          "D3"
-        ],
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -1196,28 +572,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 357,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": 1980,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": 480740.29,
-        "y": 4952958.73,
-        "rotazione": 357.19,
         "id": 1215,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": null,
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -1230,28 +589,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 294,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": 1980,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": 481199.64,
-        "y": 4952297.65,
-        "rotazione": 294.04,
         "id": 1216,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": null,
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -1264,28 +606,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 316,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": 1980,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": 481327.19,
-        "y": 4952124.34,
-        "rotazione": 316.23,
         "id": 1217,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": null,
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -1298,28 +623,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 299,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": 1980,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": 480680.14,
-        "y": 4953181.34,
-        "rotazione": 298.93,
         "id": 1218,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": null,
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -1332,28 +640,113 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 37,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": 1980,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": 481953.44,
-        "y": 4952262.99,
-        "rotazione": 37.27,
-        "id": 1992,
-        "codice": null,
+        "id": 1885,
         "comune": "Tassarolo",
-        "distretto": null,
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.73767839436466,
+          44.73183997463613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stato": "APERTA",
+        "tipologia": "Valvola a 2 vie",
+        "id": 1890,
+        "comune": "Tassarolo",
+        "distretto": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.731805572663463,
+          44.72764060477551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stato": "APERTA",
+        "tipologia": "Valvola a 2 vie",
+        "id": 1891,
+        "comune": "Tassarolo",
+        "distretto": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.735530925748344,
+          44.73082086636111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stato": "APERTA",
+        "tipologia": "Valvola a 2 vie",
+        "id": 1892,
+        "comune": "Tassarolo",
+        "distretto": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.737669811347233,
+          44.73178316214432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stato": "APERTA",
+        "tipologia": "Valvola a 2 vie",
+        "id": 1893,
+        "comune": "Tassarolo",
+        "distretto": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.73535950815921,
+          44.73072856949389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stato": "APERTA",
+        "tipologia": "Valvola a 2 vie",
+        "id": 1894,
+        "comune": "Tassarolo",
+        "distretto": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.734905860951311,
+          44.73112244620914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stato": "APERTA",
+        "tipologia": "Valvola a 2 vie",
+        "id": 1992,
+        "comune": "Tassarolo",
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -1366,28 +759,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 35,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": 1980,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": 481923.47,
-        "y": 4952301.24,
-        "rotazione": 35.42,
         "id": 1993,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": null,
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -1400,28 +776,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 37,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": 1980,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": 481899.14,
-        "y": 4952333.55,
-        "rotazione": 36.62,
         "id": 1994,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": null,
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -1434,31 +793,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 179,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": null,
-        "dn": "DN63",
-        "pn": null,
-        "tipo_valv": "VSPT",
-        "corpo": null,
-        "anno_posa": 1980,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": 481859.98,
-        "y": 4952563.04,
-        "rotazione": 178.84,
         "id": 2755,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": [
-          "D6",
-          "D8"
-        ],
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -1471,28 +810,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 0,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": null,
-        "dn": "DN75",
-        "pn": null,
-        "tipo_valv": "VSPT",
-        "corpo": null,
-        "anno_posa": 1980,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": 481865.98,
-        "y": 4952562.95,
-        "rotazione": 0,
         "id": 2756,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": null,
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -1505,28 +827,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 30,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": 1980,
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "x": 481493.79,
-        "y": 4952983.39,
-        "rotazione": 29.63,
         "id": 5840,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": [],
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -1539,28 +844,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 30,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": 1980,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": 481493.23,
-        "y": 4952984.75,
-        "rotazione": 29.63,
         "id": 5841,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": null,
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -1573,30 +861,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 295,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": 1980,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": 481495.26,
-        "y": 4952982.76,
-        "rotazione": 295.05,
         "id": 5842,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": [
-          "D7"
-        ],
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -1609,31 +878,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 135,
-        "layer": null,
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": null,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": null,
-        "y": null,
-        "rotazione": null,
         "id": 7605,
-        "codice": "V12",
         "comune": "Tassarolo",
-        "distretto": [
-          "D8",
-          "D9"
-        ],
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -1646,31 +895,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 135,
-        "layer": null,
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": null,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": null,
-        "y": null,
-        "rotazione": null,
         "id": 7606,
-        "codice": "V1",
         "comune": "Tassarolo",
-        "distretto": [
-          "D9",
-          "D1"
-        ],
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -1683,31 +912,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 135,
-        "layer": null,
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": null,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": null,
-        "y": null,
-        "rotazione": 361,
         "id": 7607,
-        "codice": "V13",
         "comune": "Tassarolo",
-        "distretto": [
-          "D8",
-          "D9"
-        ],
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -1720,28 +929,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 95,
-        "layer": null,
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": null,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": null,
-        "y": null,
-        "rotazione": null,
         "id": 8085,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": [],
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -1754,28 +946,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 50,
-        "layer": null,
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": null,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": null,
-        "y": null,
-        "rotazione": null,
         "id": 8086,
-        "codice": "",
         "comune": "Tassarolo",
-        "distretto": [],
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -1788,28 +963,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 140,
-        "layer": null,
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": null,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": null,
-        "y": null,
-        "rotazione": null,
         "id": 8087,
-        "codice": "",
         "comune": "Tassarolo",
-        "distretto": [],
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -1822,28 +980,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 45,
-        "layer": null,
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": null,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": null,
-        "y": null,
-        "rotazione": null,
         "id": 8088,
-        "codice": "",
         "comune": "Tassarolo",
-        "distretto": [],
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -1856,28 +997,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 325,
-        "layer": null,
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": null,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": null,
-        "y": null,
-        "rotazione": null,
         "id": 8089,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": [],
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -1890,28 +1014,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 150,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": 1980,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": 481726.84,
-        "y": 4952811.29,
-        "rotazione": 452,
         "id": 8160,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": null,
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -1924,28 +1031,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 150,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": 1980,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": 481873.77,
-        "y": 4952826.48,
-        "rotazione": 453,
         "id": 8161,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": null,
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -1958,28 +1048,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 220,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": 1980,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": 481873.77,
-        "y": 4952826.48,
-        "rotazione": 454,
         "id": 8162,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": null,
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -1992,28 +1065,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 170,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": null,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": null,
-        "y": null,
-        "rotazione": null,
         "id": 8163,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": [],
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -2026,28 +1082,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 170,
-        "layer": null,
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": null,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": null,
-        "y": null,
-        "rotazione": null,
         "id": 8409,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": [],
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -2060,28 +1099,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 130,
-        "layer": null,
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": null,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": null,
-        "y": null,
-        "rotazione": null,
         "id": 8410,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": [],
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -2094,30 +1116,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 295,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": 1980,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": 481495.26,
-        "y": 4952982.76,
-        "rotazione": 462,
         "id": 8411,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": [
-          "D7"
-        ],
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -2130,28 +1133,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 45,
-        "layer": null,
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": null,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": null,
-        "y": null,
-        "rotazione": null,
         "id": 8412,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": [],
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -2164,28 +1150,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 20,
-        "layer": null,
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": null,
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "x": null,
-        "y": null,
-        "rotazione": null,
         "id": 8631,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": [],
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -2198,62 +1167,62 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 80,
-        "layer": null,
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": null,
-        "stato": "CHIUSA",
+        "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": null,
-        "y": null,
-        "rotazione": null,
-        "id": 8676,
-        "codice": null,
+        "id": 8793,
         "comune": "Tassarolo",
-        "distretto": [],
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.756087624442388,
-          44.73173630897449
+          8.736787494948507,
+          44.72950683071871
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "rot": 140,
-        "layer": null,
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": null,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": null,
-        "y": null,
-        "rotazione": null,
-        "id": 9101,
-        "codice": null,
+        "id": 8814,
         "comune": "Tassarolo",
-        "distretto": [],
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.732088386459516,
+          44.72777489286343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stato": "APERTA",
+        "tipologia": "Valvola a 2 vie",
+        "id": 9100,
+        "comune": "Tassarolo",
+        "distretto": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.735429938932011,
+          44.73069626288326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stato": "APERTA",
+        "tipologia": "Valvola a 2 vie",
+        "id": 9101,
+        "comune": "Tassarolo",
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -2266,28 +1235,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 130,
-        "layer": null,
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": null,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": null,
-        "y": null,
-        "rotazione": null,
         "id": 9102,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": [],
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -2300,28 +1252,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 150,
-        "layer": null,
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": null,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": null,
-        "y": null,
-        "rotazione": null,
         "id": 9103,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": [],
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -2334,28 +1269,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 140,
-        "layer": null,
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": null,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": null,
-        "y": null,
-        "rotazione": null,
         "id": 9104,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": [],
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -2368,28 +1286,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 145,
-        "layer": null,
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": null,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": null,
-        "y": null,
-        "rotazione": null,
         "id": 9105,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": [],
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -2402,28 +1303,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 80,
-        "layer": null,
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": null,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": null,
-        "y": null,
-        "rotazione": null,
         "id": 9106,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": [],
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -2436,28 +1320,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 70,
-        "layer": null,
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": null,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": null,
-        "y": null,
-        "rotazione": null,
         "id": 9107,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": [],
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -2470,28 +1337,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 220,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": 1980,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": 481873.77,
-        "y": 4952826.48,
-        "rotazione": 642,
         "id": 9108,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": null,
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -2504,28 +1354,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 115,
-        "layer": null,
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": null,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": null,
-        "y": null,
-        "rotazione": null,
         "id": 9109,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": [],
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -2538,28 +1371,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 60,
-        "layer": null,
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": null,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": null,
-        "y": null,
-        "rotazione": null,
         "id": 9110,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": [],
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -2572,31 +1388,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 179,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": null,
-        "dn": "DN63",
-        "pn": null,
-        "tipo_valv": "VSPT",
-        "corpo": null,
-        "anno_posa": 1980,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": 481859.98,
-        "y": 4952563.04,
-        "rotazione": 643,
         "id": 9111,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": [
-          "D6",
-          "D8"
-        ],
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -2609,31 +1405,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 179,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": null,
-        "dn": "DN63",
-        "pn": null,
-        "tipo_valv": "VSPT",
-        "corpo": null,
-        "anno_posa": 1980,
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "x": 481859.98,
-        "y": 4952563.04,
-        "rotazione": 644,
         "id": 9112,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": [
-          "D6",
-          "D8"
-        ],
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -2646,28 +1422,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 110,
-        "layer": "RA_02valvola",
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": 1980,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": 481789.04,
-        "y": 4952697.58,
-        "rotazione": 645,
         "id": 9113,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": null,
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -2680,28 +1439,28 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 45,
-        "layer": null,
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": null,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": null,
-        "y": null,
-        "rotazione": null,
-        "id": 9249,
-        "codice": null,
+        "id": 9184,
         "comune": "Tassarolo",
-        "distretto": [],
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.732069115022327,
+          44.72776436566245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stato": "APERTA",
+        "tipologia": "Valvola a 2 vie",
+        "id": 9249,
+        "comune": "Tassarolo",
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -2714,28 +1473,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 45,
-        "layer": null,
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": null,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": null,
-        "y": null,
-        "rotazione": null,
         "id": 9250,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": [],
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -2748,28 +1490,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 135,
-        "layer": null,
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": null,
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "x": null,
-        "y": null,
-        "rotazione": null,
         "id": 9251,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": [],
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -2782,62 +1507,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 45,
-        "layer": null,
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": null,
-        "stato": "CHIUSA",
-        "tipologia": "Valvola a 2 vie",
-        "x": null,
-        "y": null,
-        "rotazione": null,
-        "id": 9315,
-        "codice": null,
-        "comune": "Tassarolo",
-        "distretto": [],
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.769754854295334,
-          44.72656584232147
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "rot": 140,
-        "layer": null,
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": null,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": null,
-        "y": null,
-        "rotazione": null,
         "id": 9324,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": [],
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
@@ -2850,28 +1524,11 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 45,
-        "layer": null,
-        "marca": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "tipo_valv": null,
-        "corpo": null,
-        "anno_posa": null,
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "x": null,
-        "y": null,
-        "rotazione": null,
         "id": 9325,
-        "codice": null,
         "comune": "Tassarolo",
-        "distretto": [],
-        "cod_valv": null,
-        "distretto_modello": null,
-        "valv_distr": false,
-        "manovra": null
+        "distretto": null
       },
       "geometry": {
         "type": "Point",
