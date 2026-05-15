@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "PRESA_CONTATORE",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "COD_CESPITI": null, "COD_PRESA": "20", "STATO_CONSERVAZIONE": null, "STATO_FUNZIONALITA": null, "COMUNE": null, "N_CIV": null, "UTENTE_CREAZIONE": null, "DATA_INS": null, "OPERATORE": null, "DATA_AGG": null, "D_STATO": null, "IDGIS": null, "PORTING_CLASSE": null, "PORTING_ID": null, "POINT_X": null, "POINT_Y": null, "ANGLE": null, "LINK": null, "VIA_DENOMINAZIONE": null, "GlobalID": "{80D974BD-4701-47A2-9DB5-57519501671A}", "SORGENTE_DATI": null }, "geometry": { "type": "Point", "coordinates": [ 15.531836452796988, 38.240087161223236, 0.0 ] } },
+{ "type": "Feature", "properties": { "COD_CESPITI": null, "COD_PRESA": "123", "STATO_CONSERVAZIONE": 4.0, "STATO_FUNZIONALITA": 4.0, "COMUNE": null, "N_CIV": null, "UTENTE_CREAZIONE": null, "DATA_INS": null, "OPERATORE": null, "DATA_AGG": null, "D_STATO": null, "IDGIS": null, "PORTING_CLASSE": null, "PORTING_ID": null, "POINT_X": null, "POINT_Y": null, "ANGLE": null, "LINK": null, "VIA_DENOMINAZIONE": null, "GlobalID": "{152D395F-4EC6-4ED2-B1E5-2F6F4AC93740}", "SORGENTE_DATI": null }, "geometry": { "type": "Point", "coordinates": [ 15.526016533316053, 38.24784081270289, 0.0 ] } }
+]
+}
