@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "name": "misuratore_portata",
+  "name": "misuratori",
   "crs": {
     "type": "name",
     "properties": {
@@ -11,782 +11,480 @@
     {
       "type": "Feature",
       "properties": {
-        "tipo": "PORTATA",
-        "prex_eser": null,
-        "x": 482903,
-        "y": 4957256,
-        "codice": "MIS10",
-        "comune": "Novi Ligure",
-        "localita": null,
-        "via": null,
-        "doc": null,
-        "id": 1,
-        "rot": 0
+        "codice": "NOV_MIS10",
+        "lon": 8.78395,
+        "lat": 44.768489
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.783949575994397,
-          44.76848943099143
+          482903.48857531196,
+          4957255.734384892
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "tipo": "PORTATA",
-        "prex_eser": null,
-        "x": 482897,
-        "y": 4957213,
-        "codice": "NL25",
-        "comune": "Novi Ligure",
-        "localita": null,
-        "via": null,
-        "doc": null,
-        "id": 2,
-        "rot": 0
+        "codice": "NOV_NL25",
+        "lon": 8.783863,
+        "lat": 44.768104
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.783863157800267,
-          44.76810444800001
+          482896.5365163112,
+          4957212.987557365
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "tipo": "PORTATA",
-        "prex_eser": null,
-        "x": 483396,
-        "y": 4957170,
-        "codice": "MIS08",
-        "comune": "Novi Ligure",
-        "localita": null,
-        "via": null,
-        "doc": null,
-        "id": 3,
-        "rot": 0
+        "codice": "NOV_MIS08",
+        "lon": 8.790182,
+        "lat": 44.767725
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.79018204838763,
-          44.76772521899823
+          483396.457941368,
+          4957169.5527702095
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "tipo": "PORTATA",
-        "prex_eser": null,
-        "x": 482747,
-        "y": 4956978,
-        "codice": "NL24",
-        "comune": "Novi Ligure",
-        "localita": null,
-        "via": null,
-        "doc": null,
-        "id": 4,
-        "rot": 0
+        "codice": "NOV_MIS06",
+        "lon": 8.805012,
+        "lat": 44.765804
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.78198421080599,
-          44.76598128253658
+          484569.49876480666,
+          4956953.256248773
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "tipo": "PORTATA",
-        "prex_eser": null,
-        "x": 484569,
-        "y": 4956953,
-        "codice": "MIS06",
-        "comune": "Novi Ligure",
-        "localita": "CAPOLUOGO",
-        "via": "Via Montesanto",
-        "doc": null,
-        "id": 5,
-        "rot": 0
+        "codice": "NOV_MIS09",
+        "lon": 8.799653,
+        "lat": 44.769293
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.80501215565952,
-          44.76580433636295
+          484146.3254398681,
+          4957341.820084205
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "tipo": "PORTATA",
-        "prex_eser": null,
-        "x": 484145,
-        "y": 4957343,
-        "codice": "MIS09",
-        "comune": "Novi Ligure",
-        "localita": null,
-        "via": "Via Manzoni",
-        "doc": null,
-        "id": 6,
-        "rot": 0
+        "codice": "NOV_NL35",
+        "lon": 8.823483,
+        "lat": 44.801771
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.79964025420791,
-          44.769299761418786
+          486039.84481354896,
+          4960945.1859160075
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "tipo": "PORTATA",
-        "prex_eser": null,
-        "x": 483669,
-        "y": 4956301,
-        "codice": "MIS07",
-        "comune": "Novi Ligure",
-        "localita": null,
-        "via": null,
-        "doc": null,
-        "id": 7,
-        "rot": 0
+        "codice": "NOV_NL22",
+        "lon": 8.775369,
+        "lat": 44.779605
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.793653560451427,
-          44.75991036971484
+          482227.8723355868,
+          4958492.311402958
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "tipo": "PORTATA",
-        "prex_eser": null,
-        "x": 483581,
-        "y": 4956385,
-        "codice": "NL27",
-        "comune": "Novi Ligure",
-        "localita": null,
-        "via": null,
-        "doc": null,
-        "id": 8,
-        "rot": 0
+        "codice": "NOV_NL10",
+        "lon": 8.791656,
+        "lat": 44.730592
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.792536568345664,
-          44.760665751689686
+          483502.5187746053,
+          4953044.362362222
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "tipo": "PORTATA",
-        "prex_eser": null,
-        "x": 483320,
-        "y": 4958759,
-        "codice": "NL23",
-        "comune": "Novi Ligure",
-        "localita": null,
-        "via": null,
-        "doc": null,
-        "id": 9,
-        "rot": 0
+        "codice": "NOV_NL09",
+        "lon": 8.787791,
+        "lat": 44.756794
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.789167413932203,
-          44.78203566650722
+          483204.0551148604,
+          4955955.736418113
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "tipo": "PORTATA",
-        "prex_eser": null,
-        "x": 482071,
-        "y": 4959348,
-        "codice": "NL21",
-        "comune": "Novi Ligure",
-        "localita": null,
-        "via": null,
-        "doc": null,
-        "id": 10,
-        "rot": 0
+        "codice": "NOV_NL07",
+        "lon": 8.789652,
+        "lat": 44.756987
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.773352151036619,
-          44.787302891786766
+          483351.4439285977,
+          4955976.796190855
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "tipo": "PORTATA",
-        "prex_eser": "10",
-        "x": 485727,
-        "y": 4957086,
-        "codice": "NL34",
-        "comune": "Novi Ligure",
-        "localita": null,
-        "via": null,
-        "doc": null,
-        "id": 11,
-        "rot": 0
+        "codice": "NOV_NL24",
+        "lon": 8.781984,
+        "lat": 44.765981
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.819637727961343,
-          44.76702570650797
+          482747.2186177187,
+          4956977.537148666
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "tipo": "PORTATA",
-        "prex_eser": null,
-        "x": 485747,
-        "y": 4957054,
-        "codice": "MIS05",
-        "comune": "Novi Ligure",
-        "localita": null,
-        "via": null,
-        "doc": null,
-        "id": 12,
-        "rot": 0
+        "codice": "NOV_MIS07",
+        "lon": 8.793654,
+        "lat": 44.75991
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.819886222543156,
-          44.76673768992583
+          483668.9678556912,
+          4956300.755467664
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "tipo": "PORTATA",
-        "prex_eser": null,
-        "x": 485712,
-        "y": 4955259,
-        "codice": "NL28",
-        "comune": "Novi Ligure",
-        "localita": null,
-        "via": null,
-        "doc": null,
-        "id": 13,
-        "rot": 0
+        "codice": "NOV_NL27",
+        "lon": 8.792537,
+        "lat": 44.760666
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.819495331440457,
-          44.75057805372536
+          483580.7788428004,
+          4956384.890087578
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "tipo": "PORTATA",
-        "prex_eser": null,
-        "x": 484864,
-        "y": 4955445,
-        "codice": "MIS03",
-        "comune": "Novi Ligure",
-        "localita": null,
-        "via": null,
-        "doc": null,
-        "id": 14,
-        "rot": 0
+        "codice": "NOV_NL23",
+        "lon": 8.789167,
+        "lat": 44.782036
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.80877620717225,
-          44.752236232275536
+          483320.2867090954,
+          4958759.4068395365
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "tipo": "PORTATA",
-        "prex_eser": null,
-        "x": 484841,
-        "y": 4956141,
-        "codice": "MIS04",
-        "comune": "Novi Ligure",
-        "localita": null,
-        "via": null,
-        "doc": null,
-        "id": 15,
-        "rot": 0
+        "codice": "NOV_NL21",
+        "lon": 8.773352,
+        "lat": 44.787303
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.808467751816039,
-          44.758493907651264
+          482070.71558882337,
+          4959347.871512824
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "tipo": "PORTATA",
-        "prex_eser": null,
-        "x": 487238,
-        "y": 4956972,
-        "codice": "NL33",
-        "comune": "Novi Ligure",
-        "localita": null,
-        "via": null,
-        "doc": null,
-        "id": 16,
-        "rot": 0
+        "codice": "NOV_NL34",
+        "lon": 8.819638,
+        "lat": 44.767026
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.838726759230436,
-          44.76602282926901
+          485727.2045961879,
+          4957086.259657117
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "tipo": "PORTATA",
-        "prex_eser": null,
-        "x": 487237,
-        "y": 4956962,
-        "codice": "MIS01",
-        "comune": "Novi Ligure",
-        "localita": null,
-        "via": null,
-        "doc": null,
-        "id": 17,
-        "rot": 0
+        "codice": "NOV_MIS05",
+        "lon": 8.819886,
+        "lat": 44.766738
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.838725435337098,
-          44.76593914704441
+          485746.7981499055,
+          4957054.222412535
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "tipo": "PORTATA",
-        "prex_eser": null,
-        "x": 487435,
-        "y": 4957043,
-        "codice": "NL01.01",
-        "comune": "Novi Ligure",
-        "localita": "Bettole di Novi",
-        "via": null,
-        "doc": null,
-        "id": 18,
-        "rot": 0
+        "codice": "NOV_NL28",
+        "lon": 8.819495,
+        "lat": 44.750578
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.841220821085,
-          44.76666855075911
+          485711.88327966665,
+          4955259.236302262
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "tipo": "PORTATA",
-        "prex_eser": null,
-        "x": 487437,
-        "y": 4957042,
-        "codice": "NL01.2",
-        "comune": "Novi Ligure",
-        "localita": "Bettole di Novi",
-        "via": null,
-        "doc": null,
-        "id": 19,
-        "rot": 0
+        "codice": "NOV_MIS03",
+        "lon": 8.808776,
+        "lat": 44.752236
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.841246998074965,
-          44.766655979659376
+          484863.8277545557,
+          4955445.3686702335
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "tipo": "PORTATA",
-        "prex_eser": "25",
-        "x": 486064,
-        "y": 4954120,
-        "codice": "NL16",
-        "comune": "Novi Ligure",
-        "localita": "Villa Capitania",
-        "via": "S.S. 35 dei Giovi",
-        "doc": null,
-        "id": 20,
-        "rot": 0
+        "codice": "NOV_MIS04",
+        "lon": 8.808468,
+        "lat": 44.758494
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.823968709167529,
-          44.74032726098259
+          484841.0482796246,
+          4956140.544640157
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "tipo": "PORTATA",
-        "prex_eser": null,
-        "x": 486395,
-        "y": 4953858,
-        "codice": "NL15",
-        "comune": "Novi Ligure",
-        "localita": null,
-        "via": null,
-        "doc": null,
-        "id": 21,
-        "rot": 0
+        "codice": "NOV_NL06.02",
+        "lon": 8.789246,
+        "lat": 44.756875
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.828157333685107,
-          44.737975914417454
+          483319.27193552116,
+          4955964.512338954
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "tipo": "PORTATA",
-        "prex_eser": null,
-        "x": 482141,
-        "y": 4956193,
-        "codice": "NL13",
-        "comune": "Novi Ligure",
-        "localita": "G3",
-        "via": "S.P. 156 Novi - Francavilla",
-        "doc": null,
-        "id": 29,
-        "rot": 0
+        "codice": "NOV_NL33",
+        "lon": 8.838727,
+        "lat": 44.766023
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.77435372529051,
-          44.75890605102239
+          487237.57599554583,
+          4956971.685732497
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "tipo": "PORTATA",
-        "prex_eser": null,
-        "x": 482019,
-        "y": 4957574,
-        "codice": "NL32",
-        "comune": "Novi Ligure",
-        "localita": "ILVA",
-        "via": "Via Pietro Isola",
-        "doc": null,
-        "id": 31,
-        "rot": 0
+        "codice": "NOV_MIS01",
+        "lon": 8.838725,
+        "lat": 44.765939
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.77275625817113,
-          44.77132909540529
+          487237.4528028235,
+          4956962.390287873
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "tipo": "PORTATA",
-        "prex_eser": null,
-        "x": 482228,
-        "y": 4958492,
-        "codice": "NL22",
-        "comune": "Novi Ligure",
-        "localita": "San Bovo",
-        "via": "Strada San Marziano",
-        "doc": null,
-        "id": 32,
-        "rot": 0
+        "codice": "NOV_NL16",
+        "lon": 8.823942,
+        "lat": 44.740351
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.775368656327867,
-          44.779604893362034
+          486061.3795025164,
+          4954122.4345074
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "tipo": null,
-        "prex_eser": null,
-        "x": null,
-        "y": null,
-        "codice": "NL35",
-        "comune": "Novi Ligure",
-        "localita": "Bettole di Pozzolo",
-        "via": "S.P. 151",
-        "doc": null,
-        "id": 33,
-        "rot": null
+        "codice": "NOV_NL15",
+        "lon": 8.828157,
+        "lat": 44.737976
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.823482646057883,
-          44.801770802279734
+          486394.58149002545,
+          4953857.876980784
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "tipo": "PORTATA",
-        "prex_eser": null,
-        "x": null,
-        "y": null,
-        "codice": "NL10",
-        "comune": "Novi Ligure",
-        "localita": "Norese",
-        "via": null,
-        "doc": null,
-        "id": 34,
-        "rot": null
+        "codice": "NOV_NL13",
+        "lon": 8.774354,
+        "lat": 44.758906
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.791655773968131,
-          44.730591618194254
+          482141.19697502005,
+          4956193.2477547005
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "tipo": "PORTATA",
-        "prex_eser": null,
-        "x": null,
-        "y": null,
-        "codice": "NL09",
-        "comune": "Novi Ligure",
-        "localita": "Bricchetta",
-        "via": null,
-        "doc": null,
-        "id": 35,
-        "rot": null
+        "codice": "NOV_NL32",
+        "lon": 8.772756,
+        "lat": 44.771329
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.787790686836605,
-          44.75679365823091
+          482018.61951302306,
+          4957573.585472113
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "tipo": "PORTATA",
-        "prex_eser": null,
-        "x": null,
-        "y": null,
-        "codice": "NL07",
-        "comune": "Novi Ligure",
-        "localita": "Costa Vecchio",
-        "via": null,
-        "doc": null,
-        "id": 36,
-        "rot": null
+        "codice": "NOV_NL06.01",
+        "lon": 8.789293,
+        "lat": 44.756863
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.789652178734153,
-          44.75698668854858
+          483322.9598463325,
+          4955963.147890242
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "tipo": "PORTATA",
-        "prex_eser": null,
-        "x": null,
-        "y": null,
-        "codice": "NL06.02",
-        "comune": "Novi Ligure",
-        "localita": "Costa Nuovo",
-        "via": null,
-        "doc": null,
-        "id": 37,
-        "rot": null
+        "codice": "NOV_NL05",
+        "lon": 8.787225,
+        "lat": 44.757901
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.789246103221812,
-          44.756875356853975
+          483159.5818607949,
+          4956078.9109325195
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "tipo": "PORTATA",
-        "prex_eser": null,
-        "x": null,
-        "y": null,
-        "codice": "NL06.01",
-        "comune": "Novi Ligure",
-        "localita": "Costa Nuovo",
-        "via": null,
-        "doc": null,
-        "id": 38,
-        "rot": null
+        "codice": "NOV_NL03",
+        "lon": 8.787273,
+        "lat": 44.757897
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.789292742728428,
-          44.756863159719295
+          483163.42578724044,
+          4956078.35384173
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "tipo": null,
-        "prex_eser": null,
-        "x": null,
-        "y": null,
-        "codice": "NL05",
-        "comune": "Novi Ligure",
-        "localita": "Castello",
-        "via": null,
-        "doc": null,
-        "id": 39,
-        "rot": null
+        "codice": "NOV_NL04",
+        "lon": 8.787328,
+        "lat": 44.75789
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.787224721593832,
-          44.75790146043782
+          483167.77109539625,
+          4956077.629623705
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "tipo": null,
-        "prex_eser": null,
-        "x": null,
-        "y": null,
-        "codice": "NL03",
-        "comune": "Novi Ligure",
-        "localita": "Castello",
-        "via": null,
-        "doc": null,
-        "id": 40,
-        "rot": null
+        "codice": "NOV_MIS11",
+        "lon": 8.799921,
+        "lat": 44.768336
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.787273306893802,
-          44.75789653584132
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "tipo": null,
-        "prex_eser": null,
-        "x": null,
-        "y": null,
-        "codice": "NL04",
-        "comune": "Novi Ligure",
-        "localita": "Castello",
-        "via": null,
-        "doc": null,
-        "id": 41,
-        "rot": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.787328232516296,
-          44.75789011849985
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "tipo": "PORTATA",
-        "prex_eser": null,
-        "x": 484167,
-        "y": 4957235,
-        "codice": "MIS11",
-        "comune": "Novi Ligure",
-        "localita": "CAPOLUOGO",
-        "via": "Via Robotti",
-        "doc": null,
-        "id": 45,
-        "rot": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.799920866304852,
-          44.76833587949606
+          484167.2875105687,
+          4957235.4452901
         ]
       }
     }

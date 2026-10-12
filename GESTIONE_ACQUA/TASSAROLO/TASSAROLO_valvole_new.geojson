@@ -13,15 +13,13 @@
       "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "id": 1178,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.771332451205831,
-          44.73246505417521
+          481893.8259044745,
+          4953256.786782155
         ]
       }
     },
@@ -30,15 +28,13 @@
       "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "id": 1179,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.7707628852415,
-          44.731893497333814
+          481848.54819956014,
+          4953193.423881016
         ]
       }
     },
@@ -47,15 +43,13 @@
       "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "id": 1180,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.771319062463744,
-          44.730940920666924
+          481892.2901931142,
+          4953087.485818743
         ]
       }
     },
@@ -64,15 +58,13 @@
       "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "id": 1181,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.775284453008206,
-          44.729906611712565
+          482205.9657634801,
+          4952971.718294662
         ]
       }
     },
@@ -81,15 +73,13 @@
       "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "id": 1182,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.776810787428992,
-          44.72947137943544
+          482326.695571599,
+          4952923.0393279
         ]
       }
     },
@@ -98,15 +88,13 @@
       "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "id": 1183,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.771003937028746,
-          44.728624751640545
+          481866.613837817,
+          4952830.2711397875
         ]
       }
     },
@@ -115,15 +103,13 @@
       "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "id": 1184,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.769423945356747,
-          44.729096170965846
+          481741.64820095035,
+          4952882.99048352
         ]
       }
     },
@@ -132,15 +118,13 @@
       "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "id": 1185,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.776867854752892,
-          44.72945942988879
+          482331.210826942,
+          4952921.69956111
         ]
       }
     },
@@ -149,15 +133,13 @@
       "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "id": 1186,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.769706668128213,
-          44.72911805270211
+          481764.04270971,
+          4952885.3577853
         ]
       }
     },
@@ -166,15 +148,13 @@
       "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "id": 1187,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.76915092391379,
-          44.72836947379605
+          481719.799886725,
+          4952802.328747954
         ]
       }
     },
@@ -183,15 +163,13 @@
       "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "id": 1188,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.769149822961134,
-          44.72837734086742
+          481719.7151836966,
+          4952803.202885402
         ]
       }
     },
@@ -200,15 +178,13 @@
       "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "id": 1190,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.768621133538293,
-          44.72860675967448
+          481677.922387935,
+          4952828.80603638
         ]
       }
     },
@@ -217,15 +193,13 @@
       "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "id": 1191,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.769748501145772,
-          44.72734980581399
+          481766.79978998227,
+          4952688.92796868
         ]
       }
     },
@@ -234,15 +208,13 @@
       "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "id": 1192,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.7700198779398,
-          44.72737871388655
+          481788.2987000293,
+          4952692.07839644
         ]
       }
     },
@@ -251,15 +223,13 @@
       "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "id": 1194,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.770287202467324,
-          44.726938209875435
+          481809.32957788534,
+          4952643.086565546
         ]
       }
     },
@@ -268,15 +238,13 @@
       "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "id": 1195,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.770086333179265,
-          44.72689906379076
+          481793.4107085766,
+          4952638.783039196
         ]
       }
     },
@@ -285,15 +253,13 @@
       "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "id": 1196,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.770068805880133,
-          44.72716853854603
+          481792.1072792946,
+          4952668.720754351
         ]
       }
     },
@@ -302,15 +268,13 @@
       "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "id": 1197,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.770396058920545,
-          44.72624684779843
+          481817.7332090867,
+          4952566.26437172
         ]
       }
     },
@@ -319,15 +283,13 @@
       "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "id": 1198,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.770871217282123,
-          44.72760119386061
+          481855.78424596356,
+          4952716.601839222
         ]
       }
     },
@@ -336,15 +298,13 @@
       "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "id": 1199,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.770937112916416,
-          44.726250154604706
+          481860.58014772827,
+          4952566.51101247
         ]
       }
     },
@@ -353,15 +313,13 @@
       "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "id": 1200,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.769623491180093,
-          44.72611466389196
+          481756.5122522014,
+          4952551.753941007
         ]
       }
     },
@@ -370,15 +328,13 @@
       "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "id": 1201,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.76910518602879,
-          44.7257426448307
+          481715.3505350939,
+          4952510.545594645
         ]
       }
     },
@@ -387,15 +343,13 @@
       "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "id": 1202,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.770118591351741,
-          44.72608237616201
+          481795.709050426,
+          4952548.05653725
         ]
       }
     },
@@ -404,15 +358,13 @@
       "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "id": 1203,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.770086880332583,
-          44.7255750488472
+          481793.038719757,
+          4952491.70870571
         ]
       }
     },
@@ -421,15 +373,13 @@
       "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "id": 1204,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.770690469769814,
-          44.72479093150364
+          481840.592029484,
+          4952404.47261113
         ]
       }
     },
@@ -438,15 +388,13 @@
       "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "id": 1205,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.77338319995763,
-          44.7226912351741
+          482053.184720423,
+          4952170.63722983
         ]
       }
     },
@@ -455,15 +403,13 @@
       "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "id": 1206,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.776464975528247,
-          44.720811572418484
+          482296.67135075736,
+          4951961.166072119
         ]
       }
     },
@@ -472,15 +418,13 @@
       "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "id": 1207,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.766565872541596,
-          44.729221509433984
+          481515.3692947246,
+          4952897.558277544
         ]
       }
     },
@@ -489,15 +433,13 @@
       "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "id": 1208,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.766241693395392,
-          44.7301058063189
+          481489.981002881,
+          4952995.86144687
         ]
       }
     },
@@ -506,15 +448,13 @@
       "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "id": 1209,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.766220237452627,
-          44.73011581003882
+          481488.285217075,
+          4952996.97755919
         ]
       }
     },
@@ -523,15 +463,13 @@
       "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "id": 1210,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.766231104066167,
-          44.73012191496554
+          481489.147630858,
+          4952997.65323623
         ]
       }
     },
@@ -540,15 +478,13 @@
       "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "id": 1212,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.761797164770229,
-          44.729601405069985
+          481137.8795647489,
+          4952940.851637669
         ]
       }
     },
@@ -557,15 +493,13 @@
       "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "id": 1214,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.758582538695821,
-          44.72872242749151
+          480886.02047054574,
+          4952840.393448809
         ]
       }
     },
@@ -574,15 +508,13 @@
       "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "id": 1215,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.756775562557138,
-          44.72975175356914
+          480740.293252258,
+          4952958.72834649
         ]
       }
     },
@@ -591,15 +523,13 @@
       "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "id": 1216,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.762623883703535,
-          44.72377503889921
+          481201.4564521258,
+          4952293.456044415
         ]
       }
     },
@@ -608,15 +538,13 @@
       "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "id": 1217,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.764253712332176,
-          44.722239583174
+          481330.0337605515,
+          4952122.519664915
         ]
       }
     },
@@ -625,15 +553,13 @@
       "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "id": 1218,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.755976865846876,
-          44.731755074842326
+          480677.71553771815,
+          4953181.450690208
         ]
       }
     },
@@ -642,15 +568,13 @@
       "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "id": 1885,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.73767839436466,
-          44.73183997463613
+          481954.99292591383,
+          4952264.771272576
         ]
       }
     },
@@ -659,15 +583,13 @@
       "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "id": 1890,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.731805572663463,
-          44.72764060477551
+          481926.6733503499,
+          4952298.791372122
         ]
       }
     },
@@ -676,15 +598,13 @@
       "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "id": 1891,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.735530925748344,
-          44.73082086636111
+          481900.6810529256,
+          4952332.62842732
         ]
       }
     },
@@ -693,15 +613,13 @@
       "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "id": 1892,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.737669811347233,
-          44.73178316214432
+          481857.92529224616,
+          4952563.593956473
         ]
       }
     },
@@ -710,15 +628,13 @@
       "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "id": 1893,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.73535950815921,
-          44.73072856949389
+          481863.7608182656,
+          4952563.580029203
         ]
       }
     },
@@ -727,15 +643,13 @@
       "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "id": 1894,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.734905860951311,
-          44.73112244620914
+          480667.150152256,
+          4953828.71986854
         ]
       }
     },
@@ -744,15 +658,13 @@
       "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "id": 1992,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.772140002615085,
-          44.72353619056672
+          480668.204977322,
+          4953826.90046899
         ]
       }
     },
@@ -761,66 +673,13 @@
       "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "id": 1993,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.7717812011502,
-          44.723841735454
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stato": "APERTA",
-        "tipologia": "Valvola a 2 vie",
-        "id": 1994,
-        "comune": "Tassarolo",
-        "distretto": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.771451789745413,
-          44.724145690183896
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stato": "APERTA",
-        "tipologia": "Valvola a 2 vie",
-        "id": 2755,
-        "comune": "Tassarolo",
-        "distretto": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.770903691568883,
-          44.7262238271804
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stato": "APERTA",
-        "tipologia": "Valvola a 2 vie",
-        "id": 2756,
-        "comune": "Tassarolo",
-        "distretto": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.77097738191606,
-          44.72622384959843
+          480670.155617077,
+          4953825.01750198
         ]
       }
     },
@@ -829,15 +688,28 @@
       "properties": {
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "id": 5840,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.766290237981693,
-          44.72999360090706
+          480668.507659193,
+          4953825.37525119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stato": "APERTA",
+        "tipologia": "Idrovalvola",
+        "comune": "Tassarolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          480669.135410314,
+          4953826.00231513
         ]
       }
     },
@@ -846,304 +718,13 @@
       "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "id": 5841,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.766283066120417,
-          44.730005894766634
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stato": "APERTA",
-        "tipologia": "Valvola a 2 vie",
-        "id": 5842,
-        "comune": "Tassarolo",
-        "distretto": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.766308817620187,
-          44.72998797241957
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stato": "APERTA",
-        "tipologia": "Valvola a 2 vie",
-        "id": 7605,
-        "comune": "Tassarolo",
-        "distretto": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.772093674943752,
-          44.72351973751119
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stato": "APERTA",
-        "tipologia": "Valvola a 2 vie",
-        "id": 7606,
-        "comune": "Tassarolo",
-        "distretto": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.777081096462956,
-          44.720146674503034
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stato": "APERTA",
-        "tipologia": "Valvola a 2 vie",
-        "id": 7607,
-        "comune": "Tassarolo",
-        "distretto": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.772082313841493,
-          44.723511946488955
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stato": "APERTA",
-        "tipologia": "Valvola a 2 vie",
-        "id": 8085,
-        "comune": "Tassarolo",
-        "distretto": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.775381159686125,
-          44.72981804177777
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stato": "APERTA",
-        "tipologia": "Valvola a 2 vie",
-        "id": 8086,
-        "comune": "Tassarolo",
-        "distretto": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.77133308346374,
-          44.73235144611171
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stato": "APERTA",
-        "tipologia": "Valvola a 2 vie",
-        "id": 8087,
-        "comune": "Tassarolo",
-        "distretto": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.771339217130414,
-          44.73235082844504
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stato": "APERTA",
-        "tipologia": "Valvola a 2 vie",
-        "id": 8088,
-        "comune": "Tassarolo",
-        "distretto": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.771338482574857,
-          44.73235531700062
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stato": "APERTA",
-        "tipologia": "Valvola a 2 vie",
-        "id": 8089,
-        "comune": "Tassarolo",
-        "distretto": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.771884182463769,
-          44.73070737211131
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stato": "APERTA",
-        "tipologia": "Valvola a 2 vie",
-        "id": 8160,
-        "comune": "Tassarolo",
-        "distretto": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.76913860095011,
-          44.72837640931066
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stato": "APERTA",
-        "tipologia": "Valvola a 2 vie",
-        "id": 8161,
-        "comune": "Tassarolo",
-        "distretto": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.770985591722862,
-          44.72863085918187
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stato": "APERTA",
-        "tipologia": "Valvola a 2 vie",
-        "id": 8162,
-        "comune": "Tassarolo",
-        "distretto": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.77098509032892,
-          44.72861856454349
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stato": "APERTA",
-        "tipologia": "Valvola a 2 vie",
-        "id": 8163,
-        "comune": "Tassarolo",
-        "distretto": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.772002536448232,
-          44.72848166888699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stato": "APERTA",
-        "tipologia": "Valvola a 2 vie",
-        "id": 8409,
-        "comune": "Tassarolo",
-        "distretto": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.766609907949904,
-          44.729219906675965
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stato": "APERTA",
-        "tipologia": "Valvola a 2 vie",
-        "id": 8410,
-        "comune": "Tassarolo",
-        "distretto": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.7662665410025,
-          44.72999638287821
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stato": "APERTA",
-        "tipologia": "Valvola a 2 vie",
-        "id": 8411,
-        "comune": "Tassarolo",
-        "distretto": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.766297905402196,
-          44.730003928461294
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stato": "APERTA",
-        "tipologia": "Valvola a 2 vie",
-        "id": 8412,
-        "comune": "Tassarolo",
-        "distretto": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.766257558742215,
-          44.73000676059928
+          480666.788714582,
+          4953828.26759791
         ]
       }
     },
@@ -1152,15 +733,13 @@
       "properties": {
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "id": 8631,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.769589173946455,
-          44.72651322310074
+          481493.789198404,
+          4952983.38640235
         ]
       }
     },
@@ -1169,15 +748,13 @@
       "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "id": 8793,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.736787494948507,
-          44.72950683071871
+          481493.225217906,
+          4952984.7536599
         ]
       }
     },
@@ -1186,15 +763,13 @@
       "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "id": 8814,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.732088386459516,
-          44.72777489286343
+          481495.258624803,
+          4952982.75695512
         ]
       }
     },
@@ -1203,15 +778,13 @@
       "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "id": 9100,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.735429938932011,
-          44.73069626288326
+          481951.3189643563,
+          4952262.953903693
         ]
       }
     },
@@ -1220,15 +793,13 @@
       "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "id": 9101,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.7583825897388,
-          44.72883629600631
+          482345.264153312,
+          4951887.174194996
         ]
       }
     },
@@ -1237,15 +808,13 @@
       "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "id": 9102,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.763903932356317,
-          44.72244176240075
+          481950.4168172123,
+          4952262.090980337
         ]
       }
     },
@@ -1254,15 +823,13 @@
       "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "id": 9103,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.764205227836062,
-          44.722247627096124
+          482213.59630903567,
+          4952961.858631852
         ]
       }
     },
@@ -1271,15 +838,13 @@
       "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "id": 9104,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.768889295383921,
-          44.728483077798195
+          481893.8405201002,
+          4953244.166818408
         ]
       }
     },
@@ -1288,15 +853,13 @@
       "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "id": 9105,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.768913218504872,
-          44.728471421688695
+          481894.32599953667,
+          4953244.096842529
         ]
       }
     },
@@ -1305,15 +868,13 @@
       "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "id": 9106,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.769431510788946,
-          44.72900073804129
+          481894.26923687686,
+          4953244.595604105
         ]
       }
     },
@@ -1322,15 +883,13 @@
       "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "id": 9107,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.76943711874092,
-          44.72901669111535
+          481936.9655658104,
+          4953061.41721997
         ]
       }
     },
@@ -1339,15 +898,13 @@
       "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "id": 9108,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.77095473526646,
-          44.72858907908406
+          481718.8262551695,
+          4952803.101925954
         ]
       }
     },
@@ -1356,15 +913,13 @@
       "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "id": 9109,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.77521974417709,
-          44.73042625075065
+          481865.16304642067,
+          4952830.953664095
         ]
       }
     },
@@ -1373,15 +928,13 @@
       "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "id": 9110,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.7713646858131,
-          44.73237415628146
+          481865.1195011331,
+          4952829.588062344
         ]
       }
     },
@@ -1390,15 +943,73 @@
       "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "id": 9111,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.770827081689509,
-          44.726221394789384
+          481945.6448792061,
+          4952814.155284596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stato": "APERTA",
+        "tipologia": "Valvola a 2 vie",
+        "comune": "Tassarolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          481518.8557565314,
+          4952897.370242794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stato": "APERTA",
+        "tipologia": "Valvola a 2 vie",
+        "comune": "Tassarolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          481491.91365000466,
+          4952983.700816366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stato": "APERTA",
+        "tipologia": "Valvola a 2 vie",
+        "comune": "Tassarolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          481494.39963311946,
+          4952984.531865478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stato": "APERTA",
+        "tipologia": "Valvola a 2 vie",
+        "comune": "Tassarolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          481491.20570315723,
+          4952984.85563705
         ]
       }
     },
@@ -1407,15 +1018,13 @@
       "properties": {
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "id": 9112,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.770794135676704,
-          44.72621644019906
+          481753.919965409,
+          4952596.0343806725
         ]
       }
     },
@@ -1424,15 +1033,13 @@
       "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "id": 9113,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.770024202261538,
-          44.727361362547846
+          480867.24377763167,
+          4952856.658529862
         ]
       }
     },
@@ -1441,15 +1048,13 @@
       "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "id": 9184,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.732069115022327,
-          44.72776436566245
+          481302.39799636323,
+          4952145.058381924
         ]
       }
     },
@@ -1458,15 +1063,13 @@
       "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "id": 9249,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.757276036836279,
-          44.73658510190887
+          481326.19661020045,
+          4952123.424317496
         ]
       }
     },
@@ -1475,15 +1078,118 @@
       "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "id": 9250,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.75730796844636,
-          44.73656285247332
+          481699.118181179,
+          4952815.006888234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stato": "APERTA",
+        "tipologia": "Valvola a 2 vie",
+        "comune": "Tassarolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          481701.0088979294,
+          4952813.706726616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stato": "APERTA",
+        "tipologia": "Valvola a 2 vie",
+        "comune": "Tassarolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          481742.217253618,
+          4952872.38790273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stato": "APERTA",
+        "tipologia": "Valvola a 2 vie",
+        "comune": "Tassarolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          481742.66634315095,
+          4952874.158745145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stato": "APERTA",
+        "tipologia": "Valvola a 2 vie",
+        "comune": "Tassarolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          481862.7065765031,
+          4952826.319519513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stato": "APERTA",
+        "tipologia": "Valvola a 2 vie",
+        "comune": "Tassarolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          482201.00118604937,
+          4953029.455016445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stato": "APERTA",
+        "tipologia": "Valvola a 2 vie",
+        "comune": "Tassarolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          481896.3499224404,
+          4953246.682483739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stato": "APERTA",
+        "tipologia": "Valvola a 2 vie",
+        "comune": "Tassarolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          481851.85781571566,
+          4952563.340835201
         ]
       }
     },
@@ -1492,15 +1198,13 @@
       "properties": {
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "id": 9251,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.75728524667745,
-          44.73657007611463
+          481849.2472802304,
+          4952562.797813686
         ]
       }
     },
@@ -1509,15 +1213,13 @@
       "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "id": 9324,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.770030381020833,
-          44.72686077345377
+          481788.6356907408,
+          4952690.150007588
         ]
       }
     },
@@ -1526,15 +1228,73 @@
       "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "id": 9325,
-        "comune": "Tassarolo",
-        "distretto": null
+        "comune": "Tassarolo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.770081631051292,
-          44.726887331456304
+          480782.1864711444,
+          4953717.672916718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stato": "APERTA",
+        "tipologia": "Valvola a 2 vie",
+        "comune": "Tassarolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          480784.70730696665,
+          4953715.193862705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stato": "CHIUSA",
+        "tipologia": "Valvola a 2 vie",
+        "comune": "Tassarolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          480782.91068917065,
+          4953716.00164435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stato": "APERTA",
+        "tipologia": "Valvola a 2 vie",
+        "comune": "Tassarolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          481788.9679095521,
+          4952634.542185612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stato": "APERTA",
+        "tipologia": "Valvola a 2 vie",
+        "comune": "Tassarolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          481793.03467231564,
+          4952637.480839526
         ]
       }
     }

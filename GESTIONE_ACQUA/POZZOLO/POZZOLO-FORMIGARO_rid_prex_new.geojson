@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "name": "rid_prex",
+  "name": "riduttori",
   "crs": {
     "type": "name",
     "properties": {
@@ -11,68 +11,28 @@
     {
       "type": "Feature",
       "properties": {
-        "rot": 323.493171483048,
-        "layer": "RA_03ridprex",
         "comune": "Pozzolo Formigaro",
-        "marca": null,
-        "modello": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "prex_monte": null,
-        "alt_rel": null,
-        "prex_valle": null,
-        "data_ui": null,
-        "ui_operatore": null,
-        "tipo_giunz": null,
-        "anno_posa": 1980,
-        "x": 482521.43,
-        "y": 4960782.21,
-        "rotazione": 323.49,
-        "id": 83,
-        "quota": 160.4600067138672,
-        "pnrr": null,
-        "distretto_modello": null
+        "distretto_modello": "POZ-DPZ03"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.7790143893657,
-          44.800239156389694
+          482522.53959209693,
+          4960783.641875764
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "rot": 246,
-        "layer": null,
         "comune": "Pozzolo Formigaro",
-        "marca": null,
-        "modello": null,
-        "materiale": null,
-        "dn": null,
-        "pn": null,
-        "prex_monte": null,
-        "alt_rel": null,
-        "prex_valle": null,
-        "data_ui": null,
-        "ui_operatore": null,
-        "tipo_giunz": null,
-        "anno_posa": null,
-        "x": null,
-        "y": null,
-        "rotazione": null,
-        "id": 228,
-        "quota": null,
-        "pnrr": false,
-        "distretto_modello": null
+        "distretto_modello": "POZ-DPZ03"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.773361319569295,
-          44.78731575428581
+          482071.4448595947,
+          4959349.298298937
         ]
       }
     }

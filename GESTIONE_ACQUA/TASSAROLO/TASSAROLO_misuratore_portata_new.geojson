@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "name": "misuratore_portata",
+  "name": "misuratori",
   "crs": {
     "type": "name",
     "properties": {
@@ -11,161 +11,120 @@
     {
       "type": "Feature",
       "properties": {
-        "tipo": "PORTATA",
-        "prex_eser": null,
-        "x": 478784,
-        "y": 4952743,
-        "codice": "MIS07",
-        "comune": "Tassarolo",
-        "localita": "Pozzo Biuta (comune di Francavilla Bisio)",
-        "via": null,
-        "doc": null,
-        "id": 22,
-        "rot": 270
+        "codice": "TAS_MIS07",
+        "lon": 8.732084,
+        "lat": 44.727755
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.732083686537516,
-          44.7277550414847
+          478784.3390707876,
+          4952743.06731612
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "tipo": "PORTATA",
-        "prex_eser": null,
-        "x": 481303,
-        "y": 4952144,
-        "codice": "MIS04",
-        "comune": "Tassarolo",
-        "localita": null,
-        "via": "Strada Comunale Cavallari",
-        "doc": null,
-        "id": 23,
-        "rot": 280
+        "codice": "TAS_MIS04",
+        "lon": 8.763915,
+        "lat": 44.722431
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.763915171579544,
-          44.72243115232143
+          481303.2846681809,
+          4952143.877213159
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "tipo": "PORTATA",
-        "prex_eser": null,
-        "x": 481700,
-        "y": 4952814,
-        "codice": "MIS03",
-        "comune": "Tassarolo",
-        "localita": null,
-        "via": "strada Francavilla",
-        "doc": null,
-        "id": 24,
-        "rot": 255
+        "codice": "TAS_MIS03",
+        "lon": 8.7689,
+        "lat": 44.728478
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.768900135802095,
-          44.728478246137726
+          481699.97507411917,
+          4952814.46774086
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "tipo": "PORTATA",
-        "prex_eser": null,
-        "x": 481742,
-        "y": 4952873,
-        "codice": "MIS01",
-        "comune": "Tassarolo",
-        "localita": null,
-        "via": "Via Vecchia Novi Ligure",
-        "doc": null,
-        "id": 25,
-        "rot": 330
+        "codice": "TAS_MIS01",
+        "lon": 8.769435,
+        "lat": 44.729008
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.769434547300587,
-          44.729008060374234
+          481742.4600061644,
+          4952873.20060146
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "tipo": "PORTATA",
-        "prex_eser": null,
-        "x": 481863,
-        "y": 4952828,
-        "codice": "MIS02",
-        "comune": "Tassarolo",
-        "localita": null,
-        "via": "Via Crosa",
-        "doc": null,
-        "id": 26,
-        "rot": 0
+        "codice": "TAS_MIS06",
+        "lon": 8.770807,
+        "lat": 44.726218
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.770963711983867,
-          44.728599741719975
+          481850.2644384133,
+          4952562.982861729
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "tipo": "PORTATA",
-        "prex_eser": null,
-        "x": 481850,
-        "y": 4952563,
-        "codice": "MIS06",
-        "comune": "Tassarolo",
-        "localita": null,
-        "via": "Via Campolasso",
-        "doc": null,
-        "id": 27,
-        "rot": 45
+        "codice": "TAS_MIS05",
+        "lon": 8.770022,
+        "lat": 44.727369
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.770806973566529,
-          44.72621813183203
+          481788.4244091249,
+          4952691.026546969
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "tipo": "PORTATA",
-        "prex_eser": null,
-        "x": 481788,
-        "y": 4952691,
-        "codice": "MIS05",
-        "comune": "Tassarolo",
-        "localita": null,
-        "via": "Via Giuseppe Garibaldi",
-        "doc": null,
-        "id": 28,
-        "rot": 120
+        "codice": "TAS_MIS02",
+        "lon": 8.770964,
+        "lat": 44.7286
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.770021502920766,
-          44.727369248033426
+          481863.42074344173,
+          4952827.501947025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "codice": "TAS_BOOSTER_GOLF",
+        "lon": 8.7573,
+        "lat": 44.736577
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          480784.056931242,
+          4953716.79591282
         ]
       }
     }
