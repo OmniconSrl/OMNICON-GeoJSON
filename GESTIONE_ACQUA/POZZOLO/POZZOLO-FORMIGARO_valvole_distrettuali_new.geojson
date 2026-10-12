@@ -13,16 +13,13 @@
       "properties": {
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "id": 1524,
-        "codice": "Va",
-        "comune": "Pozzolo Formigaro",
-        "distretto": null
+        "comune": "Pozzolo Formigaro"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.78090069711911,
-          44.79143794643715
+          482951.2365540939,
+          4959789.12422446
         ]
       }
     },
@@ -31,16 +28,13 @@
       "properties": {
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "id": 1526,
-        "codice": "VB",
-        "comune": "Pozzolo Formigaro",
-        "distretto": null
+        "comune": "Pozzolo Formigaro"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.783726236380463,
-          44.78989170938834
+          482641.9436756589,
+          4959950.65715709
         ]
       }
     },
@@ -49,16 +43,13 @@
       "properties": {
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "id": 1567,
-        "codice": null,
-        "comune": "Pozzolo Formigaro",
-        "distretto": null
+        "comune": "Pozzolo Formigaro"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.780129115483856,
-          44.797388751652996
+          482669.091020276,
+          4959805.57032589
         ]
       }
     },
@@ -67,16 +58,13 @@
       "properties": {
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "id": 1584,
-        "codice": "VD",
-        "comune": "Pozzolo Formigaro",
-        "distretto": null
+        "comune": "Pozzolo Formigaro"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.784468138336733,
-          44.79129668265016
+          482609.84564866323,
+          4960466.770222371
         ]
       }
     },
@@ -85,16 +73,13 @@
       "properties": {
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "id": 1623,
-        "codice": null,
-        "comune": "Pozzolo Formigaro",
-        "distretto": null
+        "comune": "Pozzolo Formigaro"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.780568927834498,
-          44.79274227365061
+          482892.136400096,
+          4959633.21103886
         ]
       }
     },
@@ -103,16 +88,13 @@
       "properties": {
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "id": 1624,
-        "codice": null,
-        "comune": "Pozzolo Formigaro",
-        "distretto": null
+        "comune": "Pozzolo Formigaro"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.780552550383177,
-          44.79274338674751
+          485595.955220412,
+          4961606.6890519
         ]
       }
     },
@@ -121,16 +103,13 @@
       "properties": {
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "id": 1652,
-        "codice": null,
-        "comune": "Pozzolo Formigaro",
-        "distretto": null
+        "comune": "Pozzolo Formigaro"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.81785123175063,
-          44.80771696675054
+          482908.56997874,
+          4960719.50913575
         ]
       }
     },
@@ -139,16 +118,13 @@
       "properties": {
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "id": 1670,
-        "codice": null,
-        "comune": "Pozzolo Formigaro",
-        "distretto": null
+        "comune": "Pozzolo Formigaro"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.779176042666435,
-          44.80018807339254
+          482976.181898971,
+          4959798.29359263
         ]
       }
     },
@@ -157,16 +133,13 @@
       "properties": {
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "id": 1685,
-        "codice": "",
-        "comune": "Pozzolo Formigaro",
-        "distretto": null
+        "comune": "Pozzolo Formigaro"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.78478319043641,
-          44.79137982179351
+          482643.23878079944,
+          4959950.530015052
         ]
       }
     },
@@ -175,16 +148,13 @@
       "properties": {
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "id": 1691,
-        "codice": "VG",
-        "comune": "Pozzolo Formigaro",
-        "distretto": null
+        "comune": "Pozzolo Formigaro"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.783897490873763,
-          44.79967116212522
+          482535.3091284392,
+          4960777.932667715
         ]
       }
     }

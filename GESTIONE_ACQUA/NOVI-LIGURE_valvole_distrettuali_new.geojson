@@ -13,16 +13,13 @@
       "properties": {
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "id": 4,
-        "codice": null,
-        "comune": "Novi Ligure",
-        "distretto": "DNL09"
+        "comune": "Novi Ligure"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.755877941632418,
-          44.77167489464338
+          482913.656665685,
+          4956071.457964783
         ]
       }
     },
@@ -31,16 +28,13 @@
       "properties": {
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "id": 19,
-        "codice": null,
-        "comune": "Novi Ligure",
-        "distretto": "DNL02"
+        "comune": "Novi Ligure"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.769681831780233,
-          44.764480120920055
+          485616.459043536,
+          4957063.04224079
         ]
       }
     },
@@ -49,16 +43,13 @@
       "properties": {
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "id": 20,
-        "codice": null,
-        "comune": "Novi Ligure",
-        "distretto": "DNL07"
+        "comune": "Novi Ligure"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.770847528842364,
-          44.763882834522974
+          482081.7609012548,
+          4956053.408360958
         ]
       }
     },
@@ -67,16 +58,13 @@
       "properties": {
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "id": 23,
-        "codice": null,
-        "comune": "Novi Ligure",
-        "distretto": "DNL07"
+        "comune": "Novi Ligure"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.771784896983824,
-          44.76345509107236
+          481773.192011291,
+          4956813.46634148
         ]
       }
     },
@@ -85,16 +73,13 @@
       "properties": {
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "id": 29,
-        "codice": null,
-        "comune": "Novi Ligure",
-        "distretto": "DNL07"
+        "comune": "Novi Ligure"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.774465493792658,
-          44.762517104666955
+          481865.2555243405,
+          4956746.857663381
         ]
       }
     },
@@ -103,16 +88,13 @@
       "properties": {
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "id": 48,
-        "codice": null,
-        "comune": "Novi Ligure",
-        "distretto": "DNL07"
+        "comune": "Novi Ligure"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.773986133665963,
-          44.7583870943489
+          481939.30400760623,
+          4956699.13426155
         ]
       }
     },
@@ -121,16 +103,13 @@
       "properties": {
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "id": 51,
-        "codice": null,
-        "comune": "Novi Ligure",
-        "distretto": "DNL06"
+        "comune": "Novi Ligure"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.773607671081544,
-          44.75764569711825
+          482151.1547328186,
+          4956594.348672027
         ]
       }
     },
@@ -139,16 +118,28 @@
       "properties": {
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "id": 128,
-        "codice": null,
-        "comune": "Novi Ligure",
-        "distretto": "DNL06"
+        "comune": "Novi Ligure"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.784117778158478,
-          44.75782853580951
+          482111.943769897,
+          4956135.68143055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stato": "CHIUSA",
+        "tipologia": "Valvola a 2 vie",
+        "comune": "Novi Ligure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          480683.18447424547,
+          4957615.866970794
         ]
       }
     },
@@ -157,16 +148,13 @@
       "properties": {
         "stato": "APERTA",
         "tipologia": "Valvola a 2 vie",
-        "id": 231,
-        "codice": null,
-        "comune": "Novi Ligure",
-        "distretto": "DNL01.2"
+        "comune": "Novi Ligure"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.797545410929747,
-          44.76570455585606
+          483328.9140128832,
+          4957529.96855415
         ]
       }
     },
@@ -175,34 +163,13 @@
       "properties": {
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "id": 234,
-        "codice": null,
-        "comune": "Novi Ligure",
-        "distretto": "DNL01.2"
+        "comune": "Novi Ligure"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.794343188090284,
-          44.7663571877394
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stato": "APERTA",
-        "tipologia": "Valvola a 2 vie",
-        "id": 237,
-        "codice": null,
-        "comune": "Novi Ligure",
-        "distretto": "DNL01.2"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.795724815613923,
-          44.766085119085446
+          483309.1873542427,
+          4956680.6426686235
         ]
       }
     },
@@ -211,16 +178,13 @@
       "properties": {
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "id": 238,
-        "codice": null,
-        "comune": "Novi Ligure",
-        "distretto": "DNL01.2"
+        "comune": "Novi Ligure"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.79594962524115,
-          44.766854239857565
+          483612.42015094747,
+          4956437.678725574
         ]
       }
     },
@@ -229,16 +193,13 @@
       "properties": {
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "id": 250,
-        "codice": null,
-        "comune": "Novi Ligure",
-        "distretto": "DNL01.2"
+        "comune": "Novi Ligure"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.797806828427726,
-          44.76678033155416
+          482113.018806806,
+          4957466.72571189
         ]
       }
     },
@@ -247,16 +208,13 @@
       "properties": {
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "id": 279,
-        "codice": null,
-        "comune": "Novi Ligure",
-        "distretto": "DNL01.2"
+        "comune": "Novi Ligure"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.788991948995891,
-          44.769935144060085
+          482738.34724177135,
+          4956972.365813977
         ]
       }
     },
@@ -265,16 +223,13 @@
       "properties": {
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "id": 285,
-        "codice": null,
-        "comune": "Novi Ligure",
-        "distretto": "DNL01"
+        "comune": "Novi Ligure"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.79217121908416,
-          44.7723939944976
+          484953.32425672445,
+          4958213.520041496
         ]
       }
     },
@@ -283,16 +238,13 @@
       "properties": {
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "id": 290,
-        "codice": null,
-        "comune": "Novi Ligure",
-        "distretto": "DNL01.2"
+        "comune": "Novi Ligure"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.789237342688923,
-          44.770581595565375
+          483725.357653301,
+          4957016.74727467
         ]
       }
     },
@@ -301,16 +253,13 @@
       "properties": {
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "id": 295,
-        "codice": null,
-        "comune": "Novi Ligure",
-        "distretto": "DNL01.2"
+        "comune": "Novi Ligure"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.78847802584301,
-          44.76858004127509
+          483852.621464448,
+          4957071.64111977
         ]
       }
     },
@@ -319,16 +268,13 @@
       "properties": {
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "id": 316,
-        "codice": null,
-        "comune": "Novi Ligure",
-        "distretto": "DNL02"
+        "comune": "Novi Ligure"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.78584972012044,
-          44.76214731585008
+          483999.569495688,
+          4957063.06426111
         ]
       }
     },
@@ -337,16 +283,13 @@
       "properties": {
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "id": 414,
-        "codice": null,
-        "comune": "Novi Ligure",
-        "distretto": "DNL01"
+        "comune": "Novi Ligure"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.794134929769847,
-          44.77204754089891
+          483302.9183900577,
+          4957415.281032899
         ]
       }
     },
@@ -355,16 +298,13 @@
       "properties": {
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "id": 458,
-        "codice": null,
-        "comune": "Novi Ligure",
-        "distretto": "DNL09"
+        "comune": "Novi Ligure"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.765529798933043,
-          44.76958815234619
+          483555.192024508,
+          4957687.76959055
         ]
       }
     },
@@ -373,34 +313,13 @@
       "properties": {
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "id": 553,
-        "codice": null,
-        "comune": "Novi Ligure",
-        "distretto": "DNL01.3"
+        "comune": "Novi Ligure"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.803648711387428,
-          44.7644148075027
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stato": "APERTA",
-        "tipologia": "Valvola a 2 vie",
-        "id": 554,
-        "codice": null,
-        "comune": "Novi Ligure",
-        "distretto": "DNL01"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.803554318281925,
-          44.766104180422346
+          483322.522444833,
+          4957487.04037045
         ]
       }
     },
@@ -409,16 +328,13 @@
       "properties": {
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "id": 559,
-        "codice": null,
-        "comune": "Novi Ligure",
-        "distretto": "DNL01"
+        "comune": "Novi Ligure"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.798434902838702,
-          44.763902146001186
+          483261.8602479153,
+          4957264.857991634
         ]
       }
     },
@@ -427,16 +343,13 @@
       "properties": {
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "id": 560,
-        "codice": null,
-        "comune": "Novi Ligure",
-        "distretto": "DNL01"
+        "comune": "Novi Ligure"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.798430595722623,
-          44.76389935389561
+          483051.9965788607,
+          4956550.8372637965
         ]
       }
     },
@@ -445,16 +358,13 @@
       "properties": {
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "id": 745,
-        "codice": "VA02",
-        "comune": "Novi Ligure",
-        "distretto": "DNL08.1"
+        "comune": "Novi Ligure"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.818238922480644,
-          44.76681447882191
+          483710.4766117027,
+          4957648.889449105
         ]
       }
     },
@@ -463,16 +373,13 @@
       "properties": {
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "id": 906,
-        "codice": null,
-        "comune": "Novi Ligure",
-        "distretto": "DNL02"
+        "comune": "Novi Ligure"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.793399589403426,
-          44.75867506165154
+          481446.24565587664,
+          4957381.819202891
         ]
       }
     },
@@ -481,16 +388,13 @@
       "properties": {
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "id": 943,
-        "codice": null,
-        "comune": "Novi Ligure",
-        "distretto": "DNL01"
+        "comune": "Novi Ligure"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.78909523798819,
-          44.76332190289513
+          484461.229133748,
+          4956799.16305811
         ]
       }
     },
@@ -499,16 +403,13 @@
       "properties": {
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "id": 955,
-        "codice": null,
-        "comune": "Novi Ligure",
-        "distretto": "DNL01.2"
+        "comune": "Novi Ligure"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.78861547784375,
-          44.76902094479271
+          484048.85467667744,
+          4956742.838623427
         ]
       }
     },
@@ -517,52 +418,13 @@
       "properties": {
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "id": 1024,
-        "codice": null,
-        "comune": "Novi Ligure",
-        "distretto": "DNL01.2"
+        "comune": "Novi Ligure"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.801771361818155,
-          44.765899423507676
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stato": "APERTA",
-        "tipologia": "Valvola a 2 vie",
-        "id": 1025,
-        "codice": null,
-        "comune": "Novi Ligure",
-        "distretto": "DNL01.2"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.801804182150397,
-          44.765903716690154
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stato": "APERTA",
-        "tipologia": "Valvola a 2 vie",
-        "id": 1027,
-        "codice": null,
-        "comune": "Novi Ligure",
-        "distretto": "DNL01"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.80094067570794,
-          44.768635716554456
+          484048.0105924481,
+          4956741.946678751
         ]
       }
     },
@@ -571,16 +433,13 @@
       "properties": {
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "id": 1050,
-        "codice": null,
-        "comune": "Novi Ligure",
-        "distretto": "DNL02"
+        "comune": "Novi Ligure"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.77395299350619,
-          44.77036948788796
+          483648.519227083,
+          4956163.58520265
         ]
       }
     },
@@ -589,16 +448,13 @@
       "properties": {
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "id": 1065,
-        "codice": null,
-        "comune": "Novi Ligure",
-        "distretto": "DNL09"
+        "comune": "Novi Ligure"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.755583396489754,
-          44.76907063049996
+          483272.864342121,
+          4957313.8065263
         ]
       }
     },
@@ -607,16 +463,13 @@
       "properties": {
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "id": 1417,
-        "codice": null,
-        "comune": "Novi Ligure",
-        "distretto": "DNL01.3"
+        "comune": "Novi Ligure"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.795158921469804,
-          44.76250453542868
+          484313.06197219866,
+          4956964.438527796
         ]
       }
     },
@@ -625,52 +478,13 @@
       "properties": {
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "id": 5741,
-        "codice": null,
-        "comune": "Novi Ligure",
-        "distretto": "DNL09"
+        "comune": "Novi Ligure"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.76338966598678,
-          44.7682689119413
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stato": "APERTA",
-        "tipologia": "Valvola a 2 vie",
-        "id": 6120,
-        "codice": null,
-        "comune": "Novi Ligure",
-        "distretto": "DNL01.2"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.78794317263584,
-          44.76760358664112
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stato": "APERTA",
-        "tipologia": "Valvola a 2 vie",
-        "id": 7060,
-        "codice": null,
-        "comune": "Novi Ligure",
-        "distretto": "DNL01.3"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.806039643214755,
-          44.76197308334095
+          480659.008674006,
+          4957326.64787038
         ]
       }
     },
@@ -679,16 +493,13 @@
       "properties": {
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "id": 7574,
-        "codice": null,
-        "comune": "Novi Ligure",
-        "distretto": "DNL03"
+        "comune": "Novi Ligure"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.809833152763932,
-          44.77716353986301
+          483788.833235484,
+          4956588.6212888
         ]
       }
     },
@@ -697,16 +508,13 @@
       "properties": {
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "id": 7966,
-        "codice": null,
-        "comune": "Novi Ligure",
-        "distretto": "DNL04"
+        "comune": "Novi Ligure"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.805940867242834,
-          44.74536955678146
+          481276.469566823,
+          4957235.76455745
         ]
       }
     },
@@ -715,16 +523,13 @@
       "properties": {
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "id": 7990,
-        "codice": null,
-        "comune": "Novi Ligure",
-        "distretto": "DNL01"
+        "comune": "Novi Ligure"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.800173361327438,
-          44.76522636308692
+          484637.57982518023,
+          4954683.1329668425
         ]
       }
     },
@@ -733,16 +538,13 @@
       "properties": {
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "id": 8152,
-        "codice": null,
-        "comune": "Novi Ligure",
-        "distretto": "DNL01.3"
+        "comune": "Novi Ligure"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.794235256407685,
-          44.76213298921197
+          484144.8770038153,
+          4957343.324229337
         ]
       }
     },
@@ -751,34 +553,13 @@
       "properties": {
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "id": 8156,
-        "codice": null,
-        "comune": "Novi Ligure",
-        "distretto": "DNL01"
+        "comune": "Novi Ligure"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.792934668953212,
-          44.761141693587696
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stato": "APERTA",
-        "tipologia": "Valvola a 2 vie",
-        "id": 8157,
-        "codice": null,
-        "comune": "Novi Ligure",
-        "distretto": "DNL01"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.794945505425632,
-          44.762630585928584
+          484186.41964742314,
+          4956889.982469988
         ]
       }
     },
@@ -787,34 +568,13 @@
       "properties": {
         "stato": "CHIUSA",
         "tipologia": "Valvola a 2 vie",
-        "id": 8675,
-        "codice": null,
-        "comune": "Novi Ligure",
-        "distretto": "DNL02"
+        "comune": "Novi Ligure"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.781872283146933,
-          44.765934514926315
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stato": "CHIUSA",
-        "tipologia": "Valvola a 2 vie",
-        "id": 9316,
-        "codice": null,
-        "comune": "Novi Ligure",
-        "distretto": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.789316711057312,
-          44.77096819393993
+          483716.190468288,
+          4956547.1509026615
         ]
       }
     }
