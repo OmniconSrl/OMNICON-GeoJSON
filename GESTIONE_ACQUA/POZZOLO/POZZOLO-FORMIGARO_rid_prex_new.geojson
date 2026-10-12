@@ -4,7 +4,7 @@
   "crs": {
     "type": "name",
     "properties": {
-      "name": "urn:ogc:def:crs:EPSG::32632"
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
     }
   },
   "features": [
@@ -17,8 +17,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          482522.53959209693,
-          4960783.641875764
+          8.7790143893657,
+          44.800239156389694
         ]
       }
     },
@@ -31,8 +31,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          482071.4448595947,
-          4959349.298298937
+          8.773361319569295,
+          44.78731575428581
         ]
       }
     }
