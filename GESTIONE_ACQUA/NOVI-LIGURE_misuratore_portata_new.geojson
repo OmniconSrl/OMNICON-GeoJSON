@@ -487,6 +487,21 @@
           44.76833587949606
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "codice": "ILVA_IND",
+        "lon": 8.768596,
+        "lat": 44.774765
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.768596,
+          44.774765
+        ]
+      }
     }
   ]
 }
